@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Lora|Merriweather:300,300i');
+
+// Set your brand colors
+$purple: #3B3049;
+$green: #B0C4A7;
+$blue: #C4E0EC;
+
+/**
+Update Bulma's global variables
+**/
+
+//fonts
+$family-primary: "Merriweather", serif;
+$family-secondary: "Lora", serif;
+$body-family: $family-primary;
+$title-weight: 300;
+h1, h2, h3, h4, h5, h6 { font-family: $family-secondary; }
+$body-color: #000;
+
+//links
+$link: $purple;
+$link-hover: orange;
+
+//sizing
+$size-1: 3rem;
+$body-size: 17px;
+
+//Colors
+$primary: $purple;
+$info: $blue;
+
+
+/**
+Update some of Bulma's component variables 
+**/
+
+//navbar
+$navbar-height: 5rem;
+$navbar-item-img-max-height: 3rem;
+
+//buttons
+$button-border-width: 3px;
+$button-padding-vertical: 1.5rem;
+$control-radius: 0;
+
+//title
+$title-color: $purple;
+
+//footer
+$footer-background-color: $green;
+
+
+@import "../../../node_modules/bulma/bulma.sass";
+
