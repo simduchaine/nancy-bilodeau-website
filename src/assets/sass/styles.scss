@@ -1,32 +1,35 @@
 @charset "utf-8";
 
 // Import a Google Font
-@import url('https://fonts.googleapis.com/css?family=Lora|Merriweather:300,300i');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i|Oswald:500');
 
 // Set your brand colors
 $purple: #3B3049;
 $green: #B0C4A7;
 $blue: #C4E0EC;
+$orange: #D05208;
+$light-black: #323232;
 
 /**
 Update Bulma's global variables
 **/
 
 //fonts
-$family-primary: "Merriweather", serif;
-$family-secondary: "Lora", serif;
+$family-primary: "Open Sans Condensed", sans-serif;
+$family-secondary: "Oswald", sans-serif;
 $body-family: $family-primary;
-$title-weight: 300;
+$title-weight: 500;
 h1, h2, h3, h4, h5, h6 { font-family: $family-secondary; }
 $body-color: #000;
 
 //links
 $link: $purple;
-$link-hover: orange;
+$link-hover: $orange;
 
 //sizing
 $size-1: 3rem;
-$body-size: 17px;
+$size-3: 1.6rem;
+$body-size: 24px;
 
 //Colors
 $primary: $purple;
@@ -38,19 +41,34 @@ Update some of Bulma's component variables
 **/
 
 //navbar
-$navbar-height: 5rem;
-$navbar-item-img-max-height: 3rem;
+$navbar-height: 3rem;
+$navbar-item-img-max-height: 2rem;
 
 //buttons
 $button-border-width: 3px;
 $button-padding-vertical: 1.5rem;
 $control-radius: 0;
+$button-color: $orange;
+$button-border-color: $orange;
+$button-hover-color: $purple;
+$button-hover-border-color: $purple;
+$button-focus-color: $purple;
+$button-focus-border-color: $purple;
+$button-focus-box-shadow-size: 0;
+
+//input
+$input-border-color: $light-black;
+$input-shadow: none;
+$input-background-color: transparent;
+$input-focus-box-shadow-size: 0;
+$input-hover-border-color: $purple;
 
 //title
 $title-color: $purple;
 
 //footer
 $footer-background-color: $green;
+$footer-padding: 3rem 1.5rem 1rem;
 
 
 @import "../../../node_modules/bulma/bulma.sass";

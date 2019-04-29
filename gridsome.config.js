@@ -20,12 +20,28 @@ function addStyleResource (rule) {
 
 module.exports = {
   siteName: 'Nancy Bilodeau',
+  transformers: {
+    remark: {
+      externalLinksTarget: '_blank',
+      externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
+      anchorClassName: 'icon icon-link',
+      plugins: [
+        // ...global plugins
+      ]
+    }
+  },
   plugins: [
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'data/Home.yml',
-        typeName: 'HomeContent'
+        path: 'data/home/**/*.md',
+        typeName: 'services',
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
       }
     }
   ],

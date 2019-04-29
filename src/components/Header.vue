@@ -9,25 +9,36 @@
         <div class="container is-fluid">
           <div class="navbar-brand">
               <g-link to="/" class="navbar-item">
-                  <g-image src="~/images/nancy-bilodeau-logo.svg" />
+                  <g-image src="~/assets/img/nancy-bilodeau-logo.svg" />
               </g-link>
 
-              <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+              <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar">
                   <span aria-hidden="true"></span>
                   <span aria-hidden="true"></span>
                   <span aria-hidden="true"></span>
               </a>
           </div>
 
-          <div id="navbarBasicExample" class="navbar-menu is-family-secondary is-size-5">
+          <div id="navbar" class="navbar-menu is-size-6">
               <div class="navbar-end">
-                  <g-link class="navbar-item" to="/">
-                      Home
+                  <g-link class="navbar-item" to="/a-propos">
+                      Bio
                   </g-link>
-
-                  <g-link class="navbar-item" to="/about">
-                      About
-                  </g-link>
+                  <div class="navbar-item">
+                    <a href="https://www.facebook.com/NancyBilodeauCoaching/">
+                      <font-awesome :icon="['fab', 'facebook-f']" />
+                   </a>
+                  </div>
+                  <div class="navbar-item">
+                    <a href="https://www.youtube.com/channel/UCPdog-IyIN6GGL4sEl5gMdA">
+                      <font-awesome :icon="['fab', 'youtube']"/>
+                    </a>
+                  </div>
+                  <div class="navbar-item">
+                    <a href="#">
+                      <font-awesome :icon="['fab', 'linkedin-in']"/>
+                    </a>
+                  </div>
               </div>
           </div>
         </div>

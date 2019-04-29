@@ -6,7 +6,7 @@
                 <vue-typed-js :strings="['joie', 'santé', 'cohérence', 'énergie', 'vitalité', 'bonheur', 'amour', 'ouverture', 'acceptation', 'résilience', 'vie']" :loop="true" :typeSpeed="150" :startDelay="1000" :backDelay="2000">
                     <h1 class="title is-1">+ de <span class="typing"></span></h1>
                 </vue-typed-js>
-                <g-image src="~/images/smile.svg" />
+                <!-- <g-image src="~/images/smile.svg" /> -->
             </div>
         </div>
     </section>
@@ -41,14 +41,14 @@ export default {
     &.is-medium {
 
         .hero-body {
-            padding-bottom: 13rem;
-            padding-top: 13rem;
+            padding-bottom: 9rem;
+            padding-top: 9rem;
         }
 
     }
 
     .title {
-        font-size: 6rem;
+        font-size: 5rem;
     }
 }
 

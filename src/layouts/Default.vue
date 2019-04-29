@@ -3,7 +3,7 @@
 
     <custom-header />
 
-    <div class="container is-fluid">
+    <div style="margin-top: 6rem;">
       <slot/>
     </div>
 
@@ -26,6 +26,26 @@ export default {
 
 
 <style>
+footer {
+  margin-top: -0.4rem;
+}
 
+p, ul {
+  padding-bottom: 1.5rem;
+}
+
+li {
+  padding-bottom: 0.2rem;
+}
+
+/* ul {
+    list-style: disc;
+    list-style-position: inside;
+    padding-bottom: 1.5rem;
+
+    li {
+      padding-bottom: 0.2rem;
+    }
+  } */
 
 </style>
