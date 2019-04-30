@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
@@ -20,3 +20,4 @@ build:
   publish_command: vuepress build -d .vuepress/dist
   preview_output_directory: dist
   output_directory: ".vuepress/dist"
+  instant_preview_command: vuepress dev -p 8080 -h 0.0.0.0
