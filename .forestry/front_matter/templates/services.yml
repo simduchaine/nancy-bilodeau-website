@@ -7,7 +7,7 @@ fields:
   label: thumbnail
 - type: text
   name: title
-  label: title
+  label: Title
 - type: number
   name: Position
   label: Position
