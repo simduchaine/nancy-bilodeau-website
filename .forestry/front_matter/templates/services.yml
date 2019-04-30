@@ -2,12 +2,15 @@
 label: Services
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: Titre
+  config:
+    required: true
 - type: file
   name: thumbnail
   label: thumbnail
-- type: text
-  name: title
-  label: Title
 - type: number
   name: Position
   label: Position
+  description: Ordre d'affichage du service
