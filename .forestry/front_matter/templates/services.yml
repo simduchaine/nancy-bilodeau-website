@@ -1,0 +1,13 @@
+---
+label: Services
+hide_body: false
+fields:
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: title
+  label: title
+- type: number
+  name: Position
+  label: Position
