@@ -1,50 +1,54 @@
 <template>
-    <header class="header">
-      
-      <!-- <strong>
+  <header class="header">
+    <!-- <strong>
         <g-link to="/">{{ $static.metaData.siteName }}</g-link>
-      </strong> -->
+    </strong>-->
 
-      <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
-        <div class="container is-fluid">
-          <div class="navbar-brand">
-              <g-link to="/" class="navbar-item">
-                  <g-image src="~/assets/img/nancy-bilodeau-logo.svg" />
-              </g-link>
+    <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
+      <div class="container is-fluid">
+        <div class="navbar-brand">
+          <g-link to="/" class="navbar-item">
+            <g-image src="~/assets/img/nancy-bilodeau-logo.svg"/>
+          </g-link>
 
-              <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar">
-                  <span aria-hidden="true"></span>
-                  <span aria-hidden="true"></span>
-                  <span aria-hidden="true"></span>
+          <a
+            role="button"
+            class="navbar-burger burger"
+            aria-label="menu"
+            aria-expanded="false"
+            data-target="navbar"
+          >
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+
+        <div id="navbar" class="navbar-menu is-size-6">
+          <div class="navbar-end">
+            <g-link class="navbar-item" to="/coaching">Coaching</g-link>
+            <g-link class="navbar-item" to="/cure">Cure</g-link>
+            <g-link class="navbar-item" to="/a-propos">Bio</g-link>
+            <div class="navbar-item">
+              <a href="https://www.facebook.com/NancyBilodeauCoaching/">
+                <font-awesome :icon="['fab', 'facebook-f']"/>
               </a>
-          </div>
-
-          <div id="navbar" class="navbar-menu is-size-6">
-              <div class="navbar-end">
-                  <g-link class="navbar-item" to="/a-propos">
-                      Bio
-                  </g-link>
-                  <div class="navbar-item">
-                    <a href="https://www.facebook.com/NancyBilodeauCoaching/">
-                      <font-awesome :icon="['fab', 'facebook-f']" />
-                   </a>
-                  </div>
-                  <div class="navbar-item">
-                    <a href="https://www.youtube.com/channel/UCPdog-IyIN6GGL4sEl5gMdA">
-                      <font-awesome :icon="['fab', 'youtube']"/>
-                    </a>
-                  </div>
-                  <div class="navbar-item">
-                    <a href="#">
-                      <font-awesome :icon="['fab', 'linkedin-in']"/>
-                    </a>
-                  </div>
-              </div>
+            </div>
+            <div class="navbar-item">
+              <a href="https://www.youtube.com/channel/UCPdog-IyIN6GGL4sEl5gMdA">
+                <font-awesome :icon="['fab', 'youtube']"/>
+              </a>
+            </div>
+            <div class="navbar-item">
+              <a href="#">
+                <font-awesome :icon="['fab', 'linkedin-in']"/>
+              </a>
+            </div>
           </div>
         </div>
-      </nav>
-
-    </header>
+      </div>
+    </nav>
+  </header>
 </template>
 
 <static-query>
@@ -57,8 +61,8 @@ query {
 
 <script>
 export default {
-    name: 'Header',
-    mounted() {
+  name: "Header",
+  mounted() {
     // Get all "navbar-burger" elements
     const $navbarBurgers = Array.prototype.slice.call(
       document.querySelectorAll(".navbar-burger"),
@@ -79,5 +83,5 @@ export default {
       });
     }
   }
-}
+};
 </script>

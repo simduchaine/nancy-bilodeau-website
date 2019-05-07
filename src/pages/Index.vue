@@ -1,51 +1,23 @@
 <template>
   <home-layout>
-
-    <section class="has-background-info lead-content">
-      <div class="container">
-        <div class="columns is-marginless">
-          <div class="column is-two-fifths">
-            <h1 class="title">Coaching et consultation holistique pour individus et <a href="#">entreprises</a></h1>
-          </div>
-          <div class="column"></div>
-          <div class="column is-half">
-            <p>
-              Nancy accompagne les individus à atteindre une santé optimale et se réaliser. Elle aide aussi les entreprises à atteindre leur objectifs, gérer leurs projects, améliorer leur processus, réduire les conflits et établir un mileu de travail sain basé sur des valeurs humaines durables.
-            </p>
-            <g-link to="/a-propos">À propos de Nancy ></g-link>
-          </div>
-        </div>
-      </div>
+    <section id="lead" class="has-background-info lead-content">
+      <lead></lead>
     </section>
 
     <section id="services">
-      <services v-for="edge in $page.data.edges" :key="edge.node.id" :title="edge.node.title" :content="edge.node.content" :thumbnail="edge.node.thumbnail" />
+      <services
+        v-for="edge in $page.data.edges"
+        :key="edge.node.id"
+        :title="edge.node.title"
+        :content="edge.node.content"
+        :thumbnail="edge.node.thumbnail"
+      />
     </section>
 
-    <section class="has-background-info lead-content" style="margin-top: -10px">
-      <div class="container">
-        <div class="columns is-marginless is-multiline">
-          <div class="column is-full">
-            <h1 class="title">Formations</h1>
-          </div>
-          <div class="column is-half">
-            <p>Nancy a déjà plusieurs cours de développés, vous pouvez organiser un cours ou participer au prochain à notre horaire. Pour organiser un cours, une retraire, une conférence, ou un repas vous n’avez besoin que de rassembler 10 personnes et votre inscription sera gratuite !</p>
-            <g-link to="/formations">Formations ></g-link>
-          </div>
-          <div class="column"></div>
-          <div class="column is-one-third is-italic">
-            <ul>
-              <li>Cours</li>
-              <li>Retraite</li>
-              <li>Conférences</li>
-              <li>Souper formation</li>
-              <li>Déjeuner formation</li>
-            </ul>
-          </div>
-        </div>
-      </div>
+    <section id="formations">
+      <formation class="has-background-info lead-content" style="margin-top: -10px"></formation>
+      <horaire></horaire>
     </section>
-    
   </home-layout>
 </template>
 
@@ -65,32 +37,35 @@
 </page-query>
 
 <script>
-import services from '~/components/Services.vue';
+import services from "~/components/home/Services.vue";
+import lead from "~/components/home/Lead.vue";
+import formation from "~/components/home/formations/Formation.vue";
+import horaire from "~/components/home/formations/Horaire.vue";
 
 export default {
   metaInfo: {
-    title: 'Nancy Bilodeau - Coaching Mieux-Etre'
+    title: "Nancy Bilodeau - Coaching Mieux-Etre"
   },
   components: {
-    services
-
+    services,
+    lead,
+    formation,
+    horaire
   }
-}
+};
 </script>
 
 <style lang="scss">
-
 .title {
   line-height: 1.325;
 
   a {
-    color: #D05208;
+    color: #d05208;
     text-decoration: underline;
 
     &:hover {
       color: inherit;
     }
-
   }
 }
 
@@ -98,27 +73,56 @@ a {
   &:not(.button):not(.navbar-item) {
     font-style: italic;
   }
-
 }
 
-.lead-content {
-  padding: 5rem;
+blockquote {
+  position: relative;
+  padding-left: 0.5em;
+  font-style: italic;
+  border-left: 0.14em solid #3b3049;
+  margin-bottom: 1.5rem;
+  p {
+    padding: 0;
+    display: inline;
+  }
+  &:before,
+  &:after {
+    content: "\201C";
+    color: #3b3049;
+  }
+  &:after {
+    content: "\201D";
+  }
 }
 
-.reverse-row-order{
-    flex-direction:row-reverse;
+.reverse-row-order {
+  flex-direction: row-reverse;
+}
+
+.is-right {
+  padding: 0px 1rem 1rem;
+  float: right;
+}
+
+.offset-bg-blue {
+  background-image: linear-gradient(transparent 6rem, #c4e0ec 0);
+  margin-bottom: 2rem;
 }
 
 #services {
   > .columns:nth-child(odd) {
-    flex-direction:row-reverse;
+    flex-direction: row-reverse;
     text-align: right;
   }
 
   /* .columns {
     max-height: 689px;
   } */
-
 }
 
+@media screen and (min-width: 768px) {
+  .lead-content {
+    padding: 5rem;
+  }
+}
 </style>

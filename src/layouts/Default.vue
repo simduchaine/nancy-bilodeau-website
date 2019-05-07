@@ -1,27 +1,27 @@
 <template>
   <div>
+    <custom-header/>
 
-    <custom-header />
+    <transition name="fade" appear>
+      <div style="margin-top: 6rem;">
+        <slot/>
+      </div>
+    </transition>
 
-    <div style="margin-top: 6rem;">
-      <slot/>
-    </div>
-
-    <custom-footer />
-    
+    <custom-footer/>
   </div>
 </template>
 
 <script>
-import customFooter from '~/components/Footer.vue'
-import customHeader from '~/components/Header.vue'
+import customFooter from "~/components/Footer.vue";
+import customHeader from "~/components/Header.vue";
 
 export default {
   components: {
     customFooter,
     customHeader
   }
-}
+};
 </script>
 
 
@@ -30,12 +30,21 @@ footer {
   margin-top: -0.4rem;
 }
 
-p, ul {
+p,
+ul {
   padding-bottom: 1.5rem;
 }
 
 li {
   padding-bottom: 0.2rem;
+}
+
+.fade-enter-active {
+  transition: opacity 1s;
+}
+
+.fade-enter {
+  opacity: 0;
 }
 
 /* ul {
@@ -47,5 +56,4 @@ li {
       padding-bottom: 0.2rem;
     }
   } */
-
 </style>

@@ -1,21 +1,19 @@
 <template>
   <div>
+    <custom-header/>
 
-    <custom-header />
+    <hero/>
 
-    <hero />
-    
     <slot/>
 
-    <custom-footer />
-    
+    <custom-footer/>
   </div>
 </template>
 
 <script>
-import customFooter from '~/components/Footer.vue'
-import customHeader from '~/components/Header.vue'
-import Hero from '~/components/Hero.vue'
+import customFooter from "~/components/Footer.vue";
+import customHeader from "~/components/Header.vue";
+import Hero from "~/components/home/Hero.vue";
 
 export default {
   components: {
@@ -23,17 +21,14 @@ export default {
     customHeader,
     Hero
   }
-}
+};
 </script>
 
 
 <style>
-
 .input {
-    border-top: 0;
-    border-left: 0;
-    border-right: 0;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
 }
-
-
 </style>
