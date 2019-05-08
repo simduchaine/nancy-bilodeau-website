@@ -48,7 +48,7 @@
           <!--End mc_embed_signup-->
         </div>
         <div class="column"></div>
-        <div class="column is-narrow">
+        <div class="column is-narrow brands">
           <a href="https://www.facebook.com/NancyBilodeauCoaching/">
             <font-awesome class="icons" :icon="['fab', 'facebook-f']" size="lg"/>
           </a>
@@ -87,12 +87,14 @@ footer .columns:not(:last-child) {
 #mc-embedded-subscribe-form {
   input {
     display: inline-block;
-    max-width: 70%;
+    max-width: 65%;
   }
   .button {
     margin: 0 0.4rem 0;
     padding: 0 10px;
     background: none;
+    max-width: 30%;
+    border: solid 1px;
   }
 }
 </style>

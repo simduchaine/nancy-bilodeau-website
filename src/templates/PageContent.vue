@@ -1,8 +1,10 @@
 <template>
   <Layout>
-    <div class="container">
-      <h1 class="title">{{ $page.pageContent.title }}</h1>
-      <div v-html="$page.pageContent.content"></div>
+    <div class="offset-bg-blue section">
+      <div class="container">
+        <h1 class="title">{{ $page.pageContent.title }}</h1>
+        <div v-html="$page.pageContent.content"></div>
+      </div>
     </div>
   </Layout>
 </template>

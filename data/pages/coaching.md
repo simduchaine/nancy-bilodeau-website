@@ -1,6 +1,7 @@
 ---
 id: coaching
 title: Coaching
+thumbnail: /uploads/coaching.jpg
 ---
 
 > En épistémologie ou en sciences humaines, relatif à la doctrine qui ramène la connaissance du particulier, de l'individuel à celle de l'ensemble, du tout dans lequel il s'inscrit. (Petit Larousse).

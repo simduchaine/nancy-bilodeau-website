@@ -3,7 +3,7 @@
     <custom-header/>
 
     <transition name="fade" appear>
-      <div style="margin-top: 6rem;">
+      <div style="margin-top: 3rem;">
         <slot/>
       </div>
     </transition>

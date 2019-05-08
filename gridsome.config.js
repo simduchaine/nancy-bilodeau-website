@@ -53,6 +53,18 @@ module.exports = {
         resolveAbsolutePaths: true,
         route: "/:slug",
         remark: {
+          plugins: [require("remark-attr")]
+        }
+      }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data/soins/**/*.md",
+        typeName: "soins",
+        resolveAbsolutePaths: true,
+        route: "/soins/:slug",
+        remark: {
           plugins: [
             // ...local plugins
           ]

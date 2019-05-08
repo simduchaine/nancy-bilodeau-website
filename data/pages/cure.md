@@ -1,11 +1,12 @@
 ---
 id: cure
 title: Cure
+thumbnail: /uploads/cure.jpg
 ---
 
-Depuis quelques années il y a un engouement pour la pratique de cure pour aider à retrouver son énergie, la santé, sa vitalité et même perdre du poids.
+![](/uploads/cure.jpg){height=50}
 
-Nancy est formé de Karyn Calabrese, l’institut Hippocrates et l’institut médicale Sanoviv pour vous accompagner. Elle peut vous accompagner en séance de coaching individuel ou vous pouvez vous inscrire à différent programme offert au cours de l’année.
+Depuis quelques années il y a un engouement pour la pratique de cure pour aider à retrouver son énergie, la santé, sa vitalité et même perdre du poids. Nancy est formé de Karyn Calabrese, l’institut Hippocrates et l’institut médicale Sanoviv pour vous accompagner. Elle peut vous accompagner en séance de coaching individuel ou vous pouvez vous inscrire à différent programme offert au cours de l’année.
 
 Les programmes les plus populaires sont :
 

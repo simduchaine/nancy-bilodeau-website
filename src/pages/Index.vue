@@ -105,8 +105,17 @@ blockquote {
 }
 
 .offset-bg-blue {
-  background-image: linear-gradient(transparent 6rem, #c4e0ec 0);
-  margin-bottom: 2rem;
+  background-image: linear-gradient(transparent 9rem, #c4e0ec 0);
+  //margin-bottom: 2rem;
+}
+
+.brands {
+  a {
+    color: #3b3049;
+    &:hover {
+      color: #d05208;
+    }
+  }
 }
 
 #services {
