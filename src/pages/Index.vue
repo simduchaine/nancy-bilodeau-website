@@ -63,6 +63,11 @@ export default {
     color: #d05208;
     text-decoration: underline;
 
+    .navbar-item.active--exact.active {
+      background-color: #fafafa;
+      color: #d05208;
+    }
+
     &:hover {
       color: inherit;
     }
@@ -72,6 +77,13 @@ export default {
 a {
   &:not(.button):not(.navbar-item) {
     font-style: italic;
+  }
+}
+
+ul {
+  li {
+    list-style-type: circle;
+    list-style-position: inside;
   }
 }
 
@@ -102,6 +114,11 @@ blockquote {
 .is-right {
   padding: 0px 1rem 1rem;
   float: right;
+}
+
+.self_center {
+  margin: 0.8rem 0.5rem;
+  display: inline-block;
 }
 
 .offset-bg-blue {

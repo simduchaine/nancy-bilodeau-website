@@ -27,8 +27,11 @@
         <div id="navbar" class="navbar-menu is-size-6">
           <div class="navbar-end">
             <g-link class="navbar-item" to="/coaching">Coaching</g-link>
+            <g-link class="navbar-item" to="/soins">Soins</g-link>
             <g-link class="navbar-item" to="/cure">Cure</g-link>
+            <a href="#" class="navbar-item">Boutique</a>
             <g-link class="navbar-item" to="/a-propos">Bio</g-link>
+            <a href="#" class="navbar-item">Contact</a>
             <div class="navbar-item brands">
               <a href="https://www.facebook.com/NancyBilodeauCoaching/">
                 <font-awesome :icon="['fab', 'facebook-f']"/>
@@ -85,3 +88,4 @@ export default {
   }
 };
 </script>
+

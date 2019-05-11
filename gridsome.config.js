@@ -53,7 +53,9 @@ module.exports = {
         resolveAbsolutePaths: true,
         route: "/:slug",
         remark: {
-          plugins: [require("remark-attr")]
+          plugins: [
+            //require("remark-attr")
+          ]
         }
       }
     },

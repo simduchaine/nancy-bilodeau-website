@@ -1,7 +1,7 @@
 ---
 thumbnail: /uploads/cure.jpg
 title: Cure
-Position: 4
+position: 4
 ---
 
 - Programme de Détox

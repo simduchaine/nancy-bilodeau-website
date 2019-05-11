@@ -14,7 +14,7 @@
     "@gridsome/transformer-remark": "^0.2.1",
     "@gridsome/transformer-yaml": "^0.1.0",
     "bulma": "^0.7.4",
-    "gridsome": "^0.5.8",
+    "gridsome": "^0.6.0",
     "remark-attr": "^0.8.3",
     "vue-typed-js": "^0.1.2"
   },

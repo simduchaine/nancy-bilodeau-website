@@ -1,7 +1,7 @@
 ---
 thumbnail: /uploads/coaching.jpg
 title: Coaching
-Position: 2
+position: 2
 ---
 
 - Retrouver sa vitalité
