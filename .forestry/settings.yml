@@ -22,7 +22,6 @@ sections:
 - type: document
   path: data/pages/cure.md
   label: Cure
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
