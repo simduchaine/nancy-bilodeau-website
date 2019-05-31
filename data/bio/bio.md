@@ -1,7 +1,7 @@
 ---
 id: bio
 title: À propos de Nancy
-thumbnail: "/uploads/nancy.jpg"
+thumbnail: "/uploads/Nancy_bilodeau_2019.png"
 
 ---
 Nancy a 46 ans et tout un parcours de vie. Né au Québec, détentrice d’un Baccalauréat en affaire de l’[Université de Sherbrooke](https://www.usherbrooke.ca/) et d’un MBA de l’[Université Keller Graduate School of Management](https://www.keller.edu/) des Etats-Unis. Elle a vécu 12 ans aux États Unis et travailler dans plusieurs industries autant pour de grandes, moyennes et de petites entreprises. Plus d’information sur son parcours professionnel est disponible sur son profil [LinkedIn](https://www.linkedin.com/in/nancybilodeau/).
