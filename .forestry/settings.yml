@@ -29,7 +29,7 @@ sections:
   label: Cure
 - type: directory
   path: data/bio
-  label: Bio
+  label: À Propos
   create: documents
   match: "**/*"
 upload_dir: uploads
