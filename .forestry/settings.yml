@@ -19,6 +19,11 @@ sections:
 - type: document
   path: data/pages/coaching.md
   label: Coaching
+- type: directory
+  path: data/soins
+  label: Soins
+  create: documents
+  match: "**/*"
 - type: document
   path: data/pages/cure.md
   label: Cure
