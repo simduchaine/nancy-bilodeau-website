@@ -12,3 +12,5 @@ fields:
 - type: file
   name: thumbnail
   label: Image
+pages:
+- data/pages/coaching.md

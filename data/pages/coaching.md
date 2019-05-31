@@ -1,9 +1,9 @@
 ---
 id: coaching
 title: Coaching
-thumbnail: /uploads/coaching.jpg
----
+thumbnail: "/uploads/coaching.jpg"
 
+---
 > En épistémologie ou en sciences humaines, relatif à la doctrine qui ramène la connaissance du particulier, de l'individuel à celle de l'ensemble, du tout dans lequel il s'inscrit. (Petit Larousse).
 > Qui relève de l’holisme, qui s'intéresse à son objet dans sa globalité.
 > Holisme : la tendance dans la nature à constituer des ensembles qui sont supérieurs à la somme de leurs parties, au travers de l'évolution créatrice (Wikipedia)
