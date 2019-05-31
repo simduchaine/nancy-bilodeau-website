@@ -1,0 +1,13 @@
+---
+label: General Page
+hide_body: false
+fields:
+- type: text
+  name: id
+  label: id
+- type: text
+  name: title
+  label: title
+- type: file
+  name: thumbnail
+  label: thumbnail
