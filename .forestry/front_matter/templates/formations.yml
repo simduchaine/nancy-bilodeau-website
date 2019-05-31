@@ -24,3 +24,5 @@ fields:
   name: id
   label: id
   hidden: true
+pages:
+- data/formations/vegane-equilibree-santee.md
