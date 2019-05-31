@@ -1,10 +1,25 @@
 ---
 label: Formations
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: title
   label: Title
+- name: type
+  type: select
+  default: Cours
+  config:
+    required: false
+    options:
+    - Cours
+    - Conférence
+    - Atelier
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
 - type: text
   name: id
   label: id
