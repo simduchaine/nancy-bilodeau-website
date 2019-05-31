@@ -28,6 +28,11 @@ sections:
   path: data/pages/cure.md
   label: Cure
 - type: directory
+  path: data/formations
+  label: Formations
+  create: documents
+  match: "**/*"
+- type: directory
   path: data/bio
   label: À Propos
   create: documents
