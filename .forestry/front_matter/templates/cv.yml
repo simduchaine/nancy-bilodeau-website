@@ -1,0 +1,10 @@
+---
+label: CV
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: id
+  label: id
