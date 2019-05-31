@@ -2,9 +2,9 @@
   <Layout>
     <section class="offset-bg-blue section">
       <div class="container bio">
-        <h1 class="title">{{ $page.content.title }}</h1>
-        <g-image class="image is-right" :src="$page.content.thumbnail"></g-image>
-        <div v-html="$page.content.content"></div>
+        <h1 class="title">{{ $page.description.title }}</h1>
+        <g-image class="image is-right" :src="$page.description.thumbnail"></g-image>
+        <div v-html="$page.description.content"></div>
       </div>
     </section>
 
@@ -19,7 +19,7 @@
 
 <page-query>
 query Bio {
-  content:bio (id: "0afa4207cb31de83def0c390c7e69455") {
+  description:bio (id: "0afa4207cb31de83def0c390c7e69455") {
     title
     content
     thumbnail (quality: 90, height: 800, width: 700)
