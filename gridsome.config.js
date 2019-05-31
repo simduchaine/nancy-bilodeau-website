@@ -48,6 +48,19 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data/bio/**/*.md",
+        typeName: "bio",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
+      }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data/pages/**/*.md",
         typeName: "PageContent",
         resolveAbsolutePaths: true,
