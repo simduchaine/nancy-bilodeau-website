@@ -29,6 +29,11 @@ sections:
 - type: document
   path: data/pages/cure.md
   label: Cure
+- type: directory
+  path: data/bio
+  label: Bio
+  create: documents
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
