@@ -39,4 +39,4 @@ Mon approche est particulièrement efficace pour les gens qui :
 - sont aux prises avec des addictions et des comportements destructifs
 - ont des relations difficiles avec les autres et ou en couple et souhaite améliorer le tout.
 
-[Prendre rendez-vous >](#)
+[Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)

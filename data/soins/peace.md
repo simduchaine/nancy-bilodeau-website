@@ -1,9 +1,10 @@
 ---
 id: peace
-title: Traitement Neurosensoriel PEACE
+title: Traitement PEACE
+thumbnail: "/uploads/xl-logo-peace-3millenaire.png"
 ---
 
-La méthode PEACE (Processus empathique d’abandon corporel et émotionnel) est une nouvelle approche développée et déployée depuis 2017 par le célèbre auteur, chercheur Stéphane Drouet.
+La méthode PEACE (Processus Empathique d’Abandon Corporel et Émotionnel) est une nouvelle approche développée et déployée depuis 2017 par le célèbre auteur, chercheur [Stéphane Drouet](https://www.arquantis.eu/Portrait.html).
 
 La méthode permet d’adresser en autre les addictions, les problèmes relationnels, les deuils, les peurs, les blocages de toutes sortes, et la culpabilité.
 
@@ -11,8 +12,12 @@ La méthode PEACE est le fruit de onze années de pratique thérapeutique de St�
 
 Nancy fait partie des tous premiers thérapeutes formés à Québec en Décembre 2018.
 
+![Nancy Bilodeau et Stephane Drouet](/uploads/nancy-stephane-drouin.jpg)
+
 Le travail en PEACE est basé sur le corps et ses sensations. Il vise à défiger les fascias et fluidifier les mémoires afin de de laisser place à de nouvelles possibilités. Comprendre le pourquoi des pourquoi n’est ainsi plus nécessaire ; décharger l’énergie bloquée dans le corps est par contre essentiel et à la base de l’efficacité de la méthode.
 
-[Presentation de l’Intelligence Quantique du Cœur avec Stéphane](https://www.youtube.com/watch?v=eIv9hNm5BtY)
+[Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
 
-[Entretien avec Stéphane](https://www.youtube.com/watch?v=idJVMXLsWzY)
+`youtube:https://www.youtube.com/watch?v=eIv9hNm5BtY`
+
+`youtube:https://www.youtube.com/watch?v=idJVMXLsWzY`

@@ -29,6 +29,7 @@
             <g-link class="navbar-item" to="/coaching">Coaching</g-link>
             <g-link class="navbar-item" to="/soins">Soins</g-link>
             <g-link class="navbar-item" to="/cure">Cure</g-link>
+            <g-link class="navbar-item" to="/formations">Formations</g-link>
             <a href="#" class="navbar-item">Boutique</a>
             <g-link class="navbar-item" to="/a-propos">Bio</g-link>
             <a href="#" class="navbar-item">Contact</a>

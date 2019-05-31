@@ -16,7 +16,6 @@
 
     <section id="formations">
       <formation class="has-background-info lead-content" style="margin-top: -10px"></formation>
-      <horaire></horaire>
     </section>
   </home-layout>
 </template>
@@ -40,7 +39,6 @@
 import services from "~/components/home/Services.vue";
 import lead from "~/components/home/Lead.vue";
 import formation from "~/components/home/formations/Formation.vue";
-import horaire from "~/components/home/formations/Horaire.vue";
 
 export default {
   metaInfo: {
@@ -49,8 +47,7 @@ export default {
   components: {
     services,
     lead,
-    formation,
-    horaire
+    formation
   }
 };
 </script>

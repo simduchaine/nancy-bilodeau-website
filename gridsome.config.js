@@ -62,13 +62,31 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data/formations/**/*.md",
+        typeName: "formations",
+        resolveAbsolutePaths: true,
+        route: "/formations/:type/:slug",
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ]
+        }
+      }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data/soins/**/*.md",
         typeName: "soins",
         resolveAbsolutePaths: true,
         route: "/soins/:slug",
         remark: {
           plugins: [
-            // ...local plugins
+            [
+              "gridsome-plugin-remark-youtube",
+              ,
+              { width: "500px", align: "auto" }
+            ]
           ]
         }
       }

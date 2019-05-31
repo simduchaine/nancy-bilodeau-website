@@ -30,7 +30,7 @@
               >
               <input
                 type="submit"
-                value="Subscribe"
+                value="S'inscrire"
                 name="subscribe"
                 id="mc-embedded-subscribe"
                 class="button"
@@ -63,7 +63,7 @@
       <div class="columns">
         <div class="column is-one-quarter is-size-7">©Nancy Bilodeau 2019. Tous droits réservés.</div>
         <div class="column"></div>
-        <div class="column is-narrow is-size-7">Termes & Conditions Confidentialité Cookies</div>
+        <!-- <div class="column is-narrow is-size-7">Termes & Conditions Confidentialité Cookies</div> -->
       </div>
     </div>
   </footer>

@@ -3,15 +3,17 @@
     <div class="offset-bg-blue section">
       <div class="container">
         <h1 class="title">Soins</h1>
-        <g-image class="header-img" src="../../uploads/soins.jpg" quality="90" height="690"></g-image>
+        <g-image class="header-img" src="../../uploads/soins.jpg" quality="90" height="700"></g-image>
         <div>Eiusmod anim culpa aute ullamco esse dolore. Et officia sunt enim esse dolor elit proident. In veniam magna amet dolore cupidatat aute adipisicing mollit minim mollit excepteur. Ipsum do labore voluptate elit qui cillum.</div>
         <div id="soins" class="columns" style="padding-top: 2rem;">
           <div class="column" v-for="soin in $page.soins.edges" :key="soin.node.id">
             <div class="card">
-              <div class="card-image">
-                <img src="../../uploads/placeholder.png" alt>
-              </div>
-              <div class="card-content">{{ soin.node.title }}</div>
+              <g-link :to="soin.node.path">
+                <div class="card-image">
+                  <g-image :src="soin.node.thumbnail"></g-image>
+                </div>
+              </g-link>
+              <div class="card-content title is-5 has-text-white">{{ soin.node.title }}</div>
             </div>
           </div>
         </div>
@@ -27,6 +29,8 @@ query Soins {
       node {
         title
         id
+        path
+        thumbnail (quality: 90)
         content
       }
     }
@@ -41,3 +45,18 @@ export default {
   }
 };
 </script>
+
+<style lang="scss">
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.card-content {
+  margin-top: auto;
+}
+
+.card-image {
+  padding: 1rem;
+}
+</style>

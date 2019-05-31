@@ -7,6 +7,8 @@ position: 3
 - Cohérence Cardiaque
 - Défigement émotionnel
 - Traitement énergétique
-- Relaxation
+- Cosmonergy
+- PEACE
+- Reiki
 
 [Soins >](/soins)
