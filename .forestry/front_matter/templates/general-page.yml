@@ -13,4 +13,5 @@ fields:
   name: thumbnail
   label: Image
 pages:
+- data/pages/cure.md
 - data/pages/coaching.md
