@@ -1,8 +1,8 @@
 ---
 title: Curriculum
 id: curriculum
----
 
+---
 - Baccalauréat en Administration des Affaires, University de Sherbrooke, 1994
 - Maitrise en Gestion des Affaires (MBA), Keller Graduate School of Management, 2005
 - Méditation Sahaj Samadhi, Art de Vivre, 2008
