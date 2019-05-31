@@ -24,6 +24,8 @@ sections:
   label: Soins
   create: documents
   match: "**/*"
+  templates:
+  - general-page
 - type: document
   path: data/pages/cure.md
   label: Cure
