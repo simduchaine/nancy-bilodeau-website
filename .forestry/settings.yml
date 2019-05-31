@@ -5,17 +5,15 @@ admin_path: "/static/admin/"
 webhook_url: 
 sections:
 - type: heading
-  label: Accueil
+  label: Pages
 - type: directory
   path: data/home
-  label: Services
+  label: Accueil
   create: documents
   match: "**/*"
   new_doc_ext: md
   templates:
   - services
-- type: heading
-  label: Pages
 - type: document
   path: data/pages/coaching.md
   label: Coaching
