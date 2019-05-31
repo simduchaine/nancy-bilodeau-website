@@ -4,10 +4,23 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: type
-  label: type
+  label: Title
+- name: type
+  type: select
+  default: Cours
+  config:
+    required: false
+    options:
+    - Cours
+    - Atelier
+    - Conférence
+    source:
+      type: simple
+      section: formations
+      file: 
+      path: ''
+  label: Type
 - type: text
   name: id
   label: id
+  hidden: true
