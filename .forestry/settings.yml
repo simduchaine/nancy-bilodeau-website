@@ -32,6 +32,8 @@ sections:
   label: Formations
   create: documents
   match: "**/*"
+  templates:
+  - formations
 - type: directory
   path: data/bio
   label: À Propos
