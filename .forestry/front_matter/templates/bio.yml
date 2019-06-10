@@ -5,12 +5,15 @@ fields:
 - type: text
   name: id
   label: id
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre
+  config:
+    required: true
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Photo
 - type: list
   name: cv
-  label: cv
+  label: Curriculum Vitae
