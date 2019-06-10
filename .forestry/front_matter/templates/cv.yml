@@ -10,5 +10,3 @@ fields:
   name: id
   label: id
   hidden: true
-pages:
-- data/bio/curriculum.md
