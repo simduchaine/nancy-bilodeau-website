@@ -1,10 +1,13 @@
 <template>
   <Layout>
+    <div v-for="edge in $page.allbio.edges" :key="edge.node.id">
+
+    
     <section class="offset-bg-blue section">
       <div class="container bio">
-        <h1 class="title">{{ $page.bio.title }}</h1>
-        <g-image class="image is-right" :src="$page.bio.thumbnail"></g-image>
-        <div v-html="$page.bio.content"></div>
+        <h1 class="title">{{ edge.node.title }}</h1>
+        <g-image class="image is-right" :src="edge.node.thumbnail"></g-image>
+        <div v-html="edge.node.content"></div>
       </div>
     </section>
 
@@ -12,20 +15,26 @@
       <div class="container">
         <h2 class="title is-5">Sommaire des formations principales</h2>
         <ul>
-          <li v-for="(item, index) in $page.bio.cv" :key="index">{{ item }}</li>
+          <li v-for="(item, index) in edge.node.cv" :key="index">{{ item }}</li>
         </ul>
       </div>
     </section>
+    </div>
   </Layout>
 </template>
 
 <page-query>
-query Bio {
-  bio (id: "0afa4207cb31de83def0c390c7e69455") {
-    title
-    content
-    cv
-    thumbnail (quality: 90, height: 800, width: 700)
+query allBio {
+  allbio {
+    edges {
+      node {
+        id
+        title
+        content
+        cv
+        thumbnail (quality: 90, height: 800, width: 700)
+      }
+    }
   }
 }
 </page-query>
@@ -33,7 +42,7 @@ query Bio {
 <script>
 export default {
   metaInfo: {
-    title: "Bio"
+    title: "À Propos"
   }
 };
 </script>
