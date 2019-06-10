@@ -33,7 +33,7 @@ query Bio {
 <script>
 export default {
   metaInfo: {
-    title: "À Propos"
+    title: "Bio"
   }
 };
 </script>
