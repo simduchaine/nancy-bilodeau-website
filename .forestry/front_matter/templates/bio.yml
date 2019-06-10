@@ -17,3 +17,5 @@ fields:
 - type: list
   name: cv
   label: Curriculum Vitae
+pages:
+- data/bio/bio.md
