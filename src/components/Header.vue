@@ -1,10 +1,7 @@
 <template>
   <header class="header">
-    <!-- <strong>
-        <g-link to="/">{{ $static.metaData.siteName }}</g-link>
-    </strong>-->
-
-    <nav class="navbar has-shadow is-fixed-top" role="navigation" aria-label="main navigation">
+    
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
       <div class="container is-fluid">
         <div class="navbar-brand">
           <g-link to="/" class="navbar-item">
@@ -32,7 +29,7 @@
             <g-link class="navbar-item" to="/formations">Formations</g-link>
             <a href="#" class="navbar-item">Boutique</a>
             <g-link class="navbar-item" to="/a-propos">Bio</g-link>
-            <a href="#" class="navbar-item">Contact</a>
+            <g-link class="navbar-item" to="/contact">Contact</g-link>
             <div class="navbar-item brands">
               <a href="https://www.facebook.com/NancyBilodeauCoaching/">
                 <font-awesome :icon="['fab', 'facebook-f']"/>

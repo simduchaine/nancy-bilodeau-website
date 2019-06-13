@@ -11,7 +11,7 @@
           :backDelay="2000"
         >
           <h1 class="title is-1">
-            + de
+            <span>+</span> de <br>
             <span class="typing"></span>
           </h1>
         </vue-typed-js>
@@ -48,8 +48,8 @@ export default {
 
   &.is-medium {
     .hero-body {
-      padding-bottom: 7rem;
-      padding-top: 7rem;
+      padding-bottom: 4rem;
+      padding-top: 4rem;
     }
   }
 

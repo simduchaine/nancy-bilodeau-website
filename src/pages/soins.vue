@@ -46,14 +46,16 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
 .card {
   display: flex;
   flex-direction: column;
   height: 100%;
+  box-shadow: none;
 }
 .card-content {
   margin-top: auto;
+  background: #3b3049;
 }
 
 .card-image {

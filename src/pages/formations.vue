@@ -2,13 +2,18 @@
   <Layout>
     <div class="offset-bg-blue section">
       <div class="container">
-        <div class="columns">
-          <div class="column is-full">
-            <h1 class="title has-text-centered">Horaire des formations</h1>
-            <div
-              v-for="formation in $page.formations.edges"
-              :key="formation.node.id"
-            >{{formation.node.title}}</div>
+        <h1 class="title">Formations</h1>
+        <div class="columns is-multiline">
+          <div
+            class="column is-one-third"
+            v-for="formation in $page.formations.edges"
+            :key="formation.node.id"
+          >
+            <div class="card">
+              <span class="tag is-primary">{{formation.node.type}}</span>
+              <h2>{{formation.node.title}}</h2>
+              <div v-html="formation.node.content"></div>
+            </div>
           </div>
         </div>
       </div>
