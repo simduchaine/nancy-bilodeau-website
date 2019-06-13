@@ -34,11 +34,9 @@ sections:
   match: "**/*"
   templates:
   - formations
-- type: directory
-  path: data/bio
-  label: À Propos
-  create: documents
-  match: "**/*"
+- type: document
+  path: data/bio/bio.md
+  label: À propos
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

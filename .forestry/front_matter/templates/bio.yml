@@ -1,5 +1,5 @@
 ---
-label: General Page
+label: Bio
 hide_body: false
 fields:
 - type: text
@@ -8,11 +8,14 @@ fields:
   hidden: true
 - type: text
   name: title
-  label: Title
+  label: Titre
+  config:
+    required: true
 - type: file
   name: thumbnail
-  label: Image
+  label: Photo
+- type: list
+  name: cv
+  label: Curriculum Vitae
 pages:
-- data/soins/coherence-cardiaque.md
-- data/pages/cure.md
-- data/pages/coaching.md
+- data/bio/bio.md
