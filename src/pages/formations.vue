@@ -10,9 +10,16 @@
             :key="formation.node.id"
           >
             <div class="card">
-              <span class="tag is-primary">{{formation.node.type}}</span>
-              <h2>{{formation.node.title}}</h2>
-              <div v-html="formation.node.content"></div>
+              <div class="card-image">
+                <g-image :src="formation.node.thumbnail"></g-image>
+              </div>
+              <div class="card-content">
+                <h2 class="title is-6">{{formation.node.title}}</h2>
+                <div v-html="formation.node.content"></div>
+              </div>
+              <div class="card-footer">
+                <div class="card-footer-item tag">{{formation.node.type}}</div>
+              </div>
             </div>
           </div>
         </div>
@@ -23,7 +30,7 @@
 
 <page-query>
 query Formations {
-  formations: allformations {
+  formations: allformations (sortBy: "type", order: ASC) {
     edges {
       node {
         title
@@ -31,6 +38,8 @@ query Formations {
         content
         path
         type
+        thumbnail (quality: 90, width: 678, height: 452)
+        link
       }
     }
   }
@@ -45,3 +54,14 @@ export default {
   components: {}
 };
 </script>
+
+<style scoped lang="scss">
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.card-content {
+  margin-bottom: auto;
+}
+</style>
