@@ -3,26 +3,30 @@ label: Formations
 hide_body: false
 fields:
 - type: text
+  name: id
+  label: id
+  hidden: true
+- type: text
   name: title
-  label: Title
+  label: Titre
+- type: file
+  name: thumbnail
+  label: Image
 - name: type
   type: select
-  default: Cours
+  default: []
   config:
     required: false
     options:
     - Cours
-    - Conférence
     - Atelier
+    - Conférence
     source:
       type: simple
-      section: 
-      file: 
+      section: formations
+      file: data/formations/sante-holisitique.md
       path: 
   label: Type
 - type: text
-  name: id
-  label: id
-  hidden: true
-pages:
-- data/formations/vegane-equilibree-santee.md
+  name: link
+  label: Lien
