@@ -89,6 +89,20 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data/boutique/**/*.md",
+        typeName: "products",
+        resolveAbsolutePaths: true,
+        route: "/boutique/:slug",
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ]
+        }
+      }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data/soins/**/*.md",
         typeName: "soins",
         resolveAbsolutePaths: true,

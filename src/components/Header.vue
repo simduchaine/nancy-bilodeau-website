@@ -1,6 +1,5 @@
 <template>
   <header class="header">
-    
     <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
       <div class="container is-fluid">
         <div class="navbar-brand">
@@ -27,7 +26,7 @@
             <g-link class="navbar-item" to="/soins">Soins</g-link>
             <g-link class="navbar-item" to="/cure">Cure</g-link>
             <g-link class="navbar-item" to="/formations">Formations</g-link>
-            <a href="#" class="navbar-item">Boutique</a>
+            <g-link class="navbar-item" to="/boutique">Boutique</g-link>
             <g-link class="navbar-item" to="/a-propos">Bio</g-link>
             <g-link class="navbar-item" to="/contact">Contact</g-link>
             <div class="navbar-item brands">
@@ -41,7 +40,7 @@
               </a>
             </div>
             <div class="navbar-item brands">
-              <a href="#">
+              <a href="https://ca.linkedin.com/in/nancybilodeau">
                 <font-awesome :icon="['fab', 'linkedin-in']"/>
               </a>
             </div>
