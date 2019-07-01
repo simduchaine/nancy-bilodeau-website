@@ -4,4 +4,6 @@ type: Cours
 id: intro-pousses
 thumbnail: "/uploads/daniel-hjalmarsson-269425-unsplash.jpg"
 link: "#"
+
 ---
+Pourquoi faire tremper ses noix? Comment faire des pousses et des germinations?Équipement et temps requis. Où trouver le matériel? Propriété des différentes pousses et germinations.
