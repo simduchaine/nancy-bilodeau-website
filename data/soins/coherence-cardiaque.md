@@ -4,7 +4,7 @@ title: Cohérence Cardiaque
 thumbnail: "/uploads/hearthmath.png"
 
 ---
-La cohérence cardiaque [(ou résonance cardiaque)](https://fr.wikipedia.org/wiki/R%C3%A9sonance) est une [technique de relaxation](https://fr.wikipedia.org/wiki/Techniques_de_relaxation) et de [biofeedback](https://fr.wikipedia.org/wiki/Biofeedback) visant à réguler la [variabilité du rythme cardiaque](https://fr.wikipedia.org/wiki/Variabilit%C3%A9_de_fr%C3%A9quence_cardiaque). Mise au point dans les années 1990 elle permettrait par ce mode d'action d'aider le traitement de troubles comme la dépression, les états anxieux ou l'insomnie chronique1, voire de réduire les risques cardio-vasculaires
+La cohérence cardiaque [(ou résonance cardiaque)](https://fr.wikipedia.org/wiki/R%C3%A9sonance) est une [technique de relaxation](https://fr.wikipedia.org/wiki/Techniques_de_relaxation) et de [biofeedback](https://fr.wikipedia.org/wiki/Biofeedback) visant à réguler la [variabilité du rythme cardiaque](https://fr.wikipedia.org/wiki/Variabilit%C3%A9_de_fr%C3%A9quence_cardiaque). Mise au point dans les années 1990 elle permettrait par ce mode d'action d'aider le traitement de troubles comme la dépression, les états anxieux ou l'insomnie chronique, voire de réduire les risques cardio-vasculaires
 
 Elle fut d’abord diffusée par Stephen Elliott aux États-Unis et la fondation du docteur David Servan-Schreiber en France.
 
@@ -22,16 +22,16 @@ De plus en plus d’enfants démontrent les signes de stress et d’incohérence
 
 Une fois la mesure de base prise, l’enseignement et la pratique de méthodes de cohérence cardiaque prennent place. Une nouvelle mesure de cohérence est prise à la fin de la pratique et un protocole de suivi à la maison est prescrit selon les résultats obtenus durant la session.
 
-Cette méthode s’adresse particulièrement aux gens qui :
+Cette méthode est particulièrement aidante pour les gens qui :
 
-- vivent des stress importants
-- font de l’insomnie
-- souffrent d’anxiété
-- souffrent de dépression
-- souffrent de fatigue chronique
+* vivent des stress importants
+* font de l’insomnie
+* souffrent d’anxiété
+* souffrent de dépression
+* souffrent de fatigue chronique
 
 La méthode demande une participation active de la personne qui souhaite transformer sa vie. Les résultats à court terme sont visibles après seulement deux minutes de pratique et les résultats durable à long terme demande un pratique continue de 3 à 4 mois pour rétablir la cohérence naturelle et de base de nos systèmes.
 
-La cohérence cardiaque nous permet d’être mieux connecter à notre essence pure. Elle permet de faire des choix cohérents avec qui nous sommes et qui nous sommes appelé à devenir.
+La cohérence cardiaque nous permet d’être mieux connecté à notre essence pure. Elle permet de faire des choix cohérents avec qui nous sommes et qui nous sommes appelé à devenir.
 
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
