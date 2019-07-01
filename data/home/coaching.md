@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/coaching.jpg"
-title: Coaching
+title: Coaching Holistique
 position: 2
 
 ---
@@ -12,4 +12,4 @@ position: 2
 * Méditer, Respirer, Bouger
 * Vibrer, se réaliser!
 
-[Coaching >](/coaching)
+[Coaching >](/coaching-holistique)
