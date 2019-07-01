@@ -48,3 +48,5 @@ build:
   preview_output_directory: dist
   output_directory: dist
   instant_preview_command: gridsome develop -p 8080 -h 0.0.0.0
+  preview_docker_image: forestryio/build:latest
+  mount_path: "/opt/buildhome/repo"
