@@ -10,7 +10,7 @@ cv:
 - Professeur Art de Vivre YES et YES+, 2011, 2012
 - Conseiller en Santé, Institut de Santé Hippocrate, 2015
 - Conseiller en Nutrition, Institut Médical Sanoviv, 2016
-- Reiki 1-2-3, 2013, 2014, 2019
+- Reiki 1-2, 2013, 2014
 - Méditation Son Primordial, Deepak Chopra, 2016
 - Méditation pleine conscience, Kripalu, 2016
 - Santé Parfaite, Deepak Chopra, 2017
@@ -18,7 +18,7 @@ cv:
 - Pratique Cosmoénergie, 2019
 
 ---
-Nancy a 46 ans et tout un parcours de vie. Né au Québec, détentrice d’un Baccalauréat en affaire de l’[Université de Sherbrooke](https://www.usherbrooke.ca/) et d’un MBA de l’[Université Keller Graduate School of Management](https://www.keller.edu/) des Etats-Unis. Elle a vécu 12 ans aux États Unis et travailler dans plusieurs industries autant pour de grandes, moyennes et de petites entreprises. Plus d’information sur son parcours professionnel est disponible sur son profil [LinkedIn](https://www.linkedin.com/in/nancybilodeau/).
+Nancy a 47 ans et tout un parcours de vie. Né au Québec, détentrice d’un Baccalauréat en affaire de l’[Université de Sherbrooke](https://www.usherbrooke.ca/) et d’un MBA de l’[Université Keller Graduate School of Management](https://www.keller.edu/) des Etats-Unis. Elle a vécu 12 ans aux États Unis et travailler dans plusieurs industries autant pour de grandes, moyennes et de petites entreprises. Plus d’information sur son parcours professionnel est disponible sur son profil [LinkedIn](https://www.linkedin.com/in/nancybilodeau/).
 
 Nancy est embarquée sur le chemin de la recherche pour la santé globale en 2007. D’abord au prise avec des problèmes de sommeil et d’anxiété important, Nancy a découvert les bienfaits du yoga, de la méditation et des techniques de respirations. Nancy devenait professeur de yoga en 2009 et par la suite de techniques de respirations avancées.
 
