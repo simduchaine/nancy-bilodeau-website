@@ -9,7 +9,7 @@
       </div>
       <div class="column"></div>
       <div class="column is-half">
-        <p>Nancy accompagne les individus à atteindre une santé optimale et se réaliser. Elle aide aussi les entreprises à atteindre leur objectifs, gérer leurs projects, améliorer leur processus, réduire les conflits et établir un mileu de travail sain basé sur des valeurs humaines durables.</p>
+        <p>Nancy accompagne les individus à atteindre un mieux-être optimal et se réaliser. Elle aide aussi les entreprises à atteindre leur objectifs, gérer leurs projects, améliorer leur processus, réduire les conflits et établir un mileu de travail sain basé sur des valeurs humaines durables.</p>
         <g-link to="/a-propos">À propos de Nancy ></g-link>
       </div>
     </div>

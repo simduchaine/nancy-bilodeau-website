@@ -2,13 +2,11 @@
   <footer class="footer">
     <div class="container is-fluid">
       <div class="columns">
-        <div class="column">
+        <div class="column is-narrow">
           <g-image src="~/assets/img/nancy-bilodeau-logo.svg"/>
-          <address>St-Romuald, Quebec</address>
         </div>
-      </div>
-      <div class="columns">
-        <div class="column is-one-quarter">
+        <div class="column is-half"></div>
+        <div class="column is-one-third">
           <!-- Begin Mailchimp Signup Form -->
           <form
             action="https://nancybilodeau.us20.list-manage.com/subscribe/post?u=23c00cdf65b51791bb6e5bda3&amp;id=16ac9ef9aa"
@@ -20,17 +18,18 @@
             novalidate
           >
             <div class="mc-field-group">
+              <label for="EMAIL">S'inscrire à l'infolettre</label>
               <input
                 type="email"
                 value
                 name="EMAIL"
                 class="required email input"
                 id="mce-EMAIL"
-                placeholder="S'inscrire à l'infolettre →"
+                placeholder="Adresse Courriel"
               >
               <input
                 type="submit"
-                value="S'inscrire"
+                value="Soumettre"
                 name="subscribe"
                 id="mc-embedded-subscribe"
                 class="button"
@@ -47,23 +46,22 @@
           </form>
           <!--End mc_embed_signup-->
         </div>
-        <div class="column"></div>
-        <div class="column is-narrow brands">
-          <a href="https://www.facebook.com/NancyBilodeauCoaching/">
-            <font-awesome class="icons" :icon="['fab', 'facebook-f']" size="lg"/>
-          </a>
-          <a href="https://www.youtube.com/channel/UCPdog-IyIN6GGL4sEl5gMdA">
-            <font-awesome class="icons" :icon="['fab', 'youtube']" size="lg"/>
-          </a>
-          <a href="#">
-            <font-awesome class="icons" :icon="['fab', 'linkedin-in']" size="lg"/>
-          </a>
-        </div>
       </div>
       <div class="columns">
         <div class="column is-one-quarter is-size-7">©Nancy Bilodeau 2019. Tous droits réservés.</div>
         <div class="column"></div>
         <!-- <div class="column is-narrow is-size-7">Termes & Conditions Confidentialité Cookies</div> -->
+        <div class="column is-narrow brands">
+          <a href="https://www.facebook.com/NancyBilodeauCoaching/">
+            <font-awesome class="icons" :icon="['fab', 'facebook-f']" size="md"/>
+          </a>
+          <a href="https://www.youtube.com/channel/UCPdog-IyIN6GGL4sEl5gMdA">
+            <font-awesome class="icons" :icon="['fab', 'youtube']" size="md"/>
+          </a>
+          <a href="https://ca.linkedin.com/in/nancybilodeau">
+            <font-awesome class="icons" :icon="['fab', 'linkedin-in']" size="md"/>
+          </a>
+        </div>
       </div>
     </div>
   </footer>
@@ -77,7 +75,7 @@ export default {
 
 <style lang="scss">
 footer .columns:not(:last-child) {
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
 }
 
 .icons {
@@ -87,13 +85,12 @@ footer .columns:not(:last-child) {
 #mc-embedded-subscribe-form {
   input {
     display: inline-block;
-    max-width: 65%;
+    max-width: 77%;
   }
   .button {
     margin: 0 0.4rem 0;
     padding: 0 10px;
     background: none;
-    max-width: 30%;
     border: solid 1px;
   }
 }
