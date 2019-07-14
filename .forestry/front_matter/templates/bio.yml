@@ -13,7 +13,17 @@ fields:
     required: true
 - type: file
   name: thumbnail
-  label: Photo
+  label: Photo 1
+- name: thumbnail2
+  type: file
+  config:
+    maxSize: 250
+  label: Photo 2
+- name: thumbnail3
+  type: file
+  config:
+    maxSize: 250
+  label: Photo 3
 - type: list
   name: cv
   label: Curriculum Vitae
