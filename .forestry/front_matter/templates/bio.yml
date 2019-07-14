@@ -36,5 +36,14 @@ fields:
     schema:
       format: markdown
   label: Mission
+- name: vision
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Vision
 pages:
 - data/bio/bio.md
