@@ -27,5 +27,14 @@ fields:
 - type: list
   name: cv
   label: Curriculum Vitae
+- name: mission
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Mission
 pages:
 - data/bio/bio.md
