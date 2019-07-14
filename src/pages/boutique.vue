@@ -10,9 +10,11 @@
             :key="product.node.id"
           >
             <div class="card">
-              <div class="card-image">
-                <g-image :src="product.node.thumbnail"></g-image>
-              </div>
+              <a :href="product.node.url" target="_blank">
+                <div class="card-image">
+                  <g-image :src="product.node.thumbnail"></g-image>
+                </div>
+              </a>
               <div class="card-content">
                 <h2 class="title is-6">{{product.node.title}}</h2>
               </div>
