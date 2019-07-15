@@ -13,3 +13,5 @@ fields:
   name: position
   label: position
   hidden: true
+pages:
+- data/home/lead.md
