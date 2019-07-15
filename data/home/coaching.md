@@ -2,6 +2,7 @@
 thumbnail: "/uploads/coaching.jpg"
 title: Coaching Holistique
 position: 2
+Position: '2'
 
 ---
 * Retrouver sa vitalité
