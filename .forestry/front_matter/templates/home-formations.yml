@@ -1,0 +1,19 @@
+---
+label: Home - Formations
+hide_body: false
+fields:
+- type: text
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: title
+  label: title
+- type: number
+  name: position
+  label: position
+- type: text
+  name: uid
+  label: uid
+- type: list
+  name: liste
+  label: liste
