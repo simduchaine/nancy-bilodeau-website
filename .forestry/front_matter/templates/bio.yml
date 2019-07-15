@@ -13,9 +13,37 @@ fields:
     required: true
 - type: file
   name: thumbnail
-  label: Photo
+  label: Photo 1
+- name: thumbnail2
+  type: file
+  config:
+    maxSize: 250
+  label: Photo 2
+- name: thumbnail3
+  type: file
+  config:
+    maxSize: 250
+  label: Photo 3
 - type: list
   name: cv
   label: Curriculum Vitae
+- name: mission
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Mission
+- name: vision
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Vision
 pages:
 - data/bio/bio.md
