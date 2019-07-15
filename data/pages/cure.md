@@ -8,10 +8,12 @@ Depuis quelques années il y a un engouement pour la pratique de cure pour aider
 
 Les programmes les plus populaires sont :
 
-- Détox de 30 jours du printemps, signature d’OM Prana
-- Programme de transformation alimentaire de 30 jours
-- Cure de jus, souvent combiné avec fin de semaine de yoga
-- Fin de semaine de Jeune et méditation
-- Semaine de Jus et d’herbe de blé
+* Détox de 30 jours du printemps, signature d’OM Prana
+* Programme de transformation alimentaire de 30 jours
+* Cure de jus, souvent combiné avec fin de semaine de yoga
+* Fin de semaine de Jeune et méditation
+* Semaine de Jus et d’herbe de blé
 
 On a tous le pouvoir de reprendre notre santé en main ! Un corps bien nourrit et entretenu en est la fondation essentielle.
+
+[Prendre Rendez-vous >](https://www.gorendezvous.com/homepage/111690)
