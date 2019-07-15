@@ -18,7 +18,7 @@
 </template>
 
 <static-query>
-query Lead {
+query {
   services(id: "539929b2d65fe0d4bbf8a7d38b820227") {
     title
     liste
