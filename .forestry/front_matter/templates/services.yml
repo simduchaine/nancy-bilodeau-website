@@ -11,7 +11,7 @@ fields:
   name: thumbnail
   label: Image
 - type: number
-  name: Position
+  name: position
   label: Position
   description: Ordre d'affichage du service
 pages:
