@@ -16,3 +16,5 @@ fields:
 - type: list
   name: liste
   label: Liste Droite
+pages:
+- data/home/formations.md
