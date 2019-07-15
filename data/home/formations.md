@@ -2,7 +2,8 @@
 thumbnail: ""
 title: Formations
 position: 5
-liste: 
+uid: home-formation
+liste:
   - Cours
   - Retraite
   - Conférences

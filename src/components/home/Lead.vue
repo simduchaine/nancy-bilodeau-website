@@ -12,7 +12,7 @@
 
 <static-query>
 query {
-  services(id: "95291a247fd5786e71684239e96f5870") {
+  services(path: "/data/home/lead") {
     title
     content
   }

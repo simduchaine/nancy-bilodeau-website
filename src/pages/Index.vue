@@ -22,7 +22,7 @@
 
 <page-query>
   query services {
-    data: allservices(filter: { id: { nin: ["95291a247fd5786e71684239e96f5870", "539929b2d65fe0d4bbf8a7d38b820227"] }}, sortBy: "position", order: ASC) {
+    data: allservices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title

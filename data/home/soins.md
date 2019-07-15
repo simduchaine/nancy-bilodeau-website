@@ -2,12 +2,11 @@
 thumbnail: "/uploads/soins.jpg"
 title: Soins
 position: 3
-Position: '3'
-
 ---
-* Cohérence Cardiaque
-* Défigement émotionnel PEACE
-* Traitement énergétique Reiki
-* Cosmonergy
+
+- Cohérence Cardiaque
+- Défigement émotionnel PEACE
+- Traitement énergétique Reiki
+- Cosmonergy
 
 [Soins >](/soins)
