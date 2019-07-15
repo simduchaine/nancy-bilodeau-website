@@ -14,3 +14,5 @@ fields:
   name: Position
   label: Position
   description: Ordre d'affichage du service
+pages:
+- data/home/call-to-action.md
