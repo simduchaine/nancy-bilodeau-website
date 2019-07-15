@@ -13,8 +13,9 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - lead
   - services
+  - lead
+  - home-formations
 - type: document
   path: data/pages/coaching.md
   label: Coaching
