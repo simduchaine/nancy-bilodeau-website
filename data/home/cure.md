@@ -1,9 +1,10 @@
 ---
-thumbnail: /uploads/cure.jpg
+thumbnail: "/uploads/cure.jpg"
 title: Cure
 position: 4
----
+Position: '4'
 
+---
 - Programme de Détox
 - Alimentation Vivante
 - Cure de Jus

@@ -14,3 +14,8 @@ fields:
   name: Position
   label: Position
   description: Ordre d'affichage du service
+pages:
+- data/home/cure.md
+- data/home/soins.md
+- data/home/coaching.md
+- data/home/call-to-action.md

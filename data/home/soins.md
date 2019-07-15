@@ -2,6 +2,7 @@
 thumbnail: "/uploads/soins.jpg"
 title: Soins
 position: 3
+Position: '3'
 
 ---
 * Cohérence Cardiaque
