@@ -34,6 +34,6 @@ En 2016, Nancy décide de s’éloigner de la restauration et faire un retour en
 
 > Je crois ardemment qu’en aidant les individus à retrouver la joie de vivre en se libérer de leur souffrance et en se reconnecter à leur essence qu’on contribue au bien-être global de tous. Nous sommes tous ici pour nous réaliser et être heureux. Les blocages ou déséquilibre sont seulement des guides pour nous aider à trouver notre chemin.
 
-En décembre 2018 elle ajoute à sa formation la certification de Praticien Neuro-Sensoriel [PEACE](https://www.arquantis.eu/default.html) et continue en 2019 avec son Reiki niveau 3 et la formation de Praticien en Cosmoénergie.
+En décembre 2018 elle ajoute à sa formation la certification de Praticien Neuro-Sensoriel [PEACE](http://stephanedrouet.com/) et continue en 2019 la formation de Praticien en Cosmoénergie.
 
 Nancy est prête à vous accueillir et vous accompagner !
