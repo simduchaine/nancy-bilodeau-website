@@ -40,13 +40,14 @@
 
               <div class="field">
                 <div class="control">
-                  <input class="button submit-btn" type="submit" value="Envoyer" />
+                  <input class="button submit-btn full-btn" type="submit" value="Envoyer" />
                 </div>
               </div>
             </form>
           </div>
           <div id="contact-info" class="column is-one-third">
             <h2 class="title is-5">Coordonnées</h2>
+            <div>Situé tout près de chez Avril à St-Romuald.</div>
             <div>
               <font-awesome :icon="['fa', 'phone']" class="contact-icon" />
               <a href="tel:418-955-9602">418-955-9602</a>
@@ -58,7 +59,7 @@
             <div>
               <a
                 href="https://www.gorendezvous.com/homepage/111690"
-                class="button"
+                class="button full-btn"
                 style="border-width:1px"
               >Prendre Rendez-vous</a>
             </div>
@@ -93,5 +94,15 @@ export default {
 .contact-icon {
   margin-right: 0.5rem;
   color: #3b3049;
+}
+
+.full-btn {
+  background: #d05208;
+  color: white;
+  border: none;
+  &:hover {
+    color: white;
+    background: #3b3049;
+  }
 }
 </style>

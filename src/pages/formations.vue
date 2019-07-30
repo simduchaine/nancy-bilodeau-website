@@ -3,6 +3,9 @@
     <div class="offset-bg-blue section">
       <div class="container">
         <h1 class="title">Formations</h1>
+        <div
+          style="margin-bottom:2rem;"
+        >J'ai déjà plusieurs cours de développés, vous pouvez organiser un cours ou participer au prochain à notre horaire. Pour organiser un cours, une retraire, une conférence, ou un repas, entre amis ou pour votre entreprise, vous n’avez besoin que de rassembler 10 personnes et votre inscription sera gratuite !</div>
         <div class="columns is-multiline">
           <div
             class="column is-one-third"

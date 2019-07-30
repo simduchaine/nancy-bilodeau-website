@@ -20,6 +20,7 @@ cv:
   - Pratique Cosmoénergie, 2019
 vision: "Un monde meilleur où les individus et entreprises prennent en charge leur santé, leur mieux-être, et leurs impacts sur les autres et l’environnement."
 mission: "Accompagner les gens et les entreprises à être + en santé, + heureux et + accomplis."
+cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
 ---
 
 Nancy a 47 ans et tout un parcours de vie. Né au Québec, détentrice d’un Baccalauréat en affaire de l’[Université de Sherbrooke](https://www.usherbrooke.ca/) et d’un MBA de l’[Université Keller Graduate School of Management](https://www.keller.edu/) des Etats-Unis. Elle a vécu 12 ans aux États Unis et travailler dans plusieurs industries autant pour de grandes, moyennes et de petites entreprises. Plus d’information sur son parcours professionnel est disponible sur son profil [LinkedIn](https://www.linkedin.com/in/nancybilodeau/).

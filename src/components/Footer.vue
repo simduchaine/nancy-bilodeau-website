@@ -3,7 +3,7 @@
     <div class="container is-fluid">
       <div class="columns">
         <div class="column is-narrow">
-          <g-image src="~/assets/img/nancy-bilodeau-logo.svg"/>
+          <g-image src="~/assets/img/nancy-bilodeau-logo.svg" />
         </div>
         <div class="column is-half"></div>
         <div class="column is-one-third">
@@ -26,14 +26,14 @@
                 class="required email input"
                 id="mce-EMAIL"
                 placeholder="Adresse Courriel"
-              >
+              />
               <input
                 type="submit"
                 value="Soumettre"
                 name="subscribe"
                 id="mc-embedded-subscribe"
                 class="button"
-              >
+              />
             </div>
             <div id="mce-responses" class="clear">
               <div class="response" id="mce-error-response" style="display:none"></div>
@@ -41,7 +41,7 @@
             </div>
             <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
             <div style="position: absolute; left: -5000px;" aria-hidden="true">
-              <input type="text" name="b_23c00cdf65b51791bb6e5bda3_16ac9ef9aa" tabindex="-1" value>
+              <input type="text" name="b_23c00cdf65b51791bb6e5bda3_16ac9ef9aa" tabindex="-1" value />
             </div>
           </form>
           <!--End mc_embed_signup-->
@@ -53,13 +53,13 @@
         <!-- <div class="column is-narrow is-size-7">Termes & Conditions Confidentialité Cookies</div> -->
         <div class="column is-narrow brands">
           <a href="https://www.facebook.com/NancyBilodeauCoaching/">
-            <font-awesome class="icons" :icon="['fab', 'facebook-f']" size="md"/>
+            <font-awesome class="icons" :icon="['fab', 'facebook-f']" size="md" />
           </a>
           <a href="https://www.youtube.com/channel/UCPdog-IyIN6GGL4sEl5gMdA">
-            <font-awesome class="icons" :icon="['fab', 'youtube']" size="md"/>
+            <font-awesome class="icons" :icon="['fab', 'youtube']" size="md" />
           </a>
           <a href="https://ca.linkedin.com/in/nancybilodeau">
-            <font-awesome class="icons" :icon="['fab', 'linkedin-in']" size="md"/>
+            <font-awesome class="icons" :icon="['fab', 'linkedin-in']" size="md" />
           </a>
         </div>
       </div>
@@ -74,9 +74,9 @@ export default {
 </script>
 
 <style lang="scss">
-footer .columns:not(:last-child) {
+/* footer .columns:not(:last-child) {
   padding-bottom: 2rem;
-}
+} */
 
 .icons {
   margin: 0 0.5rem;
@@ -86,12 +86,18 @@ footer .columns:not(:last-child) {
   input {
     display: inline-block;
     max-width: 77%;
+    margin-bottom: 1rem;
   }
   .button {
     margin: 0 0.4rem 0;
     padding: 0 10px;
-    background: none;
-    border: solid 1px;
+    background: #d05208;
+    color: white;
+    border: none;
+    &:hover {
+      color: white;
+      background: #3b3049;
+    }
   }
 }
 </style>

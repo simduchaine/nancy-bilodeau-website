@@ -10,11 +10,11 @@
             :key="product.node.id"
           >
             <div class="card">
-              <a :href="product.node.url" target="_blank">
+              <g-link :to="product.node.path">
                 <div class="card-image">
                   <g-image :src="product.node.thumbnail"></g-image>
                 </div>
-              </a>
+              </g-link>
               <div class="card-content">
                 <h2 class="title is-6">{{product.node.title}}</h2>
               </div>
@@ -35,6 +35,7 @@ query Boutique {
         id
         thumbnail (quality: 90, width: 678, height: 452)
         url
+        path
       }
     }
   }

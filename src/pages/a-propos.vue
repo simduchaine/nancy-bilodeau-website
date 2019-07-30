@@ -6,7 +6,7 @@
           <h1 class="title">{{ edge.node.title }}</h1>
           <ClientOnly>
             <carousel
-              class="is-right carousel"
+              class="carousel"
               :per-page="1"
               :centerMode="true"
               :autoplay="true"
@@ -34,6 +34,7 @@
           <ul>
             <li v-for="(item, index) in edge.node.cv" :key="index">{{ item }}</li>
           </ul>
+          <a :href="edge.node.cv_link.src" class="button" download>Télécharger mon CV</a>
         </div>
       </section>
 
@@ -69,6 +70,7 @@ query allBio {
         thumbnail (quality: 90, height: 800, width: 700)
         thumbnail2 (quality: 90, height: 800, width: 700)
         thumbnail3 (quality: 90, height: 800, width: 700)
+        cv_link
       }
     }
   }
@@ -94,8 +96,11 @@ export default {
 </script>
 
 <style lang="scss">
-.carousel {
-  max-width: 52%;
+@media screen and (min-width: 768px) {
+  .carousel {
+    width: 50%;
+    margin: 0 auto;
+  }
 }
 </style>
 

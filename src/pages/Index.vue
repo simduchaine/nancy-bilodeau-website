@@ -59,6 +59,10 @@ export default {
 </script>
 
 <style lang="scss">
+.button {
+  border-radius: 5px;
+}
+
 .title {
   line-height: 1.325;
 
