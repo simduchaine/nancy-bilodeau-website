@@ -4,10 +4,11 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: text
   name: url
-  label: url
+  label: Lien externe
+  description: Lien vers la boutique du produit
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Image
