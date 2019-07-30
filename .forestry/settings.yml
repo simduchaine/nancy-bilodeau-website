@@ -36,6 +36,11 @@ sections:
   match: "**/*"
   templates:
   - formations
+- type: directory
+  path: data/boutique
+  label: Boutique
+  create: all
+  match: "**/*"
 - type: document
   path: data/bio/bio.md
   label: À propos
