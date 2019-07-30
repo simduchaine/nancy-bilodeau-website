@@ -4,7 +4,7 @@
       <div class="container is-fluid">
         <div class="navbar-brand">
           <g-link to="/" class="navbar-item">
-            <g-image src="~/assets/img/nancy-bilodeau-logo.svg"/>
+            <g-image src="~/assets/img/nancy-bilodeau-logo.svg" />
           </g-link>
 
           <a
@@ -24,24 +24,24 @@
           <div class="navbar-end">
             <g-link class="navbar-item" to="/coaching-holistique">Coaching</g-link>
             <g-link class="navbar-item" to="/soins">Soins</g-link>
-            <g-link class="navbar-item" to="/cure">Cure</g-link>
+            <g-link class="navbar-item" to="/cures">Cures</g-link>
             <g-link class="navbar-item" to="/formations">Formations</g-link>
             <g-link class="navbar-item" to="/boutique">Boutique</g-link>
             <g-link class="navbar-item" to="/a-propos">Bio</g-link>
             <g-link class="navbar-item" to="/contact">Contact</g-link>
             <div class="navbar-item brands">
               <a href="https://www.facebook.com/NancyBilodeauCoaching/">
-                <font-awesome :icon="['fab', 'facebook-f']"/>
+                <font-awesome :icon="['fab', 'facebook-f']" />
               </a>
             </div>
             <div class="navbar-item brands">
               <a href="https://www.youtube.com/channel/UCPdog-IyIN6GGL4sEl5gMdA">
-                <font-awesome :icon="['fab', 'youtube']"/>
+                <font-awesome :icon="['fab', 'youtube']" />
               </a>
             </div>
             <div class="navbar-item brands">
               <a href="https://ca.linkedin.com/in/nancybilodeau">
-                <font-awesome :icon="['fab', 'linkedin-in']"/>
+                <font-awesome :icon="['fab', 'linkedin-in']" />
               </a>
             </div>
           </div>
