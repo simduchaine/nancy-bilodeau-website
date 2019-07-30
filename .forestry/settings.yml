@@ -41,6 +41,8 @@ sections:
   label: Boutique
   create: all
   match: "**/*"
+  templates:
+  - products
 - type: document
   path: data/bio/bio.md
   label: À propos
