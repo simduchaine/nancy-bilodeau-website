@@ -18,6 +18,9 @@
               <div class="card-content">
                 <h2 class="title is-6">{{product.node.title}}</h2>
               </div>
+              <div class="card-footer">
+                <div class="card-footer-item tag">{{product.node.categorie}}</div>
+              </div>
             </div>
           </div>
         </div>
@@ -36,6 +39,7 @@ query Boutique {
         thumbnail (quality: 90, width: 678, height: 452)
         url
         path
+        categorie
       }
     }
   }
