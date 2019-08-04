@@ -1,13 +1,13 @@
 ---
 thumbnail: "/uploads/cure.jpg"
-title: Cure
+title: Cures
 position: 4
+
 ---
+* Programme de Détox
+* Alimentation Vivante
+* Cure de Jus
+* Herbe de blé
+* Jeûne
 
-- Programme de Détox
-- Alimentation Vivante
-- Cure de Jus
-- Herbe de blé
-- Jeûne
-
-[Cure >](/cure)
+[Cures >](/cures)
