@@ -28,7 +28,7 @@ sections:
   - general-page
 - type: document
   path: data/pages/cure.md
-  label: Cure
+  label: Cures
 - type: directory
   path: data/formations
   label: Formations
