@@ -14,5 +14,5 @@ fields:
   label: Image
 pages:
 - data/pages/cure.md
-- data/soins/coherence-cardiaque.md
 - data/pages/coaching.md
+- data/soins/coherence-cardiaque.md

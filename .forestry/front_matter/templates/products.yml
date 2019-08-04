@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: Titre
+- name: categorie
+  type: tag_list
+  default: []
+  label: Catégorie
 - type: text
   name: url
   label: Lien externe
