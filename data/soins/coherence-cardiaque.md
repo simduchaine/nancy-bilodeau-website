@@ -10,7 +10,7 @@ Elle fut d’abord diffusée par Stephen Elliott aux États-Unis et par la fonda
 
 C’est toutefois grâce à [Heart Math Institut](https://www.heartmath.org/) créé en 1991 par Doc Childre que la technique prend toute sa force. Heart Math a développé des outils et des cours visant à aider les gens à augmenter leur résilience et leur mieux-être par la pratique de techniques de respiration et de visualisation diverses.
 
-Les séances de cohérence cardiaque débutent avec une lecture de votre état de cohérence actuel à l’aide de emWaveProPlus :
+Les séances de cohérence cardiaque débutent avec une lecture de votre état de cohérence actuel à l’aide du emWaveProPlus :
 
 ![emWaveProPlus](/uploads/emwave_desktop_chart.png)
 
@@ -30,7 +30,7 @@ Cette méthode est particulièrement appréciée par les gens qui :
 * souffrent de dépression
 * souffrent de fatigue chronique
 
-La méthode demande une participation active de la personne qui souhaite transformer sa vie. Les résultats à court terme sont visibles après seulement deux minutes de pratique et les résultats durables à long terme demandent une pratique continue de 3 à 4 mois pour rétablir la cohérence naturelle de nos systèmes. 
+La méthode demande une participation active de la personne qui souhaite transformer sa vie. Les résultats à court terme sont visibles après seulement deux minutes de pratique et les résultats durables à long terme demandent une pratique continue de 3 à 4 mois pour rétablir la cohérence naturelle de nos systèmes.
 
 La cohérence cardiaque nous permet d’être mieux connecté à notre essence pure. Elle permet de faire des choix cohérents avec la personne que nous sommes et celle que nous sommes appelé à devenir.
 
