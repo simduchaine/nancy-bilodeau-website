@@ -1,0 +1,22 @@
+---
+label: Inspirations
+hide_body: false
+fields:
+- type: text
+  name: id
+  label: id
+- type: text
+  name: title
+  label: title
+- type: list
+  name: sante
+  label: sante
+- type: list
+  name: spirituelle
+  label: spirituelle
+- type: list
+  name: affaires
+  label: affaires
+- type: list
+  name: documentaires
+  label: documentaires
