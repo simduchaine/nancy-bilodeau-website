@@ -2,10 +2,10 @@
 title: Priime
 url: https://shop.ariix.com/OnlineServices/shopNg/index?listType=C&sponsorId=7098258
 thumbnail: "/uploads/huiles-essentielles.jpg"
-categorie: "Huiles Essentielles"
----
+categorie: Huiles Essentielles
 
-Le pouvoir des huiles essentielles est avec bonheur de plus en plus apprécié. Celles-ci peuvent énergiser, calmer, réparer et tellement plus.
+---
+Le pouvoir des huiles essentielles est, à mon grand bonheur, de plus en plus apprécié. Celles-ci peuvent aider à énergiser, calmer, réparer, désinfecter et tellement plus.
 
 J’utilise les mélanges suivants :
 
@@ -13,15 +13,15 @@ J’utilise les mélanges suivants :
 
 ![Lavande](/uploads/calm_bottle_lg.png)
 
-La lavande combinée aux huiles apaisantes de néroli, de valériane et de rose aide à soulager l'agitation, l'anxiété et favorise la paix et la tranquillité.
+La lavande combinée aux huiles apaisantes de néroli, de valériane et de rose aide à réduire l'agitation, l'anxiété et favorise la paix et la tranquillité.
 
-**Pour mes excès d’activité physique**
+**Pour mes petites douleurs** 
 
 ![Menthe Poivrée](/uploads/escape_bottle_lg.png)
 
 La menthe poivrée, le camphre blanc, le bouleau et à la gaulthérie sont des essences rafraîchissantes qui apaisent les muscles endoloris. L'huile de poivre noir stimule la circulation sanguine, tandis que les ingrédients clés pénètrent pour soulager les douleurs musculaires profondes.
 
-**Pour me libérer**
+**Pour ma bonne humeur**
 
 ![libéré](/uploads/sentry_bottle_lg.png)
 
