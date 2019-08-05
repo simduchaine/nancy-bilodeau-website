@@ -43,9 +43,6 @@ sections:
   match: "**/*"
   templates:
   - products
-- type: document
-  path: data/bio/bio.md
-  label: À propos
 - type: directory
   path: data/bio
   label: Bio
