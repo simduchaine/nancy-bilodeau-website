@@ -52,13 +52,17 @@
           </div>
         </div>
       </section>
+
+      <section id="inspirations">
+        <inspirations></inspirations>
+      </section>
     </div>
   </Layout>
 </template>
 
 <page-query>
 query allBio {
-  allbio {
+  allbio(filter: { path: { nin: ["/data/bio/inspirations"] }}) {
     edges {
       node {
         id
@@ -78,11 +82,14 @@ query allBio {
 </page-query>
 
 <script>
+import inspirations from "~/components/bio/inspirations.vue";
+
 export default {
   metaInfo: {
     title: "À Propos"
   },
   components: {
+    inspirations,
     Carousel: () =>
       import("vue-carousel")
         .then(m => m.Carousel)
