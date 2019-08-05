@@ -5,18 +5,23 @@ fields:
 - type: text
   name: id
   label: id
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: list
   name: sante
-  label: sante
+  label: Santé
+  description: Liste des inspirations santé
 - type: list
   name: spirituelle
-  label: spirituelle
+  label: Spirituelle
+  description: Liste des inspirations spirituelles
 - type: list
   name: affaires
-  label: affaires
+  label: Affaires
+  description: Liste des inspirations affaires
 - type: list
   name: documentaires
-  label: documentaires
+  label: Documentaires
+  description: Liste des inspirations documentaires
