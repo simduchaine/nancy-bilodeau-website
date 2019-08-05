@@ -25,3 +25,5 @@ fields:
   name: documentaires
   label: Documentaires
   description: Liste des inspirations documentaires
+pages:
+- data/bio/inspirations.md
