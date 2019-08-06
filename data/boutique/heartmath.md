@@ -1,17 +1,17 @@
 ---
 title: Inner Balance
-url: "https://click.linksynergy.com/link?id=QvO7r5UrhsQ&offerid=448144.11732971798&type=2&murl=http%3A%2F%2Fstore.heartmath.com%2Finnerbalance"
+url: https://click.linksynergy.com/link?id=QvO7r5UrhsQ&offerid=448144.11732971798&type=2&murl=http%3A%2F%2Fstore.heartmath.com%2Finnerbalance
 thumbnail: "/uploads/hearthmath_boutique.png"
-categorie: "Cohérence"
----
+categorie: Cohérence
 
+---
 ![Smile](/uploads/bruce-mars-cropped.png)
 
 HMI développe depuis 1991 des outils pour nous aider à mesurer et améliorer notre cohérence afin de mieux gérer notre stress et répondre aux évènements de la vie.
 
-- Faire le plein d’énergie
-- Régulariser ses émotions
-- Calmer son esprit
+* Faire le plein d’énergie
+* Régulariser ses émotions
+* Calmer son esprit
 
 **Prendre le contrôle de ses émotions**
 
@@ -23,19 +23,19 @@ La cohérence est un état d’harmonie entre notre cœur, notre esprit et les f
 
 Les bénéfices généralement observés après deux semaines de pratique sont :
 
-- Sentiment de paix intérieur accru
-- Amélioration du sommeil
-- Diminution des tensions dans les relations
-- Moins d’inquiétudes
-- Plus alerte
-- Meilleure concentration
-- Meilleure prise de décision
-- Attitude plus positive
-- Calme accru
+* Sentiment de paix intérieur accru
+* Amélioration du sommeil
+* Diminution des tensions dans les relations
+* Moins d’inquiétudes
+* Plus alerte
+* Meilleure concentration
+* Meilleure prise de décision
+* Attitude plus positive
+* Calme accru
 
 [Cliquer ici pour plus d’information et commander >](https://click.linksynergy.com/link?id=QvO7r5UrhsQ&offerid=448144.11732971798&type=2&murl=http%3A%2F%2Fstore.heartmath.com%2Finnerbalance)
 
-_NOTE : le site pour commander est disponible seulement en anglais. N’hésitez pas à m’appeler pour vous aider à passer votre commande._
+_NOTE : le site pour commander est disponible seulement en anglais. N’hésitez pas à m’appeler pour de l'assistance en français._
 
 Vous pouvez télécharger l’application depuis l’Apple App Store ou Google Play. Cherchez simplement Inner Balance HeartMath ou cliquez sur les boutons ci-dessous depuis votre appareil mobile compatible:
 
@@ -50,15 +50,15 @@ Inner Balance version Bluetooth utilise BT4.0 (BLE-Bluetooth Low energy) qui fon
 
 EMBALLAGE
 
-- Taille de la boîte: 139,7 x 177,8 x 38 mm
-- Poids: 145 g
+* Taille de la boîte: 139,7 x 177,8 x 38 mm
+* Poids: 145 g
 
 POIDS DU CAPTEUR
 
-- Poids: 26 g
+* Poids: 26 g
 
 SPÉCIFICATIONS DES CAPTEURS
 
-- Taille du clip auriculaire: 41,3 x 19 x 15,9 mm
-- Longueur du câble: 35,6 cm
-- Taille du Pod: 67 mm x 32 mm
+* Taille du clip auriculaire: 41,3 x 19 x 15,9 mm
+* Longueur du câble: 35,6 cm
+* Taille du Pod: 67 mm x 32 mm
