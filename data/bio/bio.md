@@ -19,9 +19,8 @@ cv:
 - Pratique Neuro-Sensoriel PEACE, 2018
 - Pratique Cosmoénergie, 2019
 vision: Un monde meilleur où les individus et entreprises prennent en charge leur
-  santé, leur mieux-être, et leurs impacts sur les autres et l’environnement.
-mission: Accompagner les gens et les entreprises à être + en santé, + heureux et +
-  accomplis.
+  mieux-être et leurs impacts sur les autres et l’environnement.
+mission: Accompagner les gens et les entreprises à être + en santé et + heureux.
 cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
 
 ---
