@@ -12,7 +12,7 @@ Nous sommes beaucoup plus que notre enveloppe corporelle. Un corps physique parf
 
 Lorsque nous sommes à la recherche du mieux-être, les dimensions à explorer sont :
 
-* La santé du corps physique
+* L'état du corps physique
 * L’harmonie émotionnelle
 * La circulation de l’énergie
 * La fluidité de l’intellect
@@ -32,9 +32,9 @@ Mon approche est particulièrement positive pour les gens qui :
 * veulent réaliser un rêve ou un projet mais n’y arrive pas
 * veulent apprendre à mieux gérer leur stress
 * souffrent de douleurs chroniques ou d’inflammation et souhaitent explorer des méthodes alternatives
-* souhaitent prendre leur santé en main mais sont perdus avec toutes les approches disponibles
-* souhaitent perdre du poids mais n’y arrivent pas malgré plusieurs régimes et approches essayées
-* sont aux prises avec des addictions et des comportements destructifs
+* souhaitent prendre leur bien-être en main mais sont perdus avec toutes les approches disponibles
+* souhaitent atteindre leur poids santé mais n’y arrivent pas malgré plusieurs régimes et approches essayées
+* sont aux prises avec des addictions et des habitudes destructives
 * ont des relations difficiles avec les autres ou en couple et souhaite améliorer le tout.
 
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
