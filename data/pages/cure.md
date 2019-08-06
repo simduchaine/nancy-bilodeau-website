@@ -6,7 +6,7 @@ thumbnail: "/uploads/cure.jpg"
 ---
 Depuis quelques années, il y a un engouement pour les cures qui aident à retrouver notre énergie, notre vitalité et même perdre du poids.
 
-J'ai été formée de [Karyn Calabrese](https://karynraw.com/) de l’[institut Hippocrates](https://instituthippocrates.com/) et de l’[institut médicale Sanoviv](https://www.sanoviv.com/). Je peux vous aider lors de séances d’accompagnement individuel. Vous pouvez également vous inscrire à différents programmes offerts au cours de l’année.
+J'ai été formée de [Karyn Calabrese](https://karynraw.com/) de l’[institut Hippocrates](https://instituthippocrates.com/) et de l’[institut médicale Sanoviv](https://www.sanoviv.com/). Je peux vous accompagner en coaching privé ou vous pouvez également vous inscrire aux différents programmes offerts au cours de l’année.
 
 Les programmes les plus populaires sont :
 
@@ -16,7 +16,7 @@ Les programmes les plus populaires sont :
 * Fin de semaine de jeûne et méditation
 * Semaine de jus et d’herbe de blé
 
-Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourri et entretenu en est la fondation de base.
+Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourri et entretenu en est la fondation primordiale.
 
 Inscrivez-vous à notre infolettre pour connaître l’horaire des prochaines cures ou rencontrez moi en consultation individuelle.
 
