@@ -2,8 +2,10 @@
 id: inspirations
 title: Inspirations
 sante:
-- Hippocrates
-- Sanoviv
+- Dr. Mercola
+- Dr. Mark Hyman
+- Hippocrates Health Institute
+- Sanoviv Medical Institute
 - Kris Carr
 - Karyn Calabrese
 - Bruce Lipton
