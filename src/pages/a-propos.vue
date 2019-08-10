@@ -4,26 +4,7 @@
       <section class="offset-bg-blue section">
         <div class="container bio">
           <h1 class="title">{{ edge.node.title }}</h1>
-          <ClientOnly>
-            <carousel
-              class="carousel"
-              :per-page="1"
-              :centerMode="true"
-              :autoplay="true"
-              :loop="true"
-              :autoplayTimeout="5000"
-            >
-              <slide>
-                <g-image class="image" :src="edge.node.thumbnail"></g-image>
-              </slide>
-              <slide>
-                <g-image class="image" :src="edge.node.thumbnail2"></g-image>
-              </slide>
-              <slide>
-                <g-image class="image" :src="edge.node.thumbnail3"></g-image>
-              </slide>
-            </carousel>
-          </ClientOnly>
+          <g-image class="image is-right" :src="edge.node.thumbnail"></g-image>
           <div v-html="edge.node.content"></div>
         </div>
       </section>
