@@ -25,7 +25,7 @@ module.exports = {
     remark: {
       externalLinksTarget: "_blank",
       externalLinksRel: ["nofollow", "noopener", "noreferrer"],
-      anchorClassName: "icon icon-link",
+      anchorClassName: "fas fa-hashtag",
       plugins: [
         // ...global plugins
       ]

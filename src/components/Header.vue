@@ -35,7 +35,7 @@
               </a>
             </div>
             <div class="navbar-item brands">
-              <a href="https://www.youtube.com/channel/UCPdog-IyIN6GGL4sEl5gMdA">
+              <a href="https://www.youtube.com/channel/UCel4Y254TeW2NpNyw37RTcA">
                 <font-awesome :icon="['fab', 'youtube']" />
               </a>
             </div>

@@ -55,7 +55,7 @@
           <a href="https://www.facebook.com/NancyBilodeauCoaching/">
             <font-awesome class="icons" :icon="['fab', 'facebook-f']" size="md" />
           </a>
-          <a href="https://www.youtube.com/channel/UCPdog-IyIN6GGL4sEl5gMdA">
+          <a href="https://www.youtube.com/channel/UCel4Y254TeW2NpNyw37RTcA">
             <font-awesome class="icons" :icon="['fab', 'youtube']" size="md" />
           </a>
           <a href="https://ca.linkedin.com/in/nancybilodeau">
