@@ -42,9 +42,7 @@ Vous pouvez télécharger l’application depuis l’Apple App Store ou Google P
 [![App Store](/uploads/app-store.png)](https://itunes.apple.com/fr/app/inner-balance/id569278747?mt=8)
 [![Play Store](/uploads/googleplay.png)](https://play.google.com/store/apps/details?id=com.heartmath.innerbalance)
 
-![Inner Balance App](/uploads/InnerbalanceApp1.png)
-![Inner Balance App](/uploads/innerbalanceapp-screenshot.jpg)
-![Inner Balance App](/uploads/InnerbalanceApp3.png)
+![Inner Balance App](/uploads/Innerbalanceapp-combined.jpg)
 
 **Spécifications techniques**
 
