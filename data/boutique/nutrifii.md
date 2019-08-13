@@ -1,7 +1,7 @@
 ---
 title: Nutrifii
 url: http://www.nutrifii.com/NancyBilodeau
-thumbnail: "/uploads/nutrifii.jpg"
+thumbnail: "/uploads/super aliment supplements.png"
 featured_image: "/uploads/Supplements.png"
 categorie: Suppléments
 
