@@ -2,10 +2,10 @@
 title: Inner Balance
 url: https://click.linksynergy.com/link?id=QvO7r5UrhsQ&offerid=448144.11732971798&type=2&murl=http%3A%2F%2Fstore.heartmath.com%2Finnerbalance
 thumbnail: "/uploads/hearthmath_boutique.png"
-featured_image: "/uploads/hearthmath_boutique.png"
+featured_image: "/uploads/resilience.png"
 categorie: Cohérence
----
 
+---
 HMI développe depuis 1991 des outils pour nous aider à mesurer et améliorer notre cohérence afin de mieux gérer notre stress et répondre aux évènements de la vie.
 
 - Faire le plein d’énergie
