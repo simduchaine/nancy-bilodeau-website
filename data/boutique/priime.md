@@ -2,10 +2,10 @@
 title: Priime
 url: https://shop.ariix.com/OnlineServices/shopNg/index?listType=C&sponsorId=7098258
 thumbnail: "/uploads/huiles-essentielles.jpg"
-featured_image: "/uploads/huiles-essentielles.jpg"
+featured_image: "/uploads/Huiles Essentielles.png"
 categorie: Huiles Essentielles
----
 
+---
 Le pouvoir des huiles essentielles est, à mon grand bonheur, de plus en plus apprécié. Celles-ci peuvent aider à énergiser, calmer, réparer, désinfecter et tellement plus.
 
 J’utilise les mélanges suivants :
