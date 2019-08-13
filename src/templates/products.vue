@@ -3,7 +3,7 @@
     <div class="offset-bg-blue section">
       <div class="container">
         <h1 class="title">{{ $page.products.title }}</h1>
-        <g-image class="header-img" :src="$page.products.thumbnail"></g-image>
+        <g-image class="header-img" :src="$page.products.featured_image"></g-image>
         <div v-html="$page.products.content"></div>
       </div>
     </div>
@@ -15,7 +15,7 @@ query singleProduct ($id: String!) {
   products (id: $id) {
     title
     content
-    thumbnail (quality: 90, height: 700, width: 1344)
+    featured_image (quality: 90, height: 700)
   }
 }
 </page-query>

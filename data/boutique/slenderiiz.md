@@ -2,6 +2,7 @@
 title: Slenderiiz
 url: http://www.slenderiiz.com/NancyBilodeau
 thumbnail: "/uploads/slenderiiz.png"
+featured_image: "/uploads/slenderiiz.png"
 categorie: "Perte de poids"
 ---
 

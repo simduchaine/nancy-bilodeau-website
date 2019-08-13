@@ -18,8 +18,6 @@ Les programmes les plus populaires sont :
 
 Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourri et entretenu en est la fondation primordiale.
 
-![Faites le plein d'énergie et de vitalité](/uploads/Plein_Energie_Vitalite.jpg)
-
 Inscrivez-vous à notre infolettre pour connaître l’horaire des prochaines cures ou rencontrez moi en consultation individuelle.
 
 [Prendre Rendez-vous >](https://www.gorendezvous.com/homepage/111690)
