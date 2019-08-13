@@ -2,7 +2,7 @@
 type: Atelier
 id: ''
 title: Smoothie 101
-thumbnail: "/uploads/jan-sedivy-kF4U7OWh_DI-unsplash.jpg"
+thumbnail: "/uploads/smoothie.jpg"
 link: "#"
 
 ---
