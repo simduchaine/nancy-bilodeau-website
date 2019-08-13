@@ -1,9 +1,9 @@
 ---
-thumbnail: "/uploads/coaching.jpg"
+thumbnail: "/uploads/accomplishment-adult-adventure-372098.jpg"
 title: Coaching Holistique
 position: 2
----
 
+---
 - Retrouver sa vitalité
 - Bien manger
 - Adopter de bonnes habitudes
