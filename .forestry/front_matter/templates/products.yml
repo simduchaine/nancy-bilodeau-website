@@ -15,4 +15,11 @@ fields:
   description: Lien vers la boutique du produit
 - type: file
   name: thumbnail
+  label: Vignette
+  description: Vignette pour la page boutique
+- name: featured_image
+  type: file
+  config:
+    maxSize: 250
   label: Image
+  description: Image de la page du produit
