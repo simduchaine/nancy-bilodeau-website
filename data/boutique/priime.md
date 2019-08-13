@@ -2,7 +2,7 @@
 title: Priime
 url: https://shop.ariix.com/OnlineServices/shopNg/index?listType=C&sponsorId=7098258
 thumbnail: "/uploads/huiles-essentielles.jpg"
-featured_image: "/uploads/Huiles Essentielles.png"
+featured_image: "/uploads/Capture d’écran 2019-08-13 à 13.19.26.png"
 categorie: Huiles Essentielles
 
 ---
