@@ -2,7 +2,7 @@
 title: Puritii
 url: http://www.puritii.com/NancyBilodeau
 thumbnail: "/uploads/puritii.jpg"
-featured_image: "/uploads/filtreur eau.png"
+featured_image: "/uploads/Capture d’écran 2019-08-13 à 13.51.05.png"
 categorie: Filtreur (air et eau)
 
 ---
