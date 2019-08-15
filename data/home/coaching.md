@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/accomplishment-adult-adventure-372098.jpg"
+thumbnail: "/uploads/Capture d’écran 2019-08-15 à 09.47.11.png"
 title: Coaching Holistique
 position: 2
 
