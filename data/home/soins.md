@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/soins.jpg"
+thumbnail: "/uploads/AdobeStock_189354627.jpeg"
 title: Soins
 position: 3
 
