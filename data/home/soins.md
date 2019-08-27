@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/Capture d’écran 2019-08-27 à 17.03.20.png"
+thumbnail: "/uploads/soins.jpg"
 title: Soins
 position: 3
 
