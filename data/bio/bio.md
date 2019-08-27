@@ -1,7 +1,7 @@
 ---
 id: bio
 title: À propos de moi
-thumbnail: "/uploads/Nancy_bilodeau_2019.png"
+thumbnail: "/uploads/_MG_1816-3.jpg"
 thumbnail2: "/uploads/nancy.png"
 thumbnail3: "/uploads/nancy_famille.jpg"
 cv:
