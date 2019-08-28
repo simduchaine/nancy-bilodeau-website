@@ -48,6 +48,20 @@
         </div>
       </div>
     </nav>
+    <div id="siteWidget">
+      <div class="active">
+        <a href="https://nancybilodeau.netlify.com/">
+          Pour moi
+          <span>Perso</span>
+        </a>
+      </div>
+      <div>
+        <a href="https://corpo-nancybilodeau.netlify.com">
+          Pour ma compagnie
+          <span>Corpo</span>
+        </a>
+      </div>
+    </div>
   </header>
 </template>
 
@@ -85,4 +99,35 @@ export default {
   }
 };
 </script>
+
+<style lang="scss">
+#siteWidget {
+  position: fixed;
+  top: 4rem;
+  left: -180px;
+  background: white;
+  z-index: 1;
+  transition: left 0.5s;
+  box-shadow: #8080802e 3px 2px 4px 0px;
+  .active {
+    background: #d05208;
+    a {
+      color: white;
+    }
+  }
+  a {
+    display: flex;
+    justify-content: space-between;
+    span {
+      padding-left: 1.2rem;
+    }
+  }
+  &:hover {
+    left: 0;
+  }
+  div {
+    padding: 0.5rem 0.8rem;
+  }
+}
+</style>
 
