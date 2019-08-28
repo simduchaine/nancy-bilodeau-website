@@ -1,7 +1,7 @@
 ---
 type: Atelier
 id: ''
-title: Smoothie 101
+title: Les Smoothies et Super-aliments
 thumbnail: "/uploads/smoothie.jpg"
 link: "#"
 
