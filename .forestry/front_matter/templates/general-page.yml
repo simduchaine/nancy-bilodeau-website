@@ -13,6 +13,6 @@ fields:
   name: thumbnail
   label: Image
 pages:
-- data/pages/coaching.md
 - data/pages/cure.md
+- data/pages/coaching.md
 - data/soins/coherence-cardiaque.md

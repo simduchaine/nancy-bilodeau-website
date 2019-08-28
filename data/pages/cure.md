@@ -1,9 +1,9 @@
 ---
 id: cures
 title: Cures
-thumbnail: "/uploads/cure.jpg"
----
+thumbnail: "/uploads/Capture d’écran 2019-08-27 à 21.20.38.png"
 
+---
 Depuis quelques années, il y a un engouement pour les cures qui aident à retrouver notre énergie, notre vitalité et même perdre du poids.
 
 J'ai été formée de [Karyn Calabrese](https://karynraw.com/) de l’[institut Hippocrates](https://instituthippocrates.com/) et de l’[institut médicale Sanoviv](https://www.sanoviv.com/). Je peux vous accompagner en coaching privé ou vous pouvez également vous inscrire aux différents programmes offerts au cours de l’année.
