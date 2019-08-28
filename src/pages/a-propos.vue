@@ -11,7 +11,7 @@
 
       <section class="section">
         <div class="container">
-          <h2 class="title is-5">Sommaire des formations principales</h2>
+          <h2 class="title is-5" id="formations">Sommaire des formations principales</h2>
           <ul>
             <li v-for="(item, index) in edge.node.cv" :key="index">{{ item }}</li>
           </ul>
