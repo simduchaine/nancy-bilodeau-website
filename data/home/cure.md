@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/Capture d’écran 2019-08-27 à 21.20.38.png"
+thumbnail: "/uploads/Capture d’écran 2019-08-28 à 07.55.34.png"
 title: Cures
 position: 4
 
