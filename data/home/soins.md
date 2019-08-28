@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/AdobeStock_189354627.jpeg"
+thumbnail: "/uploads/Holistique.jpg"
 title: Soins
 position: 3
 
