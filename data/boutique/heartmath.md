@@ -12,8 +12,6 @@ HMI développe depuis 1991 des outils pour nous aider à mesurer et améliorer n
 * Régulariser ses émotions
 * Calmer son esprit
 
-![Smile](/uploads/bruce-mars-cropped.png)
-
 **Prendre le contrôle de ses émotions**
 
 Il est facile aujourd’hui d’être complètement dépassé, anxieux et éparpillé. L’outil Inner Balance nous entraîne entre autre à augmenter notre résilience par la respiration tout en déplaçant notre attention sur des émotions positives et régénératives
