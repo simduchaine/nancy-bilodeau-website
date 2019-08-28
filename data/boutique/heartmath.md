@@ -2,7 +2,7 @@
 title: Inner Balance
 url: https://click.linksynergy.com/link?id=QvO7r5UrhsQ&offerid=448144.11732971798&type=2&murl=http%3A%2F%2Fstore.heartmath.com%2Finnerbalance
 thumbnail: "/uploads/hearthmath_boutique.png"
-featured_image: "/uploads/resilience.png"
+featured_image: "/uploads/Capture d’écran 2019-08-28 à 12.38.06.png"
 categorie: Cohérence
 
 ---
