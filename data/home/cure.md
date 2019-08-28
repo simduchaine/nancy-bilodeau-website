@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/AdobeStock_276031748.jpeg"
 title: Cures
-position: 4
+position: '4'
 
 ---
 * Programme de Détox
