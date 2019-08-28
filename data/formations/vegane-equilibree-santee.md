@@ -1,5 +1,5 @@
 ---
-title: Jus 101
+title: Les Jus
 type: Cours
 id: vegane
 thumbnail: "/uploads/jan-sedivy-kF4U7OWh_DI-unsplash.jpg"
