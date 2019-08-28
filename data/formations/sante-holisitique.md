@@ -2,7 +2,7 @@
 title: La santé holistique
 type: Conférence
 id: sante-holistique
-thumbnail: "/uploads/AdobeStock_189354627.jpeg"
+thumbnail: "/uploads/bigstock-Earth-day-holiday-concept-Clos-287846302.jpg"
 link: "#"
 
 ---
