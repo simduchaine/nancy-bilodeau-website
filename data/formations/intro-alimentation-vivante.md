@@ -2,7 +2,7 @@
 title: Introduction à l’alimentation vivante
 type: Cours
 id: intro-alimentation-vivante
-thumbnail: "/uploads/buckwheat-dinner-gourmet-69482.jpg"
+thumbnail: "/uploads/close-up-colors-cooking-2284166.jpg"
 link: "#"
 
 ---
