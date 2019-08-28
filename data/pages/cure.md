@@ -1,7 +1,7 @@
 ---
 id: cures
 title: Cures
-thumbnail: "/uploads/Capture d’écran 2019-08-27 à 21.20.38.png"
+thumbnail: "/uploads/AdobeStock_276031748.jpeg"
 
 ---
 Depuis quelques années, il y a un engouement pour les cures qui aident à retrouver notre énergie, notre vitalité et même perdre du poids.
