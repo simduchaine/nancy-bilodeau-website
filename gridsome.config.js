@@ -117,6 +117,19 @@ module.exports = {
           ]
         }
       }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data/site.yaml",
+        typeName: "settings",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ]
+        }
+      }
     }
   ],
   chainWebpack: config => {

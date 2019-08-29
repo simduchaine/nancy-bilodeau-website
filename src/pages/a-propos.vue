@@ -52,9 +52,9 @@ query allBio {
         cv
         vision
         mission
-        thumbnail (quality: 90, height: 800, width: 700)
-        thumbnail2 (quality: 90, height: 800, width: 700)
-        thumbnail3 (quality: 90, height: 800, width: 700)
+        thumbnail (quality: 90, width: 700)
+        thumbnail2 (quality: 90, width: 700)
+        thumbnail3 (quality: 90, width: 700)
         cv_link
       }
     }

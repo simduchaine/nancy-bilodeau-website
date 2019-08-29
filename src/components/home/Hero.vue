@@ -1,6 +1,6 @@
 <template>
   <section class="hero is-primary is-medium has-background">
-    <g-image class="hero-background is-transparent" src="../../assets/img/hero.jpg"/>
+    <g-image class="hero-background is-transparent" :src="$static.HeroImg.hero_image" />
     <div class="hero-body">
       <div class="container">
         <vue-typed-js
@@ -11,15 +11,24 @@
           :backDelay="2000"
         >
           <h1 class="title is-1">
-            <span>+</span> de <br>
+            <span>+</span> de
+            <br />
             <span class="typing"></span>
           </h1>
         </vue-typed-js>
-        <g-image src="../../assets/img/smile2.svg" style="margin: 0.5rem; "/>
+        <g-image src="../../assets/img/smile2.svg" style="margin: 0.5rem; " />
       </div>
     </div>
   </section>
 </template>
+
+<static-query>
+query HeroImg {
+  HeroImg: settings(path: "/data/site") {
+    hero_image (width: 1920, height: 1080)
+  }
+}
+</static-query>
 
 <script>
 export default {
