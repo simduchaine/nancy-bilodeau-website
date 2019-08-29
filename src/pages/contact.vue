@@ -19,21 +19,21 @@
               <div class="field">
                 <label class="label">Nom</label>
                 <div class="control">
-                  <input class="input" type="text" />
+                  <input class="input" type="text" name="nom" />
                 </div>
               </div>
 
               <div class="field">
                 <label class="label">Email</label>
                 <div class="control">
-                  <input class="input" type="email" />
+                  <input class="input" type="email" name="email" />
                 </div>
               </div>
 
               <div class="field">
                 <label class="label">Message</label>
                 <div class="control">
-                  <textarea class="textarea"></textarea>
+                  <textarea class="textarea" name="message"></textarea>
                 </div>
               </div>
 
