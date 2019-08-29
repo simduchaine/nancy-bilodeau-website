@@ -5,6 +5,11 @@ admin_path: "/static/admin/"
 webhook_url: 
 sections:
 - type: heading
+  label: Général
+- type: document
+  path: data/site.yaml
+  label: Options du site
+- type: heading
   label: Français
 - type: directory
   path: data/home
@@ -53,12 +58,15 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
-instant_preview: false
+instant_preview: true
 build:
+  preview_env:
+  - GRAPHQL_ENDPOINT=/___graphql
   preview_output_directory: dist
-  install_dependencies_command: yarn install
-  preview_docker_image: forestryio/build:latest
-  mount_path: "/opt/buildhome/repo"
+  install_dependencies_command: npm install
+  preview_docker_image: node:10
+  mount_path: "/srv"
+  working_dir: "/srv"
   instant_preview_command: gridsome develop -p 8080 -h 0.0.0.0
   publish_command: gridsome build
   output_directory: dist
