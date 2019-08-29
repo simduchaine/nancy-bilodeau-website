@@ -6,3 +6,5 @@ fields:
   name: hero_image
   label: Image principale accueil
   default: "/uploads/hero.jpg"
+pages:
+- data/site.yaml
