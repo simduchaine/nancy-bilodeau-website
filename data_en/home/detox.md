@@ -10,4 +10,4 @@ position: "4"
 - Wheat grass
 - Young
 
-[Detox >](/detox)
+[Detox >](/en/detox)

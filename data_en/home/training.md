@@ -12,4 +12,4 @@ liste:
 
 I already have several elaborate courses. You can organize a course or participate in the next one on our schedule. To organize a course, a retreat, a conference or a meal, gather 10 people and your registration will be free!
 
-<a href="/training">Training ></a>
+<a href="/en/training">Training ></a>

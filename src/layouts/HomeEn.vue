@@ -13,7 +13,7 @@
 <script>
 import customFooter from "~/components/en/Footer.vue";
 import customHeader from "~/components/en/Header.vue";
-import Hero from "~/components/home/Hero.vue";
+import Hero from "~/components/en/home/Hero.vue";
 
 export default {
   components: {

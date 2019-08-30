@@ -44,6 +44,16 @@
                 <font-awesome :icon="['fab', 'linkedin-in']" />
               </a>
             </div>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link">
+                <font-awesome :icon="['fas', 'language']" />
+              </a>
+              <div class="navbar-dropdown">
+                <a href="/en/" class="navbar-item">English</a>
+                <hr class="navbar-divider" />
+                <a href="/" class="navbar-item is-active">Français</a>
+              </div>
+            </div>
           </div>
         </div>
       </div>

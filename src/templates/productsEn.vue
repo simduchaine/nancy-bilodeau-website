@@ -24,7 +24,10 @@ query singleProductEn ($id: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.productsEn.title
+      title: this.$page.productsEn.title,
+      htmlAttrs: {
+        lang: "en"
+      }
     };
   }
 };

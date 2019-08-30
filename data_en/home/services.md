@@ -9,4 +9,4 @@ position: 3
 - Reiki energy treatment
 - Cosmonergy
 
-[Services >](/services)
+[Services >](/en/services)

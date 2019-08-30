@@ -12,4 +12,4 @@ position: 2
 - Meditate, Breathe, Move
 - Vibrate, come true!
 
-[Coaching >](/holistic-coaching)
+[Coaching >](/en/holistic-coaching)

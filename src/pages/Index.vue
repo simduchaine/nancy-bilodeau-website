@@ -142,6 +142,10 @@ blockquote {
   }
 }
 
+.navbar-dropdown {
+  max-width: 100%;
+}
+
 #services {
   > .columns:nth-child(odd) {
     flex-direction: row-reverse;

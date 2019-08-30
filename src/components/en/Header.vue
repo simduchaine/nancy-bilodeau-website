@@ -25,8 +25,8 @@
             <g-link class="navbar-item" to="/en/holistic-coaching">Coaching</g-link>
             <g-link class="navbar-item" to="/en/services">Services</g-link>
             <g-link class="navbar-item" to="/en/detox">Detox</g-link>
-            <g-link class="navbar-item" to="/en/training">Formations</g-link>
-            <g-link class="navbar-item" to="/en/shop">Boutique</g-link>
+            <g-link class="navbar-item" to="/en/training">Training</g-link>
+            <g-link class="navbar-item" to="/en/shop">Shop</g-link>
             <g-link class="navbar-item" to="/en/about">Bio</g-link>
             <g-link class="navbar-item" to="/en/contact">Contact</g-link>
             <div class="navbar-item brands">
@@ -44,11 +44,21 @@
                 <font-awesome :icon="['fab', 'linkedin-in']" />
               </a>
             </div>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link">
+                <font-awesome :icon="['fas', 'language']" />
+              </a>
+              <div class="navbar-dropdown">
+                <a href="/en/" class="navbar-item is-active">English</a>
+                <hr class="navbar-divider" />
+                <a href="/" class="navbar-item">Français</a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </nav>
-    <div id="siteWidget">
+    <div id="siteWidgetEnglish">
       <div class="active">
         <a href="https://nancybilodeau.com/en/">
           For me
@@ -101,10 +111,10 @@ export default {
 </script>
 
 <style lang="scss">
-#siteWidget {
+#siteWidgetEnglish {
   position: fixed;
   top: 4rem;
-  left: -180px;
+  left: -154px;
   z-index: 1;
   transition: left 0.5s;
   .active {

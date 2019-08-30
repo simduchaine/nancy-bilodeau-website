@@ -22,7 +22,10 @@ query singleSoinEn ($id: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.soinsEn.title
+      title: this.$page.soinsEn.title,
+      htmlAttrs: {
+        lang: "en"
+      }
     };
   }
 };

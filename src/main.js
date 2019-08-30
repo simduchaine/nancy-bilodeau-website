@@ -17,4 +17,6 @@ export default function(Vue, { router, head, isClient }) {
   Vue.use(VueTypedJs);
   // Add atributes to BODY tag
   head.bodyAttrs = { class: "has-navbar-fixed-top" };
+  // Add attributes to HTML tag
+  head.htmlAttrs = { lang: "fr_CA" };
 }

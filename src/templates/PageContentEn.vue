@@ -24,7 +24,10 @@ query ContentEn ($id: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.pageContentEn.title
+      title: this.$page.pageContentEn.title,
+      htmlAttrs: {
+        lang: "en"
+      }
     };
   }
 };

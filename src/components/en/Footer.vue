@@ -8,9 +8,9 @@
         <div class="column"></div>
       </div>
       <div class="columns">
-        <div class="column is-size-7">©Nancy Bilodeau 2019. Tous droits réservés.</div>
+        <div class="column is-size-7">©Nancy Bilodeau 2019. All rights reserved.</div>
         <div class="column">
-          <a href="http://eepurl.com/gpZ2jv" class="button">S'inscrire à l'infolettre</a>
+          <a href="http://eepurl.com/gpZ2jv" class="button">Subscribe to our newsletter</a>
         </div>
         <div class="column is-narrow brands">
           <a href="https://www.facebook.com/NancyBilodeauCoaching/">

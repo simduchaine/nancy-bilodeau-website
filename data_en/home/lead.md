@@ -6,4 +6,4 @@ position:
 
 I accompany people to achieve optimal wellness and self-realization. I also help companies achieve their goals, manage their projects, improve their processes, reduce conflict and build a healthy workplace based on sustainable universal values.
 
-<a href="/about">About Nancy</a>
+<a href="/en/about">About Nancy</a>

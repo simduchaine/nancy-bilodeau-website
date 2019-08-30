@@ -65,7 +65,10 @@ import inspirations from "~/components/en/bio/inspirations.vue";
 
 export default {
   metaInfo: {
-    title: "About"
+    title: "About",
+    htmlAttrs: {
+      lang: "en"
+    }
   },
   components: {
     inspirations,

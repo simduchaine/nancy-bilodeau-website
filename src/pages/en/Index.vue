@@ -47,7 +47,10 @@ import consultation from "~/components/en/home/consultation.vue";
 
 export default {
   metaInfo: {
-    title: "Nancy Bilodeau - Wellness Coaching"
+    title: "Nancy Bilodeau - Wellness Coaching",
+    htmlAttrs: {
+      lang: "en"
+    }
   },
   components: {
     services,
