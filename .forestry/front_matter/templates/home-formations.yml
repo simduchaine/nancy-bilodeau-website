@@ -17,4 +17,5 @@ fields:
   name: liste
   label: Liste Droite
 pages:
+- data_en/home/training.md
 - data/home/formations.md
