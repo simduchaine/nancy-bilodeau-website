@@ -21,6 +21,9 @@ fields:
     - Cours
     - Atelier
     - Conférence
+    - Courses
+    - Workshop
+    - Conference
     source:
       type: simple
       section: formations
