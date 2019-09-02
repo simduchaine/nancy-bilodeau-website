@@ -2,8 +2,8 @@
 id: coaching
 title: Holistic Coaching
 thumbnail: "/uploads/accomplishment-adult-adventure-372098.jpg"
----
 
+---
 Holistic Coaching is there to help you feel better, be healthier and happier
 
 > In epistemology or in the human sciences, relating to the doctrine which brings back the knowledge of the particular, of the individual to that of the whole, of the whole in which it is inscribed. (Petit Larousse). Holistic, which is interested in its object as a whole. Relates to Holism. Holism: the tendency in nature to constitute sets that are greater than the sum of their parts, through creative evolution (Wikipedia)
