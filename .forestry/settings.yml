@@ -60,6 +60,10 @@ sections:
   label: Home
   create: all
   match: "**/*"
+  templates:
+  - services
+  - lead
+  - home-formations
 - type: document
   path: data_en/pages/coaching.md
   label: Coaching
@@ -69,6 +73,8 @@ sections:
   label: Services
   create: all
   match: "**/*"
+  templates:
+  - general-page
 - type: document
   path: data_en/pages/detox.md
   label: Detox
@@ -78,11 +84,15 @@ sections:
   label: Training
   create: all
   match: "**/*"
+  templates:
+  - formations
 - type: directory
   path: data_en/shop
   label: Shop
   create: all
   match: "**/*"
+  templates:
+  - products
 - type: directory
   path: data_en/bio
   label: Bio
