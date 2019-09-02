@@ -2,8 +2,8 @@
 id: detox
 title: Detox
 thumbnail: "/uploads/AdobeStock_276031748.jpeg"
----
 
+---
 In recent years there has been a surge of cure to help regain energy, health, vitality and even lose weight.
 
 Nancy is combining [Karyn Calabrese](https://karynraw.com/) from the [Hippocrates Health Institute](https://instituthippocrates.com/) and the [Sanoviv Medical Institute](https://www.sanoviv.com/) approaches to tailor a program that will suite you. You can either learn one of her programs by joining a group or she can coach you individually.

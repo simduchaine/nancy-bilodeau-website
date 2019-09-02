@@ -13,6 +13,7 @@ fields:
   name: thumbnail
   label: Image
 pages:
+- data_en/pages/detox.md
 - data_en/pages/coaching.md
 - data/pages/cure.md
 - data/pages/coaching.md
