@@ -5,25 +5,29 @@ thumbnail: "/uploads/_MG_1784-3.jpg"
 thumbnail2: "/uploads/nancy.png"
 thumbnail3: "/uploads/nancy_famille.jpg"
 cv:
-  - "MBA, Keller Graduate School of Management, Project and Quality Management, April 2005. GPA: 4/4"
-  - "Business Administration Bachelor, University of Sherbrooke, Management, September 1994. GPA: 3.6/4"
-  - International Cursus, École supérieure de commerce de Rouen, International Management, Winter 1993.
-  - Sahaj Samadhi Meditation, Art of Living, 2008
-  - Sri Sri Yoga Teacher, 2010
-  - Art of Living YES and YES+ Teacher Training, 2011, 2012
-  - Health Coach, Hippocrates Health Institute, 2015
-  - Nutrition Advisor, Sanoviv Medical Institute, 2016
-  - Reiki 1 and 2, 2013, 2014
-  - Primordial Son Meditation, Deepak Chopra, 2016
-  - Mindfulness Meditation, Kripalu, 2016
-  - Perfect Health, Deepak Chopra, 2017
-  - PEACE, 2018
-  - Cosmoénergy, 2019
-vision: A better world where individuals and companies take charge of their well-being and their impact on others and the environment.
+- 'MBA, Keller Graduate School of Management, Project and Quality Management, April
+  2005. GPA: 4/4'
+- 'Business Administration Bachelor, University of Sherbrooke, Management, September
+  1994. GPA: 3.6/4'
+- International Cursus, École supérieure de commerce de Rouen, International Management,
+  Winter 1993.
+- Sahaj Samadhi Meditation, Art of Living, 2008
+- Sri Sri Yoga Teacher, 2010
+- Art of Living YES and YES+ Teacher Training, 2011, 2012
+- Health Coach, Hippocrates Health Institute, 2015
+- Nutrition Advisor, Sanoviv Medical Institute, 2016
+- Reiki 1 and 2, 2013, 2014
+- Primordial Son Meditation, Deepak Chopra, 2016
+- Mindfulness Meditation, Kripalu, 2016
+- Perfect Health, Deepak Chopra, 2017
+- PEACE, 2018
+- Cosmoénergy, 2019
+vision: A better world where individuals and companies take charge of their well-being
+  and their impact on others and the environment.
 mission: To accompany people and businesses to be healthy and to be realized.
 cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
----
 
+---
 Nancy is 47 years old and what a life! Born in Quebec, she holds a Bachelor's degree in Business Administration from the [University of Sherbrooke](https://www.usherbrooke.ca/) and an MBA from [Keller University Graduate School of Management](https://www.keller.edu/) in the United States. She lived in the United States during 12 years and has worked across several industries for large, medium and small businesses. More information about her career is available on her [LinkedIn profile](https://www.linkedin.com/in/nancybilodeau/).
 
 Nancy embarked on the global health research path in 2007. First, with significant sleep and anxiety issues, Nancy discovered the benefits of yoga, meditation and breathing techniques. Nancy became a yoga teacher in 2009 and started with advanced breathing techniques in 2011.
