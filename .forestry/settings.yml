@@ -67,7 +67,6 @@ sections:
 - type: document
   path: data_en/pages/coaching.md
   label: Coaching
-  match: "**/*"
 - type: directory
   path: data_en/services
   label: Services
@@ -78,7 +77,6 @@ sections:
 - type: document
   path: data_en/pages/detox.md
   label: Detox
-  match: "**/*"
 - type: directory
   path: data_en/training
   label: Training
