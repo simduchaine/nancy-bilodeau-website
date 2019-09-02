@@ -1,5 +1,5 @@
 <template>
-  <home-layout>
+  <Enhome>
     <section id="lead" class="has-background-info lead-content">
       <lead></lead>
     </section>
@@ -14,19 +14,19 @@
       />
     </section>
 
-    <section id="formations">
-      <formation class="has-background-info lead-content" style="margin-top: -10px"></formation>
+    <section id="training">
+      <training class="has-background-info lead-content" style="margin-top: -10px"></training>
     </section>
 
     <section id="consultation">
       <consultation></consultation>
     </section>
-  </home-layout>
+  </Enhome>
 </template>
 
 <page-query>
-  query services {
-    data: allservices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation"] }}, sortBy: "position", order: ASC) {
+  query servicesEn {
+    data: allservicesEn(filter: { path: { nin: ["/data-en/home/training", "/data-en/home/lead", "/data-en/home/consultation"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
@@ -41,18 +41,21 @@
 
 <script>
 import services from "~/components/home/Services.vue";
-import lead from "~/components/home/Lead.vue";
-import formation from "~/components/home/formations/Formation.vue";
-import consultation from "~/components/home/consultation.vue";
+import lead from "~/components/en/home/Lead.vue";
+import training from "~/components/en/home/training/training.vue";
+import consultation from "~/components/en/home/consultation.vue";
 
 export default {
   metaInfo: {
-    title: "Nancy Bilodeau - Coaching Mieux-Etre"
+    title: "Nancy Bilodeau - Wellness Coaching",
+    htmlAttrs: {
+      lang: "en"
+    }
   },
   components: {
     services,
     lead,
-    formation,
+    training,
     consultation
   }
 };
@@ -140,10 +143,6 @@ blockquote {
       color: #d05208;
     }
   }
-}
-
-.navbar-dropdown {
-  max-width: 100%;
 }
 
 #services {
