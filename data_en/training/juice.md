@@ -1,6 +1,6 @@
 ---
 title: Juices
-type: ''
+type: Courses
 id: juices
 thumbnail: "/uploads/Dollarphotoclub_75916968.jpg"
 link: "#"
