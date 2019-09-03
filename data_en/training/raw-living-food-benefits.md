@@ -1,9 +1,9 @@
 ---
-title: The benefits of raw living food
+title: The benefits of living food
 type: Conference
 id: raw-living-food-benefits
 thumbnail: "/uploads/Dollarphotoclub_47464636_cropped.png"
 link: "#"
----
 
-What is raw living food and why do people adopt it? More energy, more joy, more life!
+---
+Discover what is raw living food and why do people adopt it. Get more energy, more joy, more life with living food!
