@@ -1,5 +1,5 @@
 ---
-title: The benefits of living food
+title: Living food Benefits
 type: Conference
 id: raw-living-food-benefits
 thumbnail: "/uploads/Dollarphotoclub_47464636_cropped.png"
