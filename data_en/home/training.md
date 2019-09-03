@@ -10,6 +10,6 @@ liste:
 - Lunch Workshops
 
 ---
-I already have several elaborate courses. You can organize a course or participate in the next one on our schedule. To organize a course, a retreat, a conference or a meal, gather 10 people and your registration will be free!
+I have several courses ready. You can either organize a course or register for one on our schedule. Organize a course, a retreat, a conference or a cooking class with 10 people or more and your registration is free!!
 
 <a href="/en/training">Training ></a>
