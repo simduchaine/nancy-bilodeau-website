@@ -48,4 +48,4 @@ documentaires:
 - Food Inc.
 
 ---
-Nancy loves to read and learn. She remains on the lookout for new discoveries and constantly adapts her practice to better serve you.
+I love to read and learn. I am always on on the lookout for new discoveries and constantly adapt my practice to better serve you.
