@@ -1,6 +1,6 @@
 ---
 title: Health 101
-type: ''
+type: Courses
 id: health 101
 thumbnail: "/uploads/blubel-103318-unsplash.jpg"
 link: "#"
