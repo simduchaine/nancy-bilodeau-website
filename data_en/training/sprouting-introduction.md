@@ -1,6 +1,6 @@
 ---
 title: Sprouting Introduction
-type: ''
+type: Courses
 id: sprouting-intro
 thumbnail: "/uploads/daniel-hjalmarsson-269425-unsplash.jpg"
 link: "#"
