@@ -1,9 +1,9 @@
 ---
 type: Workshop
-id: ""
-title: Smoothies and Superfood
+id: ''
+title: Smoothies and Superfoods
 thumbnail: "/uploads/smoothie.jpg"
 link: "#"
----
 
-Why smoothies? How to make smoothies without following specific recipes. The benefits of the key ingredients.
+---
+Why smoothies? How to make smoothies without following specific recipes. The health benefits of superfoods and other key ingredients.
