@@ -4,8 +4,8 @@ url: https://shop.ariix.com/OnlineServices/shopNg/index?listType=C&sponsorId=709
 thumbnail: "/uploads/huiles-essentielles.jpg"
 featured_image: "/uploads/Capture d’écran 2019-08-13 à 13.19.26.png"
 categorie: Essential Oils
----
 
+---
 The power of essential oils is more and more recognized and appreciated. They can energize, calm, repair and so much more.
 
 I use the following blends regularly:
@@ -42,4 +42,4 @@ Use fractionated coconut oil as a base for your essential oil blends oils, or us
 
 [Click here, and select "Canada OTG"](https://shop.ariix.com/OnlineServices/shopNg/index?listType=C&sponsorId=7098258).
 
-_Contact me before order to here about how you can save 15%._
+_Contact me before ordering to here about how you can save 15%._
