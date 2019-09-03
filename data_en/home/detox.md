@@ -1,13 +1,13 @@
 ---
 thumbnail: "/uploads/AdobeStock_276031748.jpeg"
 title: Detox
-position: "4"
----
+position: '4'
 
-- Detox program
-- Living Food
-- Cure of Juice
-- Wheat grass
-- Young
+---
+* Signature program
+* Raw foods diet
+* Juicing
+* Wheatgrass
+* Fasting
 
 [Detox >](/en/detox)
