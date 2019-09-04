@@ -8,7 +8,7 @@ thumbnail: "/uploads/accomplishment-adult-adventure-372098.jpg"
 
 Mon approche d'accompagnement holisitque vise à regarder toutes les dimensions de la personne pour l’aider à retrouver l’équilibre vers une douce harmonie pour un mieux-être optimal.
 
-Nous sommes beaucoup plus que notre enveloppe corporelle. Un corps physique parfaitement en santé ne garantie pas une personne bien équilibrée et heureuse, tout comme un corps physique malade peut être habité par une personne pleinement réalisée et heureuse !
+Nous sommes beaucoup plus que notre enveloppe corporelle. Un corps physique parfaitement en santé ne garanti pas une personne bien équilibrée et heureuse, tout comme un corps physique malade peut être habité par une personne pleinement réalisée et heureuse !
 
 Lorsque nous sommes à la recherche du mieux-être, les dimensions à explorer sont :
 
