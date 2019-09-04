@@ -6,4 +6,4 @@ thumbnail: "/uploads/smoothie.jpg"
 link: "#"
 
 ---
-Pourquoi des smoothies? Comment faire de bons smoothies sans suivre de recettes précises. Les bienfaits des ingrédients clés de base.
+Pourquoi des smoothies? Comment faire de bons smoothies sans suivre une recette précise. Les bienfaits des ingrédients clés de base.
