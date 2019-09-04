@@ -18,7 +18,7 @@ Lorsque nous sommes à la recherche du mieux-être, les dimensions à explorer s
 * La fluidité de l’intellect
 * Le rayonnement de l’âme
 * La libération des programmations limitatrices
-* L’hyper activité de l’esprit
+* L’hyperactivité de l’esprit
 * La qualité de la respiration
 * Les habitudes de vie
 * La qualité de son environnement
