@@ -29,7 +29,7 @@ Mon approche est particulièrement positive pour les gens qui :
 * manquent de joie de vivre
 * n’ont plus d’énergie et ne savent plus quoi faire pour la retrouver
 * souffrent de dépression, d’anxiété, d’isolement et de peurs incontrôlées
-* veulent réaliser un rêve ou un projet mais n’y arrive pas
+* veulent réaliser un rêve ou un projet mais n’y arrivent pas
 * veulent apprendre à mieux gérer leur stress
 * souffrent de douleurs chroniques ou d’inflammation et souhaitent explorer des méthodes alternatives
 * souhaitent prendre leur bien-être en main mais sont perdus avec toutes les approches disponibles
