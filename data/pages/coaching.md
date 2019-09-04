@@ -35,6 +35,6 @@ Mon approche est particulièrement positive pour les gens qui :
 * souhaitent prendre leur bien-être en main mais sont perdus avec toutes les approches disponibles
 * souhaitent atteindre leur poids santé mais n’y arrivent pas malgré plusieurs régimes et approches essayées
 * sont aux prises avec des addictions et des habitudes destructives
-* ont des relations difficiles avec les autres ou en couple et souhaite améliorer le tout.
+* ont des relations difficiles avec les autres ou en couple et souhaitent améliorer le tout.
 
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
