@@ -6,4 +6,4 @@ thumbnail: "/uploads/blubel-103318-unsplash.jpg"
 link: "#"
 
 ---
-Qu’est-ce que la santé? The China Study. Les dernières découvertes. Les différents systèmes du corps et comment en prendre soins. Les fondations essentielles.
+Qu’est-ce que la santé? The China Study. Les dernières découvertes. Les différents systèmes du corps et comment en prendre soin. Les fondations essentielles.
