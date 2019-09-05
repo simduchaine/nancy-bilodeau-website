@@ -25,7 +25,7 @@ cv:
 vision: A better world where individuals and companies take charge of their well-being
   and their impact on others and the environment.
 mission: Guide people and businesses to be healthier and reach their goals.
-cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
+cv_link: "/uploads/Nancy Bilodeau Resume July 2019.pdf"
 
 ---
 I am 47 years old and what a life! Born in Quebec, I hold a Bachelor's degree in Business Administration from the [University of Sherbrooke](https://www.usherbrooke.ca/) and an MBA from [Keller University Graduate School of Management](https://www.keller.edu/) in the United States. I lived in the United States during 12 years and worked across several industries for large, medium and small businesses. More information about my career is available on my [LinkedIn profile](https://www.linkedin.com/in/nancybilodeau/).
