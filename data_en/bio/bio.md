@@ -24,7 +24,7 @@ cv:
 - Cosmoénergy, 2019
 vision: A better world where individuals and companies take charge of their well-being
   and their impact on others and the environment.
-mission: To guide people and businesses to be healthier and perform better.
+mission: Guide people and businesses to be healthier and reach their goals.
 cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
 
 ---
