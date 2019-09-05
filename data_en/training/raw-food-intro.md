@@ -1,5 +1,5 @@
 ---
-title: Raw Food Introduction
+title: Raw Foods Introduction
 type: Courses
 id: raw-food-intro
 thumbnail: "/uploads/close-up-colors-cooking-2284166.jpg"
