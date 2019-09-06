@@ -34,7 +34,7 @@ J'ai fondé en 2013 le Centre Holistique Om Prana alors situé sur la rue St-Jos
 
 En 2016, je décide de m’éloigner de la restauration et de faire un retour dans le milieu des affaires pour y appliquer tous mes acquis individuels en milieu de travail. L’expérience est des plus enrichissantes. Le mieux-être des individus se reflète rapidement sur la performance des équipes. Au fil de l’expérience, il devient clair pour moi que je souhaite me concentrer sur cette dimension du mieux-être autant pour les individus qu'au sein des entreprises.
 
-> Je crois ardemment que c'est en aidant les individus à retrouver la joie de vivre en se libérant de leur souffrance et en se reconnectant à leur essence qu’on contribue au bien-être global de tous. Nous sommes tous ici pour nous réaliser et être heureux. Les blocages ou déséquilibres sont seulement des guides pour nous aider à trouver notre chemin.
+> Je crois ardemment que c'est en aidant les individus à retrouver la joie de vivre en se libérant de leur souffrance et en se reconnectant à leur essence qu’on contribue au bien-être global de tous. Nous sommes tous ici pour nous réaliser et être heureux. Les blocages et déséquilibres sont seulement des guides pour nous aider à trouver notre chemin.
 
 En décembre 2018, j'ajoute la certification de praticienne neuro-sensoriel [PEACE](http://stephanedrouet.com/) à ma formation et, en 2019, je continue avec la formation de praticienne en cosmoénergie.
 
