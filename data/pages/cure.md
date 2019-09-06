@@ -10,13 +10,13 @@ J'ai été formée de [Karyn Calabrese](https://karynraw.com/) de l’[institut 
 
 Les programmes les plus populaires sont :
 
-- Détox de 30 jours, signature d’OM Prana
-- Programme de transformation alimentaire de 30 jours
-- Cure de jus, souvent combinée avec fin de semaine de yoga
-- Fin de semaine de jeûne et méditation
-- Semaine de jus et d’herbe de blé
+* Détox de 30 jours, signature d’OM Prana
+* Programme de transformation alimentaire de 30 jours
+* Cure de jus, souvent combinée avec fin de semaine de yoga
+* Fin de semaine de jeûne et méditation
+* Semaine de jus et d’herbe de blé
 
-Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourri et entretenu en est la fondation primordiale.
+Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourri et entretenu en est la fondation essentielle.
 
 Inscrivez-vous à notre infolettre pour connaître l’horaire des prochaines cures ou rencontrez moi en consultation individuelle.
 
