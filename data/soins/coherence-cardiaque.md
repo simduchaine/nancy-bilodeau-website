@@ -4,7 +4,7 @@ title: Cohérence Cardiaque
 thumbnail: "/uploads/hearthmath.png"
 
 ---
-> La cohérence cardiaque [(ou résonance cardiaque)](https://fr.wikipedia.org/wiki/R%C3%A9sonance) est une [technique de relaxation](https://fr.wikipedia.org/wiki/Techniques_de_relaxation) et de [biofeedback](https://fr.wikipedia.org/wiki/Biofeedback) visant à réguler la [variabilité du rythme cardiaque](https://fr.wikipedia.org/wiki/Variabilit%C3%A9_de_fr%C3%A9quence_cardiaque). Mise au point dans les années 1990 elle permettrait par ce mode d'action d'aider le traitement de troubles comme la dépression, les états anxieux ou l'insomnie chronique, voire de réduire les risques cardio-vasculaires (wikipedia)
+> La cohérence cardiaque [(ou résonance cardiaque)](https://fr.wikipedia.org/wiki/R%C3%A9sonance) est une [technique de relaxation](https://fr.wikipedia.org/wiki/Techniques_de_relaxation) et de [biofeedback](https://fr.wikipedia.org/wiki/Biofeedback) visant à réguler la [variabilité du rythme cardiaque](https://fr.wikipedia.org/wiki/Variabilit%C3%A9_de_fr%C3%A9quence_cardiaque). Mise au point dans les années 1990, elle permettrait par ce mode d'action d'aider le traitement de troubles comme la dépression, les états anxieux ou l'insomnie chronique, voire de réduire les risques cardio-vasculaires. (wikipedia)
 
 Elle fut d’abord diffusée par Stephen Elliott aux États-Unis et par la fondation du docteur David Servan-Schreiber en France.
 
