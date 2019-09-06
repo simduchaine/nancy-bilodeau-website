@@ -2,7 +2,6 @@
   <English-Layout>
     <div class="offset-bg-blue section">
       <div class="container">
-        <h1 class="title">Soins</h1>
         <intro></intro>
         <div id="soins" class="columns" style="padding-top: 2rem;">
           <div class="column" v-for="soin in $page.soins.edges" :key="soin.node.id">
