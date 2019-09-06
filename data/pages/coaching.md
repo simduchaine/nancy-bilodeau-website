@@ -1,6 +1,6 @@
 ---
 id: coaching
-title: Coaching Holistique
+title: Accompagnement Holistique (coaching)
 thumbnail: "/uploads/accomplishment-adult-adventure-372098.jpg"
 
 ---
