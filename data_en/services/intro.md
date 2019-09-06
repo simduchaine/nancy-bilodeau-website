@@ -1,6 +1,6 @@
 ---
 id: intro
-title: Services
+title: Holistic Care Services
 thumbnail: "/uploads/AdobeStock_189354627.jpeg"
 
 ---
