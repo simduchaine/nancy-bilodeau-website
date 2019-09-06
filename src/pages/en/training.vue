@@ -5,7 +5,7 @@
         <h1 class="title">Training</h1>
         <div
           style="margin-bottom:2rem;"
-        >I already have several elaborate courses. You can organize a course or participate in the next one on our schedule. To organize a course, a retreat, a conference or a meal, you simply have to gather 10 people and your registration will be free!</div>
+        >I have several courses ready. You can organize a course or participate in the next one on our schedule. To organize a course, a retreat, a conference or a meal, you simply have to gather 10 people and your registration will be free!</div>
         <div class="columns is-multiline">
           <div
             class="column is-one-third"
