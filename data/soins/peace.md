@@ -12,7 +12,7 @@ La méthode PEACE est le fruit de onze années de pratique thérapeutique de St�
 
 Je fais partie des tous premiers praticiens formés à Québec en décembre 2018.
 
-![](/uploads/Capture d’écran 2019-09-06 à 13.14.07.png)
+![Stephane Drouet et Nancy Bilodeau](/uploads/Capture d’écran 2019-09-06 à 13.14.07.png "Stephane Drouet")
 
 Le travail avec la méthode PEACE est basé sur le corps et ses sensations. Il vise à défiger les fascias et fluidifier les mémoires corporelles afin de laisser la place à de nouvelles possibilités. Comprendre le pourquoi des pourquoi n’est ainsi plus nécessaire ; dégager l’énergie bloquée dans le corps est par contre essentiel et à la base de l’efficacité de la méthode.
 
