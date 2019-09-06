@@ -6,7 +6,7 @@ featured_image: "/uploads/Capture d’écran 2019-08-13 à 13.19.26.png"
 categorie: Huiles Essentielles
 
 ---
-Le pouvoir des huiles essentielles est, à mon grand bonheur, de plus en plus apprécié. Celles-ci peuvent aider à énergiser, calmer, réparer, désinfecter et tellement plus.
+Le pouvoir des huiles essentielles est de plus en plus apprécié. Celles-ci peuvent aider à énergiser, calmer, réparer, désinfecter et tellement plus.
 
 J’utilise les mélanges suivants :
 
@@ -14,7 +14,7 @@ J’utilise les mélanges suivants :
 
 ![Lavande](/uploads/calm_bottle_lg.png)
 
-La lavande combinée aux huiles apaisantes de néroli, de valériane et de rose aide à réduire l'agitation, l'anxiété et favorise la paix et la tranquillité.
+La lavande combinée aux huiles apaisantes de néroli, de valériane et de rose aide à réduire l'agitation et l'anxiété en plus de favoriser la paix et la tranquillité.
 
 **Pour mes petites douleurs**
 
@@ -26,19 +26,19 @@ La menthe poivrée, le camphre blanc, le bouleau et à la gaulthérie sont des e
 
 ![Menthe Poivrée](/uploads/escape_bottle_lg.png)
 
-L'encens mélangé à l'hélichryse parfumée, à la camomille romaine apaisante et à la menthe verte aide à soulager les tensions, réduire le stress et améliorer l’humeur.
+L'encens mélangé à l'hélichryse, la camomille romaine apaisante et à la menthe verte aide à soulager les tensions, réduire le stress et améliorer l’humeur.
 
 **Pour nettoyer et désinfecter**
 
 ![Huile Sentry](/uploads/sentry_bottle_lg.png)
 
-La cannelle, le girofle, l'huile d'arbre à thé et d'autres extraits purifiants naturels aide à désinfecter la maison en laissant ainsi un parfum de propreté agréable. Ce mélange aide aussi pour désinfecter les petites blessures.
+La cannelle, le girofle, l'huile d'arbre à thé et d'autres extraits purifiants naturels aide à désinfecter la maison en laissant un parfum de propreté agréable. Ce mélange aide aussi pour désinfecter les petites blessures.
 
 **Comme base pour mes huiles**
 
 ![Noix de coco](/uploads/coconut_bottle_lg.png)
 
-L'huile de noix de coco fractionnée est une huile de support de qualité alimentaire. C'est une essence polyvalente facilement absorbée par la peau, les cheveux et le système digestif, ce qui en fait un hydratant idéal, une huile essentielle, une huile de massage et un aide alimentaire. Je la combine souvent avec les mélanges mentionnés ci-haut pour faciliter leur application et profiter au maximum de leurs bienfaits combinés.
+L'huile de noix de coco fractionnée est une huile de support de qualité alimentaire. C'est une essence polyvalente facilement absorbée par la peau, les cheveux et le système digestif, ce qui en fait un hydratant idéal, une huile essentielle, une huile de massage et un aide alimentaire. Je la combine souvent avec les mélanges mentionnés ci-dessus pour faciliter leur application et profiter au maximum de leurs bienfaits combinés.
 
 [Pour commander cliquez ici et sélectionnez "Canada OTG"](https://shop.ariix.com/OnlineServices/shopNg/index?listType=C&sponsorId=7098258).
 
