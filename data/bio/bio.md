@@ -20,7 +20,8 @@ cv:
 - Pratique Cosmoénergie, 2019
 vision: Un monde meilleur où les individus et entreprises prennent en charge leur
   mieux-être et leurs impacts sur les autres et l’environnement.
-mission: Accompagner les gens et les entreprises à être + en santé et se réaliser.
+mission: Accompagner les gens et les entreprises à être + en santé + énergétique et
+  se réaliser.
 cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
 
 ---
