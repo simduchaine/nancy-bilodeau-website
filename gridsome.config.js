@@ -21,6 +21,7 @@ function addStyleResource(rule) {
 
 module.exports = {
   siteName: "Nancy Bilodeau",
+  siteUrl: "https://nancybilodeau.com",
   transformers: {
     remark: {
       externalLinksTarget: "_blank",
@@ -32,6 +33,12 @@ module.exports = {
     }
   },
   plugins: [
+    {
+      use: "@gridsome/plugin-sitemap",
+      options: {
+        cacheTime: 600000 // default
+      }
+    },
     {
       use: "@gridsome/source-filesystem",
       options: {
