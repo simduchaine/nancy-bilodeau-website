@@ -11,17 +11,18 @@ cv:
   1994. GPA: 3.6/4'
 - International Cursus, École supérieure de commerce de Rouen, International Management,
   Winter 1993.
+- Heart Math Coach, Heart Math Institute, 2019
+- Nutrition Advisor, Sanoviv Medical Institute, 2016
+- Health Coach, Hippocrates Health Institute, 2015
+- PEACE, 2018
+- Cosmoénergy, 2019
+- Reiki 1 and 2, 2013, 2014
+- Perfect Health, Deepak Chopra, 2017
 - Sahaj Samadhi Meditation, Art of Living, 2008
 - Sri Sri Yoga Teacher, 2010
 - Art of Living YES and YES+ Teacher Training, 2011, 2012
-- Health Coach, Hippocrates Health Institute, 2015
-- Nutrition Advisor, Sanoviv Medical Institute, 2016
-- Reiki 1 and 2, 2013, 2014
 - Primordial Son Meditation, Deepak Chopra, 2016
 - Mindfulness Meditation, Kripalu, 2016
-- Perfect Health, Deepak Chopra, 2017
-- PEACE, 2018
-- Cosmoénergy, 2019
 vision: A better world where individuals and companies take charge of their well-being
   and their impact on others and the environment.
 mission: Guide people and businesses to be healthier and reach their goals.
