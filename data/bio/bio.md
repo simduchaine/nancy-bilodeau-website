@@ -5,19 +5,20 @@ thumbnail: "/uploads/_MG_1784-3.jpg"
 thumbnail2: "/uploads/nancy.png"
 thumbnail3: "/uploads/nancy_famille.jpg"
 cv:
-- Baccalauréat en Administration des Affaires, University de Sherbrooke, 1994
 - Maitrise en Gestion des Affaires (MBA), Keller Graduate School of Management, 2005
+- Baccalauréat en Administration des Affaires, University de Sherbrooke, 1994
+- Coach en Cohérence Cardiaque, Heart Math Institute, May 2019
+- Coach en Santé Holistique, Institut de Santé Hippocrate, 2015
+- Pratique Cosmoénergie, 2019
+- Pratique Neuro-Sensoriel PEACE, 2018
+- Reiki 1-2, 2013, 2014
+- Conseillère en Nutrition, Institut Médical Sanoviv, 2016
+- Santé Parfaite, Deepak Chopra, 2017
 - Méditation Sahaj Samadhi, Art de Vivre, 2008
+- Méditation pleine conscience, Kripalu, 2016
+- Méditation Son Primordial, Deepak Chopra, 2016
 - Professeure de Sri Sri Yoga, 2010
 - Professeure Art de Vivre YES et YES+, 2011, 2012
-- Conseillère en Santé, Institut de Santé Hippocrate, 2015
-- Conseillère en Nutrition, Institut Médical Sanoviv, 2016
-- Reiki 1-2, 2013, 2014
-- Méditation Son Primordial, Deepak Chopra, 2016
-- Méditation pleine conscience, Kripalu, 2016
-- Santé Parfaite, Deepak Chopra, 2017
-- Pratique Neuro-Sensoriel PEACE, 2018
-- Pratique Cosmoénergie, 2019
 vision: Un monde meilleur où les individus et entreprises prennent en charge leur
   mieux-être et leurs impacts sur les autres et l’environnement.
 mission: Accompagner les gens et les entreprises à être + en santé + énergétique et
