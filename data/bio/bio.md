@@ -7,7 +7,7 @@ thumbnail3: "/uploads/nancy_famille.jpg"
 cv:
 - Maitrise en Gestion des Affaires (MBA), Keller Graduate School of Management, 2005
 - Baccalauréat en Administration des Affaires, University de Sherbrooke, 1994
-- Coach en Cohérence Cardiaque, Heart Math Institute, May 2019
+- Coach en Cohérence Cardiaque, Heart Math Institute, 2019
 - Coach en Santé Holistique, Institut de Santé Hippocrate, 2015
 - Pratique Cosmoénergie, 2019
 - Pratique Neuro-Sensoriel PEACE, 2018
