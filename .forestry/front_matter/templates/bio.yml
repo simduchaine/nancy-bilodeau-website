@@ -51,5 +51,5 @@ fields:
       format: markdown
   label: Vision
 pages:
-- data/bio/bio.md
 - data_en/bio/bio.md
+- data/bio/bio.md

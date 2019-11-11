@@ -25,7 +25,8 @@ cv:
 - Mindfulness Meditation, Kripalu, 2016
 vision: A better world where individuals and companies take charge of their well-being
   and their impact on others and the environment.
-mission: Guide people and businesses to be healthier and reach their goals.
+mission: Guide individuals and businesses to be healthier and happier to reach their
+  goals.
 cv_link: "/uploads/Nancy Bilodeau Resume July 2019.pdf"
 
 ---
