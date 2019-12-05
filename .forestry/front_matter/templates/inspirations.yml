@@ -26,5 +26,5 @@ fields:
   label: Documentaires
   description: Liste des inspirations documentaires
 pages:
-- data_en/bio/inspirations.md
 - data/bio/inspirations.md
+- data_en/bio/inspirations.md

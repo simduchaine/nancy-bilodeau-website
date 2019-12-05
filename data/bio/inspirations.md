@@ -2,24 +2,31 @@
 id: inspirations
 title: Inspirations
 sante:
-- Dr. Mercola
-- Dr. Mark Hyman
 - Hippocrates Health Institute
 - Sanoviv Medical Institute
-- Kris Carr
+- Dr. Mark Hyman
+- Dr. Mercola
+- Dr. Joe Dispenza
 - Karyn Calabrese
+- Brendan Brazier
+- Kris Carr
 - Bruce Lipton
-- Gregg Braden
 - Daniel J. Siegel
+- Ann Wigmore
 spirituelle:
-- Art of Living
+- Doc Childre
 - Deepak Chopra
+- Stephan Hawkins
+- Gregg Braden
+- Wayne Dwyer
+- Eckart Tolle
+- Viktoras Kulvinskas
+- Art of Living
+- Rumi
 - Osho
 - Mooji
-- Eckart Tolle
-- Wayne Dwyer
-- Stephan Hawkins
 affaires:
+- Simon Sinek
 - Steve Jobs
 - Daniel Pink
 - Malcom Gladwell
@@ -33,6 +40,7 @@ affaires:
 - Spencer Johnson
 - Jim Collins
 documentaires:
+- Game Changer
 - La face cachée de la viande
 - Vegan 2018, 2017, 2016
 - Dominion
