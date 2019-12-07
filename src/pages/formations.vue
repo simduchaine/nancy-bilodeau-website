@@ -33,7 +33,7 @@
 
 <page-query>
 query Formations {
-  formations: allformations (sortBy: "type", order: ASC) {
+  formations: allformations (sortBy: "order", order: ASC) {
     edges {
       node {
         title

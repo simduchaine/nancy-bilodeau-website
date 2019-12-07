@@ -1,9 +1,10 @@
 ---
 type: Atelier
-id: ''
+id: ""
 title: Les Smoothies et Super-aliments
 thumbnail: "/uploads/smoothie.jpg"
 link: "#"
-
+order: 3
 ---
+
 Pourquoi des smoothies? Comment faire de bons smoothies sans suivre une recette précise. Les bienfaits des ingrédients clés de base.

@@ -2,36 +2,39 @@
 label: Formations
 hide_body: false
 fields:
-- type: text
-  name: id
-  label: id
-  hidden: true
-- type: text
-  name: title
-  label: Titre
-- type: file
-  name: thumbnail
-  label: Image
-- name: type
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - Cours
-    - Atelier
-    - Conférence
-    - Courses
-    - Workshop
-    - Conference
-    source:
-      type: simple
-      section: formations
-      file: data/formations/sante-holisitique.md
-      path: 
-  label: Type
-- type: text
-  name: link
-  label: Lien
+  - type: text
+    name: id
+    label: id
+    hidden: true
+  - type: number
+    name: order
+    label: Ordre
+  - type: text
+    name: title
+    label: Titre
+  - type: file
+    name: thumbnail
+    label: Image
+  - name: type
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+        - Cours
+        - Atelier
+        - Conférence
+        - Courses
+        - Workshop
+        - Conference
+      source:
+        type: simple
+        section: formations
+        file: data/formations/sante-holisitique.md
+        path:
+    label: Type
+  - type: text
+    name: link
+    label: Lien
 pages:
-- data/formations/smoothie-101.md
+  - data/formations/smoothie-101.md

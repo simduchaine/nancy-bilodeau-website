@@ -90,5 +90,15 @@ export default {
     margin: 0 auto;
   }
 }
+
+#formations,
+#inspirations {
+  ul {
+    li {
+      margin-left: 1em;
+      list-style-position: outside;
+    }
+  }
+}
 </style>
 
