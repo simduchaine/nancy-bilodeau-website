@@ -44,6 +44,16 @@
                 <font-awesome :icon="['fab', 'linkedin-in']" />
               </a>
             </div>
+            <div class="navbar-item brands">
+              <a href="https://www.pinterest.ca/nbilode/">
+                <font-awesome :icon="['fab', 'pinterest']" />
+              </a>
+            </div>
+            <div class="navbar-item brands">
+              <a href="https://www.instagram.com/nancybilodeauinsta/">
+                <font-awesome :icon="['fab', 'instagram']" />
+              </a>
+            </div>
             <g-link class="navbar-item" style="color:#d05208" to="/en/">En</g-link>
           </div>
         </div>

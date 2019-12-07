@@ -22,6 +22,12 @@
           <a href="https://ca.linkedin.com/in/nancybilodeau">
             <font-awesome class="icons" :icon="['fab', 'linkedin-in']" size="md" />
           </a>
+          <a href="https://www.pinterest.ca/nbilode/">
+            <font-awesome class="icons" :icon="['fab', 'pinterest']" size="md" />
+          </a>
+          <a href="https://www.instagram.com/nancybilodeauinsta/">
+            <font-awesome class="icons" :icon="['fab', 'instagram']" size="md" />
+          </a>
         </div>
       </div>
     </div>
