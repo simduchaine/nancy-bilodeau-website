@@ -14,5 +14,5 @@ fields:
   label: position
   hidden: true
 pages:
-- data_en/home/lead.md
 - data/home/lead.md
+- data_en/home/lead.md
