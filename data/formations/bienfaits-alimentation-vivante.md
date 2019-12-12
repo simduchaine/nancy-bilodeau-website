@@ -4,7 +4,7 @@ type: Conférence
 id: bienfaits-alimentation-vivante
 thumbnail: "/uploads/Dollarphotoclub_47464636_cropped.png"
 link: "#"
-order: 4
----
+order: '2'
 
+---
 Qu’est-ce que l’alimentation vivante et pourquoi les gens l’adoptent? Plus d’énergie, plus de joie, plus de vie!
