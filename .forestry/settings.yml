@@ -41,7 +41,6 @@ sections:
   match: "**/*"
   templates:
   - formations
-  - general-page
 - type: directory
   path: data/boutique
   label: Boutique
