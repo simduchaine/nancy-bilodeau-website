@@ -36,5 +36,10 @@ fields:
 - type: text
   name: link
   label: Lien
+- name: upcoming
+  type: boolean
+  label: À venir?
+  default: false
+  hidden: false
 pages:
 - data/formations/smoothie-101.md
