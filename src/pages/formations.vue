@@ -1,11 +1,39 @@
 <template>
   <Layout>
-    <div class="offset-bg-blue section">
-      <div class="container">
-        <h1 class="title">Formations</h1>
-        <div
-          style="margin-bottom:2rem;"
-        >J’ai déjà plusieurs cours d’élaborés. Vous pouvez organiser un cours ou participer au prochain à notre horaire. Pour organiser un cours, une retraire, une conférence ou un repas, vous avez simplement à rassembler 10 personnes et votre inscription sera gratuite !</div>
+    <div>
+      <section class="offset-bg-blue section">
+        <div class="container">
+          <intro></intro>
+
+          <h2 class="title is-5">Formations à venir</h2>
+
+          <div class="columns is-multiline">
+            <div
+              class="column is-one-third"
+              v-for="edge in $page.upcoming.edges"
+              :key="edge.node.id"
+            >
+              <div class="card">
+                <div class="card-image">
+                  <g-image :src="edge.node.thumbnail"></g-image>
+                </div>
+                <div class="card-content">
+                  <h2 class="title is-6">{{edge.node.title}}</h2>
+                  <div v-html="edge.node.content"></div>
+                </div>
+                <a :href="edge.node.link">S'inscrire ></a>
+                <div class="card-footer">
+                  <div class="card-footer-item tag">{{edge.node.type}}</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container section">
+        <h2 class="title is-5">Autres formations disponibles</h2>
+
         <div class="columns is-multiline">
           <div
             class="column is-one-third"
@@ -26,14 +54,14 @@
             </div>
           </div>
         </div>
-      </div>
+      </section>
     </div>
   </Layout>
 </template>
 
 <page-query>
 query Formations {
-  formations: allformations (sortBy: "order", order: ASC) {
+  formations: allformations (filter: { path: { nin: ["/formations/type/formations"] }, upcoming: { ne: true }}, sortBy: "order", order: ASC) {
     edges {
       node {
         title
@@ -43,6 +71,20 @@ query Formations {
         type
         thumbnail (quality: 90, width: 678, height: 452)
         link
+        upcoming
+      }
+    }
+  }
+  upcoming: allformations (filter: { upcoming: { eq: true }}, sortBy: "order", order: ASC) {
+    edges {
+      node {
+        title
+        id
+        content
+        path
+        type
+        thumbnail (quality: 90, width: 678, height: 678)
+        link
       }
     }
   }
@@ -50,11 +92,15 @@ query Formations {
 </page-query>
 
 <script>
+import intro from "~/components/formations/intro.vue";
+
 export default {
   metaInfo: {
     title: "Formations"
   },
-  components: {}
+  components: {
+    intro
+  }
 };
 </script>
 
@@ -63,6 +109,10 @@ export default {
   display: flex;
   flex-direction: column;
   height: 100%;
+  a {
+    padding-left: 1.5rem;
+    padding-bottom: 0.5rem;
+  }
 }
 .card-content {
   margin-bottom: auto;
