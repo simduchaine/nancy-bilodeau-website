@@ -38,6 +38,6 @@ En 2016, je décide de m’éloigner de la restauration et de faire un retour da
 
 > Je crois ardemment que c'est en aidant les individus à retrouver la joie de vivre en se libérant de leur souffrance et en se reconnectant à leur essence qu’on contribue au bien-être global de tous. Nous sommes tous ici pour nous réaliser et être heureux. Les blocages et déséquilibres sont seulement des guides pour nous aider à trouver notre chemin.
 
-En décembre 2018, j'ajoute la certification de praticienne neuro-sensoriel [PEACE](http://stephanedrouet.com/) à ma formation et, en 2019, je continue avec la formation de praticienne en cosmoénergie.
+En décembre 2018 j'ai complété la certification de praticienne neuro-sensoriel [PEACE](http://stephanedrouet.com/) et, en 2019, je suis aussi devenue praticienne en cosmoénergie.
 
 Je suis prête à vous accueillir et à vous accompagner !
