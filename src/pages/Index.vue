@@ -21,12 +21,16 @@
     <section id="consultation">
       <consultation></consultation>
     </section>
+
+    <section id="articles">
+      <articles class="has-background-info lead-content" style="margin-top: -10px"></articles>
+    </section>
   </home-layout>
 </template>
 
 <page-query>
   query services {
-    data: allservices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation"] }}, sortBy: "position", order: ASC) {
+    data: allservices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation", "/data/home/articles"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
@@ -44,6 +48,7 @@ import services from "~/components/home/Services.vue";
 import lead from "~/components/home/Lead.vue";
 import formation from "~/components/home/formations/Formation.vue";
 import consultation from "~/components/home/consultation.vue";
+import articles from "~/components/home/articles.vue";
 
 export default {
   metaInfo: {
@@ -53,7 +58,8 @@ export default {
     services,
     lead,
     formation,
-    consultation
+    consultation,
+    articles
   }
 };
 </script>
