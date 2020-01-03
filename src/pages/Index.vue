@@ -34,7 +34,7 @@
       edges {
         node {
           title
-          thumbnail (quality: 100, height: 680, width: 940)
+          thumbnail
           id
           content
         }
