@@ -39,12 +39,12 @@ module.exports = {
         id: "UA-38958579-4"
       }
     },
-    {
+    /* {
       use: "@gridsome/plugin-sitemap",
       options: {
         cacheTime: 600000 // default
       }
-    },
+    }, */
     {
       use: "@gridsome/source-filesystem",
       options: {
