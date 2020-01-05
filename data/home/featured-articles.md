@@ -1,9 +1,9 @@
 ---
-thumbnail: ""
+thumbnail: ''
 title: Articles récents
 position: 7
----
 
+---
 [S'offrir le plus beau cadeau:](https://www.linkedin.com/pulse/soffrir-le-plus-beau-cadeau-la-santé-nancy-bilodeau-mba/ "Santé") la Santé!, LinkedIn
 
 [L'énergie, la ressource la plus importante de l'Entrepreneur](https://mindset-entrepreneur.com/energie-la-ressource-la-plus-importante-de-lentrepreneur/ "L'énergie"), MindSet Entrepreneur
