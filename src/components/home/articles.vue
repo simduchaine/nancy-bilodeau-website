@@ -13,7 +13,7 @@
 
 <static-query>
 query {
-  services(path: "/data/home/articles") {
+  services(path: "/data/home/featured-articles") {
     title
     content
   }
