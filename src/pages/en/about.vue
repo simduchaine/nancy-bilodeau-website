@@ -43,7 +43,7 @@
 
 <page-query>
 query allBioEn {
-  allbioEn(filter: { path: { nin: ["/data-en/bio/inspirations"] }}) {
+  allBioEn(filter: { path: { nin: ["/data-en/bio/inspirations/"] }}) {
     edges {
       node {
         id

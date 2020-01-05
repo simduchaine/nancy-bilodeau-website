@@ -10,7 +10,7 @@
 </template>
 
 <page-query>
-query singleSoin ($id: String!) {
+query singleSoin ($id: ID!) {
   soins (id: $id) {
     title
     content

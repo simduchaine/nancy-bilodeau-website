@@ -11,7 +11,7 @@
 </template>
 
 <page-query>
-query Content ($id: String!) {
+query Content ($id: ID!) {
   pageContent (id: $id) {
     title
     content

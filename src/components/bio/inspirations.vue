@@ -40,7 +40,7 @@
 
 <static-query>
 query {
-  bio(path: "/data/bio/inspirations") {
+  bio(path: "/data/bio/inspirations/") {
     title
     content
     sante

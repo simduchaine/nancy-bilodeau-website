@@ -30,13 +30,13 @@
 
 <page-query>
   query services {
-    data: allservices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation", "/data/home/articles"] }}, sortBy: "position", order: ASC) {
+    data: allServices(filter: { path: { nin: ["/data/home/formations/", "/data/home/lead/", "/data/home/consultation/", "/data/home/featured-articles/"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
-          thumbnail
           id
           content
+          thumbnail (quality: 100, height: 680, width: 940)
         }
       }
     }

@@ -23,7 +23,7 @@
 
 <page-query>
 query Soins {
-  soins: allsoins(filter: { path: { nin: ["/soins/soins"] }})  {
+  soins: allSoins(filter: { path: { nin: ["/soins/soins/"] }})  {
     edges {
       node {
         title

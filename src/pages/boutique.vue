@@ -31,7 +31,7 @@
 
 <page-query>
 query Boutique {
-  products: allproducts {
+  products: allProducts {
     edges {
       node {
         title

@@ -22,7 +22,7 @@
 
 <page-query>
 query Soins {
-  soins: allsoinsEn(filter: { path: { nin: ["/en/services/holistic-care-services"] }})  {
+  soins: allSoinsEn(filter: { path: { nin: ["/en/services/holistic-care-services/"] }})  {
     edges {
       node {
         title

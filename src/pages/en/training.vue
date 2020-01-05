@@ -33,7 +33,7 @@
 
 <page-query>
 query Training {
-  training: alltraining (sortBy: "type", order: ASC) {
+  training: allTraining (sortBy: "type", order: ASC) {
     edges {
       node {
         title

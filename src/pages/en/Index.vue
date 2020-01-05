@@ -26,7 +26,7 @@
 
 <page-query>
   query servicesEn {
-    data: allservicesEn(filter: { path: { nin: ["/data-en/home/training", "/data-en/home/lead", "/data-en/home/consultation"] }}, sortBy: "position", order: ASC) {
+    data: allServicesEn(filter: { path: { nin: ["/data-en/home/training/", "/data-en/home/lead/", "/data-en/home/consultation/"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title

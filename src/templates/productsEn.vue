@@ -11,7 +11,7 @@
 </template>
 
 <page-query>
-query singleProductEn ($id: String!) {
+query singleProductEn ($id: ID!) {
   productsEn (id: $id) {
     title
     content

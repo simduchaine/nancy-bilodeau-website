@@ -61,7 +61,7 @@
 
 <page-query>
 query Formations {
-  formations: allformations (filter: { path: { nin: ["/formations/type/formations"] }, upcoming: { ne: true }}, sortBy: "order", order: ASC) {
+  formations: allFormations (filter: { path: { nin: ["/formations/type/formations"] }, upcoming: { ne: true }}, sortBy: "order", order: ASC) {
     edges {
       node {
         title
@@ -75,7 +75,7 @@ query Formations {
       }
     }
   }
-  upcoming: allformations (filter: { upcoming: { eq: true }}, sortBy: "order", order: ASC) {
+  upcoming: allFormations (filter: { upcoming: { eq: true }}, sortBy: "order", order: ASC) {
     edges {
       node {
         title
