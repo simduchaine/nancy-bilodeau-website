@@ -1,10 +1,11 @@
 ---
-title: Résilience et Douceur
+title: Cohérence Cardiaque
 id: nouvelles-possibilites
 type: Atelier
-thumbnail: "/uploads/nouvelle-annee-nouvelles-possibilites.png"
-link: http://bit.ly/happyHeart
+thumbnail: "/uploads/Copie de Pink Hobbies Facebook Post.png"
+link: ''
 order: 1
 upcoming: true
 
 ---
+Disponible en coaching individuel. Nouvelle session de groupe à venir. 
