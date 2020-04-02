@@ -4,7 +4,7 @@ id: pause-sante-bonheur
 type: Atelier
 thumbnail: "/uploads/pause santé instagram.png"
 link: ''
-order: 1
+order: 4
 upcoming: true
 
 ---
