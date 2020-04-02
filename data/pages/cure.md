@@ -1,7 +1,7 @@
 ---
 id: cures
 title: Cures
-thumbnail: "/uploads/bigstock-A-Young-Woman-Prepares-Food-In-302917486.jpg"
+thumbnail: "/uploads/bigstock-Brunette-Girl-Eating-Salad-And-343571479.jpg"
 
 ---
 Depuis quelques années, il y a un engouement pour les cures qui aident à retrouver notre énergie, notre vitalité et même perdre du poids.
