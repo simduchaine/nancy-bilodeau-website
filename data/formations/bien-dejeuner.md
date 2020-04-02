@@ -2,7 +2,7 @@
 title: Bien Déjeuner
 id: bien-dejeuner
 type: Atelier
-thumbnail: "/uploads/Bien déjeuner.png"
+thumbnail: "/uploads/bigstock-Breakfast-Oatmeal-Porridge-Wit-295967239.jpg"
 link: ''
 order: 0
 upcoming: false
