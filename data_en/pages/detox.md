@@ -6,7 +6,7 @@ thumbnail: "/uploads/AdobeStock_276031748.jpeg"
 ---
 In recent years there has been a surge of cure to help regain energy, health, vitality and even lose weight.
 
-I am combining [Karyn Calabrese](https://karynraw.com/), the [Hippocrates Health Institute](https://instituthippocrates.com/) and the [Sanoviv Medical Institute](https://www.sanoviv.com/) approaches to tailor a program that will suite you. You can either learn oby joining a courses on the schedule or plan for individual coaching.
+I am combining [Karyn Calabrese](https://karynraw.com/), the [Hippocrates Health Institute](https://instituthippocrates.com/), the [Deepak Chopra Center](https://chopra.com), and the [Sanoviv Medical Institute](https://www.sanoviv.com/) approaches to tailor a program that will suite you. You can either learn oby joining a courses on the schedule or plan for individual coaching.
 
 The most popular programs are:
 
