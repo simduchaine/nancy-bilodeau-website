@@ -1,7 +1,7 @@
 ---
 title: Bien Déjeuner
 id: bien-dejeuner
-type: Atelier
+type: Cours
 thumbnail: "/uploads/bigstock-Breakfast-Oatmeal-Porridge-Wit-295967239.jpg"
 link: ''
 order: 0
