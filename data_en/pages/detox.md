@@ -1,7 +1,7 @@
 ---
 id: detox
 title: Detox
-thumbnail: "/uploads/AdobeStock_276031748.jpeg"
+thumbnail: "/uploads/bigstock-Brunette-Girl-Eating-Salad-And-343571479.jpg"
 
 ---
 In recent years there has been a surge of cure to help regain energy, health, vitality and even lose weight.
