@@ -1,12 +1,12 @@
 ---
 id: cures
 title: Cures
-thumbnail: "/uploads/AdobeStock_276031748.jpeg"
+thumbnail: "/uploads/Détox copy.png"
 
 ---
 Depuis quelques années, il y a un engouement pour les cures qui aident à retrouver notre énergie, notre vitalité et même perdre du poids.
 
-J'ai été formée de [Karyn Calabrese](https://karynraw.com/) de l’[institut Hippocrates](https://instituthippocrates.com/) et de l’[institut médicale Sanoviv](https://www.sanoviv.com/). Je peux vous accompagner en coaching privé ou vous pouvez également vous inscrire aux différents programmes offerts au cours de l’année.
+J'ai été formée de [Karyn Calabrese](https://karynraw.com/), de l’[institut Hippocrates](https://instituthippocrates.com/), du [Centre de Deepak Chopra](https://chopra.com "Chopra"), et de l’[institut médicale Sanoviv](https://www.sanoviv.com/). Je peux vous accompagner en coaching privé ou vous pouvez également vous inscrire aux différents programmes offerts au cours de l’année.
 
 Les programmes les plus populaires sont :
 
