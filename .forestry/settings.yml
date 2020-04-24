@@ -53,6 +53,8 @@ sections:
   label: Blogue
   create: all
   match: "**/*"
+  templates:
+  - blogue
 - type: directory
   path: data/bio
   label: Bio

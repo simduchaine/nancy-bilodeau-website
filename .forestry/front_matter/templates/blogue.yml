@@ -20,3 +20,5 @@ fields:
   name: order
   label: Ordre
   description: Ordre de parution sur la page
+pages:
+- data/articles/plus-beau-cadeau-sante.md
