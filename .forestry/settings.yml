@@ -49,6 +49,11 @@ sections:
   templates:
   - products
 - type: directory
+  path: data/articles
+  label: Blogue
+  create: all
+  match: "**/*"
+- type: directory
   path: data/bio
   label: Bio
   create: all
@@ -101,7 +106,6 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
-instant_preview: true
 build:
   preview_env:
   - GRAPHQL_ENDPOINT=/___graphql
@@ -111,4 +115,3 @@ build:
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: gridsome develop -p 8080 -h 0.0.0.0
-  preview_command: gridsome build
