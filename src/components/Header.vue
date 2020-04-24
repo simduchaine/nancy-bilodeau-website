@@ -28,6 +28,7 @@
             <g-link class="navbar-item" to="/formations">Formations</g-link>
             <g-link class="navbar-item" to="/boutique">Boutique</g-link>
             <g-link class="navbar-item" to="/a-propos">Bio</g-link>
+            <g-link class="navbar-item" to="/blogue">Blogue</g-link>
             <g-link class="navbar-item" to="/contact">Contact</g-link>
             <div class="navbar-item brands">
               <a href="https://www.facebook.com/NancyBilodeauCoaching/">

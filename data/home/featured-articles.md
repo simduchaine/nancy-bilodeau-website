@@ -1,9 +1,9 @@
 ---
-thumbnail: ''
+thumbnail: ""
 title: Articles récents
 position: 7
-
 ---
+
 [S'offrir le plus beau cadeau:](https://www.linkedin.com/pulse/soffrir-le-plus-beau-cadeau-la-santé-nancy-bilodeau-mba/ "Santé") la Santé!, LinkedIn
 
 [Qu'est-ce que la cohérence cardiaque](http://bit.ly/Def_CoherenceCardiaque), LinkedIn
@@ -15,3 +15,5 @@ position: 7
 [L'importance du coeur en affaires](https://mindset-entrepreneur.com/importance-du-coeur-en-affaires/ "Importance du Coeur"), Magazine MindSet Entrepreneur
 
 [Comment placer la conscience au service de son entreprise?](https://journalactionpme.com/2020/02/comment-placer-la-conscience-au-service-de-son-entreprise/ "Conscience"), Journal Action PME
+
+<a href="/blogue">Voir le blogue ></a>
