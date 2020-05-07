@@ -1,10 +1,10 @@
 ---
-thumbnail: ""
+thumbnail: ''
 title: Articles récents
 position: 7
----
 
-[S'offrir le plus beau cadeau:](https://www.linkedin.com/pulse/soffrir-le-plus-beau-cadeau-la-santé-nancy-bilodeau-mba/ "Santé") la Santé!, LinkedIn
+---
+[Est-ce que vos pensées vous supportent?](https://mindset-entrepreneur.com/est-ce-que-vos-pensees-vous-supportent/?fbclid=IwAR00bLPIKKzwe1cd4kdeIT-uriQzxDfG_RR9dD-dhQSReQu-Mjo5RkKqp5w) Magazine MindSet Entrepreneur
 
 [Qu'est-ce que la cohérence cardiaque](http://bit.ly/Def_CoherenceCardiaque), LinkedIn
 
