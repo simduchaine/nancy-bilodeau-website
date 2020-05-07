@@ -1,7 +1,7 @@
 ---
 title: S'offrir le plus beau Cadeau! La Santé
 id: s-offrir-plus-beau-cadeau-la-sante
-thumbnail: "/uploads/sante-cadeau.jpg"
+thumbnail: "/uploads/caju-gomes-500579-unsplash.jpg"
 link: https://www.linkedin.com/pulse/soffrir-le-plus-beau-cadeau-la-sant%C3%A9-nancy-bilodeau-mba/
 order: 4
 
