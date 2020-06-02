@@ -64,7 +64,7 @@ Les bénéfices mentionnés par ceux qui ont complétés la formation et le prog
 
 **Ce programme n'est pas pour tout le monde!**
 
-La santé est quelque chose de précieux que l'on doit cultiver. Il faut s'en occuper et s'impliquer. Ce programme n'est pas pour les gens qui recherchent une méthode magique ou une pilule miracle. Ce programme est pour ceux qui comprennent que chacune de nos actions à une réaction et qu'il n'en tient qu'à nous de faire les bons choix au quotidien pour nourrir et entretenir une santé optimale. Ce programme est pour ceux qui réalisent qu'il est tout à fait possible de vivre centenaire et en santé et qui sont prêts à prendre le chemin de découverte vers leur propre équilibre et mieux-être.
+La santé est quelque chose de précieux que l'on doit cultiver. Il faut s'en occuper et s'impliquer. Ce programme n'est pas pour les gens qui recherchent une méthode magique ou une pilule miracle. Ce programme est pour ceux qui comprennent que chacune de nos actions à une réaction et qu'il n'en tient qu'à nous de faire les bons choix au quotidien pour nourrir et entretenir une santé optimale. Ce programme est pour ceux qui réalisent qu'il est tout à fait possible de vivre centenaire et en santé et qui sont prêts à prendre le chemin de la découverte vers leur propre équilibre et mieux-être.
 
 Si ce programme est pour vous, cliquez ici pour connaître les différents forfaits.
 
