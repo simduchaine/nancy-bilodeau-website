@@ -1,7 +1,7 @@
 ---
 title: Programme de Transformation
 url: http://centre-holistique-om-prana-inc.square.site
-thumbnail: "/uploads/detox-boost-sante.png"
+thumbnail: "/uploads/programme-de-transformation-detox.png"
 featured_image: "/uploads/transforme.png"
 categorie: []
 
