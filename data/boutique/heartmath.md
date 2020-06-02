@@ -1,63 +1,71 @@
 ---
 title: Inner Balance
 url: https://click.linksynergy.com/link?id=QvO7r5UrhsQ&offerid=448144.11732971798&type=2&murl=http%3A%2F%2Fstore.heartmath.com%2Finnerbalance
-thumbnail: "/uploads/hearthmath_boutique.png"
-featured_image: "/uploads/Capture d’écran 2019-08-28 à 12.38.06.png"
+thumbnail: "/uploads/detox-boost-sante.png"
+featured_image: "/uploads/transforme.png"
 categorie: Cohérence
 
 ---
-HMI développe depuis 1991 des outils pour nous aider à mesurer et améliorer notre cohérence afin de mieux gérer notre stress et répondre aux évènements de la vie.
+Depuis 2013 j'accompagne les gens à transformer leur vie à travers l'enseignement des principes de santé holistique et de détoxification du corps. Ce programme s'adresse à toute personne qui 
 
-* Faire le plein d’énergie
-* Régulariser ses émotions
-* Calmer son esprit
+* Souhaite atteindre ou maintenir une santé optimale
+* Veut apprendre comment prendre soin de soi
+* Manque d'énergie, se sent régulièrement fatiguée
+* Manque de joie de vivre, se sent déprimée à l'occasion
+* Souffre de courbatures et douleurs physiques
+* A de la difficulté à dormir
+* Souhaite améliorer l'apparence de sa peau 
+* Aimerait perdre du poids 
+* Ne se sent pas bien sans raison précise
+* Manque de clarté d'esprit
+* A essayé bien d'autres méthodes et rien ne semble fonctionner
 
-**Prendre le contrôle de ses émotions**
+**Prendre soin de soi pour offrir le meilleur de soi**
 
-Il est facile aujourd’hui d’être complètement dépassé, anxieux et éparpillé. L’outil Inner Balance nous entraîne entre autre à augmenter notre résilience par la respiration tout en déplaçant notre attention sur des émotions positives et régénératives
+Il est facile aujourd’hui d’être complètement dépassé, anxieux et confus sur les bonnes pratiques en matière de santé et bien-être. Les médias et les méthodes abondent. Pourtant, la santé repose sur des principes de base très simple que nous semblons oublier sous la masse d'information faisant la promotion de tous les produits et méthodes disponibles. Dans mon programme de formation nous revenons à la base et clarifions les éléments essentiels à notre mieux-être. Prendre soin de soi devient un geste altruiste; il faut prendre soin de soi pour être en mesure d'offrir le meilleur de soi! Que ce soit au travail ou à la maison. Ceux qui performent mieux sont ceux qui sont généralement le plus en santé et le plus heureux. 
 
-**La percée de la Cohérence**
+**Le contenu du programme**
 
-La cohérence est un état d’harmonie entre notre cœur, notre esprit et les fonctions de notre système nerveux autonome. Cette harmonie offre des bienfaits au niveau mental, émotionnel et même physique. Vous pouvez imaginer la cohérence comme un état parfait de calme tout en étant concentré, énergisé et prêt à passer à l’action.
+Dans ce programme vous apprendrez entre autres:
 
-Les bénéfices généralement observés après deux semaines de pratique sont :
+* Les 6 éléments clés de la santé holistique
+* Les aliments à éviter et ceux à favoriser
+* Les différentes habitudes de détox facile à incorporer dans sa routine
+* Un programme de détox de 30 jours bon à répéter une fois par année
+* Les secrets pour un sommeil réparateur
+* L'importance de son environnement et son influence sur notre mieux-être
+* De nouvelles recettes et références en matière de cuisine saine
+* Les nuances des régimes végétaliens, végétariens et crudivores
+* À lire les étiquettes pour bien choisir ce que vous mangez
+* Comment régulariser vos émotions
+* La puissance des pensées et comment les influencer
+* Le secret du bonheur révéler par l'étude la plus longue sur le bien-être
+* Et bien plus!!
 
-* Sentiment de paix intérieur accru
-* Amélioration du sommeil
-* Diminution des tensions dans les relations
-* Moins d’inquiétudes
-* Plus alerte
-* Meilleure concentration
-* Meilleure prise de décision
-* Attitude plus positive
-* Calme accru
+Vous obtiendrez en bonus une pratique de cohérence cardiaque de 5 minutes. Celle-ci vous sera utile tout au long du programme et pour le reste de votre vie.
 
-[Cliquer ici pour plus d’information et commander >](https://click.linksynergy.com/link?id=QvO7r5UrhsQ&offerid=448144.11732971798&type=2&murl=http%3A%2F%2Fstore.heartmath.com%2Finnerbalance)
+[**CLIQUEZ ICI **](https://cours.nancybilodeau.com/detoxtransformation)pour découvrir les les 6 éléments clés de la santé holistique et en savoir plus sur le programme. 
 
-_NOTE : le site pour commander est disponible seulement en anglais. N’hésitez pas à m’appeler pour de l'assistance en français._
+**Les bienfaits**
 
-Vous pouvez télécharger l’application depuis l’Apple App Store ou Google Play. Cherchez simplement Inner Balance HeartMath ou cliquez sur les boutons ci-dessous depuis votre appareil mobile compatible:
+Les bénéfices mentionnés par ceux qui ont complétés la formation et le programme de 30 jours sont :
 
-[![App Store](/uploads/app-store.png)](https://itunes.apple.com/fr/app/inner-balance/id569278747?mt=8)
-[![Play Store](/uploads/googleplay.png)](https://play.google.com/store/apps/details?id=com.heartmath.innerbalance)
+* Une énergie accrue
+* Un sentiment de paix intérieur 
+* Une perte de poids importante
+* L'amélioration du sommeil
+* La diminution des courbatures
+* Une meilleure concentration
+* Une clarté d'esprit
+* Une attitude plus positive
+* Un calme accru
+* Une peau rayonnante
+* Le retours de la joie de vivre
 
-![Inner Balance App](/uploads/Innerbalanceapp-combined.jpg)
+**Ce programme n'est pas pour tout le monde!**
 
-**Spécifications techniques**
+La santé est quelque chose de précieux que l'on doit cultiver. Il faut s'en occuper et s'impliquer. Ce programme n'est pas pour les gens qui recherchent une méthode magique ou une pilule miracle. Ce programme est pour ceux qui comprennent que chacune de nos actions à une réaction et qu'il n'en tient qu'à nous de faire les bons choix au quotidien pour nourrir et entretenir une santé optimale. Ce programme est pour ceux qui réalisent qu'il est tout à fait possible de vivre centenaire et en santé et qui sont prêts à prendre le chemin de découverte vers leur propre équilibre et mieux-être.
 
-Inner Balance version Bluetooth utilise BT4.0 (BLE-Bluetooth Low energy) qui fonctionne dans une plage de puissance de sortie de 0,5 milliwatts (mW) ou moins – ce qui est nettement inférieur aux téléphones mobiles qui ont généralement des niveaux de sortie entre 250 mW et 2000 mW. Le minuscule émetteur Bluetooth se trouve dans le module qui se fixe à votre vêtement, et non dans le capteur auriculaire.
+Si ce programme est pour vous, cliquez ici pour connaître les différents forfaits.
 
-EMBALLAGE
-
-* Taille de la boîte: 139,7 x 177,8 x 38 mm
-* Poids: 145 g
-
-POIDS DU CAPTEUR
-
-* Poids: 26 g
-
-SPÉCIFICATIONS DES CAPTEURS
-
-* Taille du clip auriculaire: 41,3 x 19 x 15,9 mm
-* Longueur du câble: 35,6 cm
-* Taille du Pod: 67 mm x 32 mm
+[**MAGASINER**](http://centre-holistique-om-prana-inc.square.site)
