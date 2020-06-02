@@ -4,21 +4,21 @@ url: http://centre-holistique-om-prana-inc.square.site
 thumbnail: "/uploads/programme-de-transformation-detox.png"
 featured_image: "/uploads/detox-transfo.jpg"
 categorie: Formation
----
 
+---
 Depuis 2013 j'accompagne les gens à transformer leur vie à travers l'enseignement des principes de santé holistique et de détoxification du corps. Ce programme s'adresse à toute personne qui
 
-- Souhaite atteindre ou maintenir une santé optimale
-- Veut apprendre comment prendre soin de soi
-- Manque d'énergie, se sent régulièrement fatiguée
-- Manque de joie de vivre, se sent déprimée à l'occasion
-- Souffre de courbatures et douleurs physiques
-- A de la difficulté à dormir
-- Souhaite améliorer l'apparence de sa peau
-- Aimerait perdre du poids
-- Ne se sent pas bien sans raison précise
-- Manque de clarté d'esprit
-- A essayé bien d'autres méthodes et rien ne semble fonctionner
+* Souhaite atteindre ou maintenir une santé optimale
+* Veut apprendre comment prendre soin de soi
+* Manque d'énergie, se sent régulièrement fatiguée
+* Manque de joie de vivre, se sent déprimée à l'occasion
+* Souffre de courbatures et douleurs physiques
+* A de la difficulté à dormir
+* Souhaite améliorer l'apparence de sa peau
+* Aimerait perdre du poids
+* Ne se sent pas bien sans raison précise
+* Manque de clarté d'esprit
+* A essayé bien d'autres méthodes et rien ne semble fonctionner
 
 **Prendre soin de soi pour offrir le meilleur de soi**
 
@@ -28,19 +28,19 @@ Il est facile aujourd’hui d’être complètement dépassé, anxieux et confus
 
 Dans ce programme vous apprendrez entre autres:
 
-- Les 8 éléments clés de la santé holistique
-- Les aliments à éviter et ceux à favoriser
-- Les différentes habitudes de détox facile à incorporer dans sa routine
-- Un programme de détox de 30 jours bon à répéter une fois par année
-- Les secrets pour un sommeil réparateur
-- L'importance de son environnement et son influence sur notre mieux-être
-- De nouvelles recettes et références en matière de cuisine saine
-- Les nuances des régimes végétaliens, végétariens et crudivores
-- À lire les étiquettes pour bien choisir ce que vous mangez
-- Comment régulariser vos émotions
-- La puissance des pensées et comment les influencer
-- Le secret du bonheur révéler par l'étude la plus longue sur le bien-être
-- Et bien plus!!
+* Les 8 éléments clés de la santé holistique
+* Les aliments à éviter et ceux à favoriser
+* Les différentes habitudes de détox facile à incorporer dans sa routine
+* Un programme de détox de 30 jours bon à répéter une fois par année
+* Les secrets pour un sommeil réparateur
+* L'importance de son environnement et son influence sur notre mieux-être
+* De nouvelles recettes et références en matière de cuisine saine
+* Les nuances des régimes végétaliens, végétariens et crudivores
+* À lire les étiquettes pour bien choisir ce que vous mangez
+* Comment régulariser vos émotions
+* La puissance des pensées et comment les influencer
+* Le secret du bonheur révéler par l'étude la plus longue sur le bien-être
+* Et bien plus!!
 
 Vous obtiendrez en bonus une pratique de cohérence cardiaque de 5 minutes. Celle-ci vous sera utile tout au long du programme et pour le reste de votre vie.
 
@@ -50,17 +50,17 @@ Vous obtiendrez en bonus une pratique de cohérence cardiaque de 5 minutes. Cell
 
 Les bénéfices mentionnés par ceux qui ont complétés la formation et le programme de 30 jours sont :
 
-- Une énergie accrue
-- Un sentiment de paix intérieur
-- Une perte de poids importante
-- L'amélioration du sommeil
-- La diminution des courbatures
-- Une meilleure concentration
-- Une clarté d'esprit
-- Une attitude plus positive
-- Un calme accru
-- Une peau rayonnante
-- Le retours de la joie de vivre
+* Une énergie accrue
+* Un sentiment de paix intérieur
+* Une perte de poids importante
+* L'amélioration du sommeil
+* La diminution des courbatures
+* Une meilleure concentration
+* Une clarté d'esprit
+* Une attitude plus positive
+* Un calme accru
+* Une peau rayonnante
+* Le retours de la joie de vivre
 
 **Ce programme n'est pas pour tout le monde!**
 
@@ -68,4 +68,4 @@ La santé est quelque chose de précieux que l'on doit cultiver. Il faut s'en oc
 
 Si ce programme est pour vous, cliquez ici pour connaître les différents forfaits.
 
-[**MAGASINEZ**](http://centre-holistique-om-prana-inc.square.site)
+[**MAGASINEZ LES FORFAITS**](http://centre-holistique-om-prana-inc.square.site)
