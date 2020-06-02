@@ -68,4 +68,4 @@ La santé est quelque chose de précieux que l'on doit cultiver. Il faut s'en oc
 
 Si ce programme est pour vous, cliquez ici pour connaître les différents forfaits.
 
-[**MAGASINER**](http://centre-holistique-om-prana-inc.square.site)
+[**MAGASINEZ**](http://centre-holistique-om-prana-inc.square.site)
