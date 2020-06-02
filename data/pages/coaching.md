@@ -37,4 +37,6 @@ Mon approche est particulièrement positive pour les gens qui :
 * sont aux prises avec des addictions et des habitudes destructives
 * ont des relations difficiles avec les autres ou en couple et souhaitent améliorer le tout.
 
+Mon approche est unique et combine de multiples formations dont la Programmation Neuro-Linguistique, coach et mentor en Cohérence Cardiaque, coach en santé de l'institut Hippocrates, coach en nutrition de Sanoviv, professeur du programme du bonheur de l'art de vivre, praticienne Reiki, PEACE et cosmonergy. 
+
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
