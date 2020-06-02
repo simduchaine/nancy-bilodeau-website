@@ -44,7 +44,7 @@ Dans ce programme vous apprendrez entre autres:
 
 Vous obtiendrez en bonus une pratique de cohérence cardiaque de 5 minutes. Celle-ci vous sera utile tout au long du programme et pour le reste de votre vie.
 
-[**CLIQUEZ ICI **](https://cours.nancybilodeau.com/detoxtransformation)pour découvrir les les 8 éléments clés de la santé holistique et en savoir plus sur le programme.
+[**CLIQUEZ ICI **](https://cours.nancybilodeau.com/detoxtransformation)pour demander l'accès aux 8 éléments clés de la santé holistique et en savoir plus sur le programme.
 
 **Les bienfaits**
 
