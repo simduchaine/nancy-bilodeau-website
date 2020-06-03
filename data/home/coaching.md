@@ -1,15 +1,16 @@
 ---
-thumbnail: "/uploads/Capture d’écran 2019-08-15 à 09.47.11.png"
+thumbnail: "/uploads/bigstock-happy-prayer-man-with-open-out-331894729.jpg"
 title: Coaching Holistique
 position: 2
 
 ---
-- Retrouver sa vitalité
-- Bien manger
-- Adopter de bonnes habitudes
-- Maintenir sa cohérence
-- Augmenter sa résilience
-- Méditer, Respirer, Bouger
-- Vibrer, se réaliser!
+* Atteindre ses objectifs
+* Augmenter sa résilience
+* Développer sa cohérence
+* Gérer son stress
+* Nourrir sa vitalité
+* Adopter de bonnes habitudes
+* Méditer, Respirer, Bouger
+* Vibrer, se réaliser!
 
 [Coaching >](/coaching-holistique)
