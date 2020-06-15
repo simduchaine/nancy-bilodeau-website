@@ -26,7 +26,7 @@ mission: Accompagner les gens et les entreprises à être + en santé + heureux 
 cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
 
 ---
-J'ai 47 ans et tout un parcours de vie. Née au Québec, je suis détentrice d’un Baccalauréat en affaire de l’[Université de Sherbrooke](https://www.usherbrooke.ca/) et d’un MBA de l’[Université Keller Graduate School of Management](https://www.keller.edu/) des Etats-Unis. J'ai vécu 12 ans aux États Unis et ai travaillé dans plusieurs industries, tant pour des grandes, des moyennes que des petites entreprises. Plus d’information sur mon parcours professionnel est disponible sur mon profil [LinkedIn](https://www.linkedin.com/in/nancybilodeau/).
+J'ai 48 ans et tout un parcours de vie. Née au Québec, je suis détentrice d’un Baccalauréat en affaire de l’[Université de Sherbrooke](https://www.usherbrooke.ca/) et d’un MBA de l’[Université Keller Graduate School of Management](https://www.keller.edu/) des Etats-Unis. J'ai vécu 12 ans aux États Unis et ai travaillé dans plusieurs industries, tant pour des grandes, des moyennes que des petites entreprises. Plus d’information sur mon parcours professionnel est disponible sur mon profil [LinkedIn](https://www.linkedin.com/in/nancybilodeau/).
 
 J'ai pris le chemin de la recherche pour la santé globale en 2007. D’abord aux prises avec des problèmes de sommeil et d’anxiété importants, j'ai découvert les bienfaits du yoga, de la méditation et des techniques de respiration. Je suis devenue professeure de yoga en 2009 et, par la suite, de techniques de respiration avancées.
 
