@@ -40,6 +40,8 @@ En 2016, je décide de m’éloigner de la restauration et de faire un retour da
 
 En décembre 2018 j'ai complété la certification de praticienne neuro-sensoriel [PEACE](http://stephanedrouet.com/) et, en 2019, je suis aussi devenue praticienne en cosmoénergie.
 
-En début 2020, je devenais Coach Certifié de la SICPNL. 
+En début 2020, je devenais Coach Certifié de la SICPNL.
 
 Au plaisir de vous rencontrer et vous accompagner !
+
+![](/uploads/nancy-bilodeau-logo_small.png)
