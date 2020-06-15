@@ -44,4 +44,8 @@ In 2016, I decided to move away from restauration and made a comeback in the cor
 
 In December 2018 I obtained my [PEACE Certification](http://stephanedrouet.com/), than my Cosmonergy Certification in March 2019.
 
-I am ready to welcome you and support on your own journey!
+Early in 2020, I became Certified Coach with the SICPNL. 
+
+I am looking forward meeting you and support you in anyway I can. 
+
+![](/uploads/nancy-bilodeau-logo_small.png)
