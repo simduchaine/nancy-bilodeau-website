@@ -44,7 +44,7 @@ In 2016, I decided to move away from restauration and made a comeback in the cor
 
 In December 2018 I obtained my [PEACE Certification](http://stephanedrouet.com/), than my Cosmonergy Certification in March 2019.
 
-Early in 2020, I became Certified Coach with the SICPNL.
+Early in 2020, I became Certified Coach with the [SICPNL](https://sicpnl.org).
 
 I am looking forward meeting you and support you on your journey.
 
