@@ -30,7 +30,7 @@ mission: Guide individuals and businesses to be healthier and happier to reach t
 cv_link: "/uploads/Nancy Bilodeau Resume July 2019.pdf"
 
 ---
-I am 47 years old and what a life! Born in Quebec, I hold a Bachelor's degree in Business Administration from the [University of Sherbrooke](https://www.usherbrooke.ca/) and an MBA from [Keller University Graduate School of Management](https://www.keller.edu/) in the United States. I lived in the United States during 12 years and worked across several industries for large, medium and small businesses. More information about my career is available on my [LinkedIn profile](https://www.linkedin.com/in/nancybilodeau/).
+I am 48 years old and what a life! Born in Quebec, I hold a Bachelor's degree in Business Administration from the [University of Sherbrooke](https://www.usherbrooke.ca/) and an MBA from [Keller University Graduate School of Management](https://www.keller.edu/) in the United States. I lived in the United States during 12 years and worked across several industries for large, medium and small businesses. More information about my career is available on my [LinkedIn profile](https://www.linkedin.com/in/nancybilodeau/).
 
 In 2007, living under the pressures and demands of working in the corporate world, I developed sleep and anxiety issues that affected my work performance and quality of life. At that time, I embarked on the global health research path and discovered the benefits of yoga, meditation and breathing techniques. The techniques were so effective in helping me with my sleep and anxiety issues, that I became passionate about helping others with these issues. I became a yoga teacher in 2009 and started teaching advanced breathing techniques in 2011.
 
