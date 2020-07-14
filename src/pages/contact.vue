@@ -80,7 +80,7 @@ export default {
 <style lang="scss">
 .submit-btn {
   border-width: 1px;
-  padding-top: calc(0.375em - 1px);
+  padding: 1rem 0.75em;
   background: transparent;
 }
 

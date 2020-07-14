@@ -16,19 +16,19 @@
         </div>
         <div class="column is-narrow brands">
           <a href="https://www.facebook.com/NancyBilodeauCoaching/">
-            <font-awesome class="icons" :icon="['fab', 'facebook-f']" size="md" />
+            <font-awesome class="icons" :icon="['fab', 'facebook-f']" size="xs" />
           </a>
           <a href="https://www.youtube.com/channel/UCel4Y254TeW2NpNyw37RTcA">
-            <font-awesome class="icons" :icon="['fab', 'youtube']" size="md" />
+            <font-awesome class="icons" :icon="['fab', 'youtube']" size="xs" />
           </a>
           <a href="https://ca.linkedin.com/in/nancybilodeau">
-            <font-awesome class="icons" :icon="['fab', 'linkedin-in']" size="md" />
+            <font-awesome class="icons" :icon="['fab', 'linkedin-in']" size="xs" />
           </a>
           <a href="https://www.pinterest.ca/nbilode/">
-            <font-awesome class="icons" :icon="['fab', 'pinterest']" size="md" />
+            <font-awesome class="icons" :icon="['fab', 'pinterest']" size="xs" />
           </a>
           <a href="https://www.instagram.com/nancybilodeauinsta/">
-            <font-awesome class="icons" :icon="['fab', 'instagram']" size="md" />
+            <font-awesome class="icons" :icon="['fab', 'instagram']" size="xs" />
           </a>
         </div>
       </div>

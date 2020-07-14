@@ -1,10 +1,12 @@
 <template>
-  <div>
-    <h1 class="title">{{$static.soinsEn.title}}</h1>
-    <g-image class="header-img" :src="$static.soinsEn.thumbnail"></g-image>
-    <div v-html="$static.soinsEn.content" style="padding-top: 2rem;"></div>
+  <div class="has-background-info">
+    <featuredImage :image="$static.soinsEn.thumbnail" :title="$static.soinsEn.title"></featuredImage>
+    <!---<g-image class="header-img" :src="$static.soins.thumbnail"></g-image> -->
+    <div class="container" v-html="$static.soinsEn.content" style="padding-top: 2rem;"></div>
   </div>
 </template>
+
+
 
 <static-query>
 query {
@@ -17,7 +19,12 @@ query {
 </static-query>
 
 <script>
+import featuredImage from "~/components/en/featuredImage";
+
 export default {
-  name: "intro"
+  name: "intro",
+  components: {
+    featuredImage
+  }
 };
 </script>

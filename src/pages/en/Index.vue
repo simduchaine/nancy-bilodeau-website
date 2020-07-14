@@ -1,5 +1,13 @@
 <template>
   <Enhome>
+    <section id="magnet" style="background: #f1f0f0">
+      <Magnet></Magnet>
+    </section>
+
+    <section id="mission" class="lead-content">
+      <Mission></Mission>
+    </section>
+
     <section id="lead" class="has-background-info lead-content">
       <lead></lead>
     </section>
@@ -26,7 +34,7 @@
 
 <page-query>
   query servicesEn {
-    data: allservicesEn(filter: { path: { nin: ["/data-en/home/training", "/data-en/home/lead", "/data-en/home/consultation"] }}, sortBy: "position", order: ASC) {
+    data: allservicesEn(filter: { path: { nin: ["/data-en/home/training", "/data-en/home/lead", "/data-en/home/consultation", "/data-en/home/magnet"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
@@ -44,6 +52,8 @@ import services from "~/components/home/Services.vue";
 import lead from "~/components/en/home/Lead.vue";
 import training from "~/components/en/home/training/training.vue";
 import consultation from "~/components/en/home/consultation.vue";
+import Magnet from "~/components/en/home/Magnet.vue";
+import Mission from "~/components/en/home/Mission.vue";
 
 export default {
   metaInfo: {
@@ -56,7 +66,9 @@ export default {
     services,
     lead,
     training,
-    consultation
+    consultation,
+    Magnet,
+    Mission
   }
 };
 </script>
