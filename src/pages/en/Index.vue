@@ -70,12 +70,14 @@ export default {
   line-height: 1.325;
 
   a {
-    color: #d05208;
+    //color: #d05208;
+    color: #004369;
     text-decoration: underline;
 
     .navbar-item.active--exact.active {
       background-color: #fafafa;
-      color: #d05208;
+      color: #004369;
+      //color: #d05208;
     }
 
     &:hover {
@@ -132,15 +134,17 @@ blockquote {
 }
 
 .offset-bg-blue {
-  background-image: linear-gradient(transparent 9rem, #c4e0ec 0);
+  background-image: linear-gradient(transparent 9rem, #c4e0ec80 0);
   //margin-bottom: 2rem;
 }
 
 .brands {
   a {
-    color: #3b3049;
+    color: #929292;
+    //color: #3b3049;
     &:hover {
-      color: #d05208;
+      color: #004369;
+      //color: #d05208;
     }
   }
 }

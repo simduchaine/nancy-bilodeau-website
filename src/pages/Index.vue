@@ -1,5 +1,13 @@
 <template>
   <home-layout>
+    <section id="magnet" style="background: #f1f0f0">
+      <Magnet></Magnet>
+    </section>
+
+    <section id="mission" class="lead-content">
+      <Mission></Mission>
+    </section>
+
     <section id="lead" class="has-background-info lead-content">
       <lead></lead>
     </section>
@@ -30,7 +38,7 @@
 
 <page-query>
   query services {
-    data: allservices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation", "/data/home/featured-articles"] }}, sortBy: "position", order: ASC) {
+    data: allservices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation", "/data/home/featured-articles", "/data/home/magnet"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
@@ -49,6 +57,8 @@ import lead from "~/components/home/Lead.vue";
 import formation from "~/components/home/formations/Formation.vue";
 import consultation from "~/components/home/consultation.vue";
 import articles from "~/components/home/articles.vue";
+import Magnet from "~/components/home/Magnet.vue";
+import Mission from "~/components/home/Mission.vue";
 
 export default {
   metaInfo: {
@@ -59,7 +69,9 @@ export default {
     lead,
     formation,
     consultation,
-    articles
+    articles,
+    Magnet,
+    Mission
   }
 };
 </script>
@@ -73,12 +85,14 @@ export default {
   line-height: 1.325;
 
   a {
-    color: #d05208;
+    color: #004369;
+    //color: #d05208;
     text-decoration: underline;
 
     .navbar-item.active--exact.active {
       background-color: #fafafa;
-      color: #d05208;
+      color: #004369;
+      //color: #d05208;
     }
 
     &:hover {
@@ -135,15 +149,17 @@ blockquote {
 }
 
 .offset-bg-blue {
-  background-image: linear-gradient(transparent 9rem, #c4e0ec 0);
+  background-image: linear-gradient(transparent 9rem, #c4e0ec80 0);
   //margin-bottom: 2rem;
 }
 
 .brands {
   a {
-    color: #3b3049;
+    color: #929292;
+    //color: #3b3049;
     &:hover {
-      color: #d05208;
+      color: #004369;
+      //color: #d05208;
     }
   }
 }

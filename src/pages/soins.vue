@@ -1,9 +1,8 @@
 <template>
   <Layout>
-    <div class="offset-bg-blue section">
+    <intro></intro>
+    <div class="section has-background-info">
       <div class="container">
-        <h1 class="title">Soins</h1>
-        <intro></intro>
         <div id="soins" class="columns" style="padding-top: 2rem;">
           <div class="column" v-for="soin in $page.soins.edges" :key="soin.node.id">
             <div class="card">
@@ -51,6 +50,9 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.section {
+  padding-top: 0.5rem;
+}
 .card {
   display: flex;
   flex-direction: column;

@@ -37,8 +37,6 @@
                 </div>
               </div>
 
-             
-
               <div class="field">
                 <div class="control">
                   <button type="submit" class="button submit-btn full-btn">Submit</button>
@@ -101,7 +99,8 @@ export default {
 }
 
 .full-btn {
-  background: #d05208;
+  background: #004369;
+  //background: #d05208;
   color: white;
   border: none;
   &:hover {

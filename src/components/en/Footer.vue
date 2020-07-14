@@ -1,14 +1,16 @@
 <template>
   <footer class="footer">
     <div class="container is-fluid">
-      <div class="columns">
+      <!-- <div class="columns">
         <div class="column is-narrow">
           <g-image src="~/assets/img/nancy-bilodeau-logo-white.svg" />
         </div>
         <div class="column"></div>
-      </div>
+      </div>-->
       <div class="columns">
-        <div class="column is-size-7">©Nancy Bilodeau 2019. All rights reserved.</div>
+        <div
+          class="column is-size-7"
+        >©Nancy Bilodeau {{ new Date().getFullYear() }}. All rights reserved.</div>
         <div class="column">
           <a href="http://eepurl.com/gpZ2jv" class="button">Subscribe to our newsletter</a>
         </div>
@@ -47,16 +49,18 @@ footer {
     a {
       color: white;
       &:hover {
-        color: #d05208;
+        color: #929292;
+        //color: #004369;
       }
     }
   }
   .button {
     margin: 0 0.4rem 0;
     padding: 0 10px;
-    background: #d05208;
+    //background: #d05208;
+    background: none;
     color: white;
-    border: none;
+    border: 1px solid white;
     &:hover {
       color: #3b3049;
       background: white;

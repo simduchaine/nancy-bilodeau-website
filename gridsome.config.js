@@ -80,7 +80,11 @@ module.exports = {
         route: "/:slug",
         remark: {
           plugins: [
-            //require("remark-attr")
+            [
+              "gridsome-plugin-remark-youtube",
+              ,
+              { width: "500px", align: "auto" },
+            ],
           ],
         },
       },
