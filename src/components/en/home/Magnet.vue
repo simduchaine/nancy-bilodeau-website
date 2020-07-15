@@ -2,14 +2,14 @@
   <div class="container">
     <div class="columns is-marginless is-centered">
       <div class="column is-three-quarters has-text-centered" style="padding-top:2.5rem;">
-        <h1 v-html="$static.servicesEn.title" class="title"></h1>
-        <div v-html="$static.servicesEn.content"></div>
+        <h1 v-html="$static.servicesEn.title" class="title is-size-6" style="margin-bottom: 0"></h1>
+        <div v-html="$static.servicesEn.content" class="is-size-6"></div>
       </div>
     </div>
 
     <!-- Begin Mailchimp Signup Form -->
-    <div id="mc_embed_signup" class="columns is-centered">
-      <div class="column is-half">
+    <div id="mc_embed_signup" class="columns is-centered" style="margin-top: -2.25em">
+      <div class="column is-full">
         <form
           action="https://nancybilodeau.us20.list-manage.com/subscribe/post?u=23c00cdf65b51791bb6e5bda3&amp;id=16ac9ef9aa"
           method="post"
@@ -20,36 +20,36 @@
           novalidate
         >
           <div id="mc_embed_signup_scroll">
-            <div class="mc-field-group field is-horizontal">
-              <div class="field-label">
-                <label for="mce-FNAME" class="label">First Name</label>
-              </div>
-              <div class="field-body">
+            <div class="field is-grouped is-grouped-centered">
+              <div class="mc-field-group">
                 <div class="field">
                   <div class="control">
-                    <input type="text" value name="FNAME" class="input" id="mce-FNAME" />
+                    <input
+                      type="text"
+                      value
+                      name="FNAME"
+                      class="input"
+                      id="mce-FNAME"
+                      placeholder="First Name"
+                    />
                   </div>
                 </div>
               </div>
-            </div>
-            <div class="mc-field-group field is-horizontal">
-              <div class="field-label">
-                <label for="mce-LNAME" class="label">Last Name</label>
-              </div>
-              <div class="field-body">
+              <div class="mc-field-group">
                 <div class="field">
                   <div class="control">
-                    <input type="text" value name="LNAME" class="input" id="mce-LNAME" />
+                    <input
+                      type="text"
+                      value
+                      name="LNAME"
+                      class="input"
+                      id="mce-LNAME"
+                      placeholder="Name"
+                    />
                   </div>
                 </div>
               </div>
-            </div>
-
-            <div class="mc-field-group field is-horizontal">
-              <div class="field-label">
-                <label for="mce-EMAIL" class="label">Email</label>
-              </div>
-              <div class="field-body">
+              <div class="mc-field-group">
                 <div class="field">
                   <div class="control">
                     <input
@@ -58,9 +58,19 @@
                       name="EMAIL"
                       class="required email input"
                       id="mce-EMAIL"
+                      placeholder="Email"
                     />
                   </div>
                 </div>
+              </div>
+              <div class="clear">
+                <input
+                  type="submit"
+                  value="Subscribe"
+                  name="subscribe"
+                  id="mc-embedded-subscribe"
+                  class="button"
+                />
               </div>
             </div>
 
@@ -81,15 +91,6 @@
             <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
             <div style="position: absolute; left: -5000px;" aria-hidden="true">
               <input type="text" name="b_23c00cdf65b51791bb6e5bda3_16ac9ef9aa" tabindex="-1" value />
-            </div>
-            <div class="clear">
-              <input
-                type="submit"
-                value="Subscribe"
-                name="subscribe"
-                id="mc-embedded-subscribe"
-                class="button"
-              />
             </div>
           </div>
         </form>
@@ -115,14 +116,21 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-/* input:not(.button) {
-  width: 100%;
-} */
-.field-label {
-  text-align: left;
+input:not(.button) {
+  background-color: white;
 }
+
+::placeholder {
+  opacity: 0.8;
+  color: #363636;
+}
+
 .button {
   padding-top: 0.2em;
-  margin-top: 0.5em;
+  //margin-top: 0.5em;
+}
+.control {
+  margin-bottom: 0;
+  margin-right: 0.25rem;
 }
 </style>

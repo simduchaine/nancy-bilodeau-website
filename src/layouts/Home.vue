@@ -1,12 +1,12 @@
 <template>
   <div>
-    <custom-header/>
+    <custom-header />
 
-    <hero/>
+    <hero />
 
-    <slot/>
+    <slot />
 
-    <custom-footer/>
+    <custom-footer />
   </div>
 </template>
 
@@ -26,9 +26,9 @@ export default {
 
 
 <style>
-.input {
+/* .input {
   border-top: 0;
   border-left: 0;
   border-right: 0;
-}
+} */
 </style>
