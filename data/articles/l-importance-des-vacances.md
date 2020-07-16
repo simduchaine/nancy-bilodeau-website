@@ -6,3 +6,4 @@ link: https://journalactionpme.com/2020/06/pourquoi-prendre-des-vacances-est-il-
 order: 
 
 ---
+Les vacances sont essentielles pour se reposer et recharger nos batteries. Les années des super héros qui ne prennent jamais de vacances pour leur entreprise sont révolues. Laissons place aux grands Sages et l'équilibre... 
