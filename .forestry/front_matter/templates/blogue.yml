@@ -21,4 +21,5 @@ fields:
   label: Ordre
   description: Ordre de parution sur la page
 pages:
+- data/articles/l-importance-des-vacances.md
 - data/articles/plus-beau-cadeau-sante.md
