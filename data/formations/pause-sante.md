@@ -5,7 +5,7 @@ type: Atelier
 thumbnail: "/uploads/pause santé instagram.png"
 link: ''
 order: 4
-upcoming: true
+upcoming: false
 
 ---
 Nouvelle date à venir après la pandémie.
