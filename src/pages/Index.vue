@@ -1,5 +1,27 @@
 <template>
   <home-layout>
+    <ClientOnly>
+      <carousel
+        :autoplay="true"
+        :loop="true"
+        :perPage="1"
+        :speed="1000"
+        :autoplayTimeout="5000"
+        class="hero is-medium has-background"
+      >
+        <slide v-for="slide in $page.slides.edges" :key="slide.node.id">
+          <g-image class="hero-background is-transparent" :src="slide.node.image.src" />
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title is-size-2">{{slide.node.title}}</h1>
+              <h2 class="title is-size-3">{{slide.node.subtitle}}</h2>
+              <a :href="slide.node.buttonLink" class="button">{{slide.node.buttonText}}</a>
+            </div>
+          </div>
+        </slide>
+      </carousel>
+    </ClientOnly>
+
     <section id="magnet" style="background: #f1f0f0">
       <Magnet></Magnet>
     </section>
@@ -37,7 +59,7 @@
 </template>
 
 <page-query>
-  query services {
+  query {
     data: allservices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation", "/data/home/featured-articles", "/data/home/magnet"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
@@ -47,7 +69,21 @@
           content
         }
       }
+    },
+    slides: allcarousel(sortBy: "order", order: ASC) {
+    edges {
+      node {
+        title
+        subtitle
+        path
+        image
+        buttonText
+        buttonLink
+        id
+        uid
+      }
     }
+  }
   }
 </page-query>
 
@@ -62,7 +98,7 @@ import Mission from "~/components/home/Mission.vue";
 
 export default {
   metaInfo: {
-    title: "Nancy Bilodeau - Coaching Mieux-Etre"
+    title: "Nancy Bilodeau - Coaching Mieux-Etre",
   },
   components: {
     services,
@@ -71,12 +107,51 @@ export default {
     consultation,
     articles,
     Magnet,
-    Mission
-  }
+    Mission,
+    Carousel: () =>
+      import("vue-carousel")
+        .then((m) => m.Carousel)
+        .catch(),
+    Slide: () =>
+      import("vue-carousel")
+        .then((m) => m.Slide)
+        .catch(),
+  },
 };
 </script>
 
 <style lang="scss">
+.hero {
+  &.has-background {
+    position: relative;
+    overflow: hidden;
+  }
+
+  &-background {
+    position: absolute;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 100%;
+
+    &.is-transparent {
+      opacity: 0.7;
+    }
+  }
+
+  &.is-medium {
+    .hero-body {
+      padding-bottom: 6.5rem;
+      padding-top: 6.5rem;
+    }
+  }
+}
+
+.VueCarousel-pagination {
+  position: absolute;
+  bottom: 1%;
+}
+
 .button {
   border-radius: 5px;
 }
