@@ -2,7 +2,7 @@
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 import "~/assets/sass/styles.scss";
 import VueTypedJs from "vue-typed-js";
-import VueCarousel from "vue-carousel";
+import VueCarousel from "vue-carousel/src/index";
 
 import DefaultLayout from "~/layouts/Default.vue";
 import HomeLayout from "~/layouts/Home.vue";
