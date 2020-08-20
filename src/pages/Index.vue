@@ -9,10 +9,10 @@
         :arrows="true"
       >
         <div v-for="slide in $page.slides.edges" :key="slide.node.id">
-          <!-- <g-image
+          <g-image
             class="hero-background is-transparent"
-            :src="slide.node.image"
-          /> -->
+            :src="slide.node.backgroundImg"
+          />
           <div class="hero-body">
             <div class="container">
               <h1 class="title is-size-2">{{ slide.node.title }}</h1>
@@ -86,7 +86,7 @@
         title
         subtitle
         path
-        image (quality: 100)
+        backgroundImg (quality: 100)
         buttonText
         buttonLink
         id
