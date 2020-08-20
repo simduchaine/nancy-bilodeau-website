@@ -1,7 +1,7 @@
 // This is the main.js file. Import global CSS and scripts here.
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 import "~/assets/sass/styles.scss";
-import VueTypedJs from "vue-typed-js";
+//import VueTypedJs from "vue-typed-js";
 import VueCarousel from "vue-carousel/src/index";
 
 import DefaultLayout from "~/layouts/Default.vue";
@@ -15,7 +15,7 @@ export default function(Vue, { router, head, isClient }) {
   Vue.component("HomeLayout", HomeLayout);
   Vue.component("Enhome", EnhomeLayout);
   Vue.component("EnglishLayout", EnglishLayout);
-  Vue.use(VueTypedJs);
+  //Vue.use(VueTypedJs);
   Vue.use(VueCarousel);
   // Add atributes to BODY tag
   head.bodyAttrs = { class: "has-navbar-fixed-top" };
