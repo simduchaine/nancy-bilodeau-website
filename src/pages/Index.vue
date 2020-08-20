@@ -1,7 +1,7 @@
 <template>
   <home-layout>
     <ClientOnly>
-      <carousel
+      <Carousel
         :autoplay="true"
         :loop="true"
         :perPage="1"
@@ -9,7 +9,7 @@
         :autoplayTimeout="5000"
         class="hero is-medium has-background"
       >
-        <slide v-for="slide in $page.slides.edges" :key="slide.node.id">
+        <Slide v-for="slide in $page.slides.edges" :key="slide.node.id">
           <g-image class="hero-background is-transparent" :src="slide.node.image.src" />
           <div class="hero-body">
             <div class="container">
@@ -18,8 +18,8 @@
               <a :href="slide.node.buttonLink" class="button">{{slide.node.buttonText}}</a>
             </div>
           </div>
-        </slide>
-      </carousel>
+        </Slide>
+      </Carousel>
     </ClientOnly>
 
     <section id="magnet" style="background: #f1f0f0">
