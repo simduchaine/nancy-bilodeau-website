@@ -154,6 +154,7 @@ module.exports = {
       options: {
         path: "data/carousel/**/*.md",
         typeName: "carousel",
+        route: "/carousel/:slug"
         resolveAbsolutePaths: true,
         remark: {
           plugins: [
