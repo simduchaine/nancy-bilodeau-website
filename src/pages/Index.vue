@@ -76,7 +76,7 @@
         title
         subtitle
         path
-        image
+        image (quality: 100)
         buttonText
         buttonLink
         id
