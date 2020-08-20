@@ -1,26 +1,30 @@
 <template>
   <home-layout>
-    <ClientOnly>
-      <Carousel
-        :autoplay="true"
-        :loop="true"
-        :perPage="1"
-        :speed="1000"
-        :autoplayTimeout="5000"
+    <section id="carousel">
+      <VueSlickCarousel
         class="hero is-medium has-background"
+        :dots="true"
+        :autoplay="true"
+        :autoplaySpeed="5000"
+        :arrows="true"
       >
-        <Slide v-for="slide in $page.slides.edges" :key="slide.node.id">
-          <g-image class="hero-background is-transparent" :src="slide.node.image" />
+        <div v-for="slide in $page.slides.edges" :key="slide.node.id">
+          <g-image
+            class="hero-background is-transparent"
+            :src="slide.node.image"
+          />
           <div class="hero-body">
             <div class="container">
-              <h1 class="title is-size-2">{{slide.node.title}}</h1>
-              <h2 class="title is-size-3">{{slide.node.subtitle}}</h2>
-              <a :href="slide.node.buttonLink" class="button">{{slide.node.buttonText}}</a>
+              <h1 class="title is-size-2">{{ slide.node.title }}</h1>
+              <h2 class="title is-size-3">{{ slide.node.subtitle }}</h2>
+              <a :href="slide.node.buttonLink" class="button">{{
+                slide.node.buttonText
+              }}</a>
             </div>
           </div>
-        </Slide>
-      </Carousel>
-    </ClientOnly>
+        </div>
+      </VueSlickCarousel>
+    </section>
 
     <section id="magnet" style="background: #f1f0f0">
       <Magnet></Magnet>
@@ -45,7 +49,10 @@
     </section>
 
     <section id="formations">
-      <formation class="has-background-info lead-content" style="margin-top: -10px"></formation>
+      <formation
+        class="has-background-info lead-content"
+        style="margin-top: -10px"
+      ></formation>
     </section>
 
     <section id="consultation">
@@ -53,7 +60,10 @@
     </section>
 
     <section id="articles">
-      <articles class="has-background-info lead-content" style="margin-top: -10px"></articles>
+      <articles
+        class="has-background-info lead-content"
+        style="margin-top: -10px"
+      ></articles>
     </section>
   </home-layout>
 </template>
@@ -96,6 +106,10 @@ import articles from "~/components/home/articles.vue";
 import Magnet from "~/components/home/Magnet.vue";
 import Mission from "~/components/home/Mission.vue";
 
+import VueSlickCarousel from "vue-slick-carousel";
+import "vue-slick-carousel/dist/vue-slick-carousel.css";
+import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
+
 export default {
   metaInfo: {
     title: "Nancy Bilodeau - Coaching Mieux-Etre",
@@ -108,14 +122,7 @@ export default {
     articles,
     Magnet,
     Mission,
-    Carousel: () =>
-      import("vue-carousel/src/index")
-        .then((m) => m.Carousel)
-        .catch(),
-    Slide: () =>
-      import("vue-carousel/src/index")
-        .then((m) => m.Slide)
-        .catch(),
+    VueSlickCarousel,
   },
 };
 </script>
@@ -132,7 +139,7 @@ export default {
     object-fit: cover;
     object-position: center;
     width: 100%;
-    height: 100%;
+    height: 100vh;
 
     &.is-transparent {
       opacity: 0.7;
@@ -141,15 +148,26 @@ export default {
 
   &.is-medium {
     .hero-body {
-      padding-bottom: 6.5rem;
-      padding-top: 6.5rem;
+      padding-bottom: 7.5rem;
+      padding-top: 7.5rem;
     }
   }
 }
+.slick-arrow {
+  z-index: 999;
+}
+.slick-prev {
+  left: 20px;
+}
+.slick-next {
+  right: 20px;
+}
+.slick-slide {
+  position: relative;
+}
 
-.VueCarousel-pagination {
-  position: absolute;
-  bottom: 1%;
+.slick-dots {
+  bottom: 20px;
 }
 
 .button {
