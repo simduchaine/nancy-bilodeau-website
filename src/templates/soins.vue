@@ -10,7 +10,7 @@
 </template>
 
 <page-query>
-query singleSoin ($id: String!) {
+query singleSoin ($id: ID!) {
   soins (id: $id) {
     title
     content
@@ -22,9 +22,9 @@ query singleSoin ($id: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.soins.title
+      title: this.$page.soins.title,
     };
-  }
+  },
 };
 </script>
 

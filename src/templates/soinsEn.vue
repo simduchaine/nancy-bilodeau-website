@@ -10,7 +10,7 @@
 </template>
 
 <page-query>
-query singleSoinEn ($id: String!) {
+query singleSoinEn ($id: ID!) {
   soinsEn (id: $id) {
     title
     content
@@ -24,10 +24,10 @@ export default {
     return {
       title: this.$page.soinsEn.title,
       htmlAttrs: {
-        lang: "en"
-      }
+        lang: "en",
+      },
     };
-  }
+  },
 };
 </script>
 

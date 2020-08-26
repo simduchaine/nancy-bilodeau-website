@@ -1,6 +1,9 @@
 <template>
   <English-Layout>
-    <featuredImage :image="$page.pageContentEn.thumbnail" :title="$page.pageContentEn.title"></featuredImage>
+    <featuredImage
+      :image="$page.pageContentEn.thumbnail"
+      :title="$page.pageContentEn.title"
+    ></featuredImage>
     <div class="section has-background-info">
       <div class="container">
         <div v-html="$page.pageContentEn.content"></div>
@@ -10,7 +13,7 @@
 </template>
 
 <page-query>
-query ContentEn ($id: String!) {
+query ContentEn ($id: ID!) {
   pageContentEn (id: $id) {
     title
     content
@@ -27,13 +30,13 @@ export default {
     return {
       title: this.$page.pageContentEn.title,
       htmlAttrs: {
-        lang: "en"
-      }
+        lang: "en",
+      },
     };
   },
   components: {
-    featuredImage
-  }
+    featuredImage,
+  },
 };
 </script>
 

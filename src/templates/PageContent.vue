@@ -1,6 +1,9 @@
 <template>
   <Layout>
-    <featuredImage :image="$page.pageContent.thumbnail" :title="$page.pageContent.title"></featuredImage>
+    <featuredImage
+      :image="$page.pageContent.thumbnail"
+      :title="$page.pageContent.title"
+    ></featuredImage>
     <div class="section has-background-info">
       <div class="container">
         <div v-html="$page.pageContent.content"></div>
@@ -10,7 +13,7 @@
 </template>
 
 <page-query>
-query Content ($id: String!) {
+query Content ($id: ID!) {
   pageContent (id: $id) {
     title
     content
@@ -25,12 +28,12 @@ import featuredImage from "../components/featuredImage";
 export default {
   metaInfo() {
     return {
-      title: this.$page.pageContent.title
+      title: this.$page.pageContent.title,
     };
   },
   components: {
-    featuredImage
-  }
+    featuredImage,
+  },
 };
 </script>
 

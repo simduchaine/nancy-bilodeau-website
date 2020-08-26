@@ -77,7 +77,7 @@ module.exports = {
         path: "data/pages/**/*.md",
         typeName: "PageContent",
         resolveAbsolutePaths: true,
-        route: "/:slug",
+        route: "/:title",
         remark: {
           plugins: [
             [
@@ -95,7 +95,7 @@ module.exports = {
         path: "data/formations/**/*.md",
         typeName: "formations",
         resolveAbsolutePaths: true,
-        route: "/formations/:type/:slug",
+        route: "/formations/:type/:title",
         remark: {
           plugins: [
             //require("remark-attr")
@@ -109,7 +109,7 @@ module.exports = {
         path: "data/articles/**/*.md",
         typeName: "articles",
         resolveAbsolutePaths: true,
-        //route: "/formations/:type/:slug",
+        //route: "/formations/:type/:title",
         remark: {
           plugins: [
             //require("remark-attr")
@@ -123,7 +123,7 @@ module.exports = {
         path: "data/boutique/**/*.md",
         typeName: "products",
         resolveAbsolutePaths: true,
-        route: "/boutique/:slug",
+        route: "/boutique/:title",
         remark: {
           plugins: [
             //require("remark-attr")
@@ -137,7 +137,7 @@ module.exports = {
         path: "data/soins/**/*.md",
         typeName: "soins",
         resolveAbsolutePaths: true,
-        route: "/soins/:slug",
+        route: "/soins/:title",
         remark: {
           plugins: [
             [
@@ -154,7 +154,6 @@ module.exports = {
       options: {
         path: "data/carousel/**/*.md",
         typeName: "carousel",
-        route: "/carousel/:slug",
         resolveAbsolutePaths: true,
         remark: {
           plugins: [
@@ -198,7 +197,7 @@ module.exports = {
         path: "data_en/pages/**/*.md",
         typeName: "PageContentEn",
         resolveAbsolutePaths: true,
-        route: "/en/:slug",
+        route: "/en/:title",
       },
     },
     {
@@ -207,7 +206,7 @@ module.exports = {
         path: "data_en/training/**/*.md",
         typeName: "training",
         resolveAbsolutePaths: true,
-        route: "/en/training/:type/:slug",
+        route: "/en/training/:type/:title",
       },
     },
     {
@@ -216,7 +215,7 @@ module.exports = {
         path: "data_en/shop/**/*.md",
         typeName: "productsEn",
         resolveAbsolutePaths: true,
-        route: "/en/shop/:slug",
+        route: "/en/shop/:title",
       },
     },
     {
@@ -225,7 +224,7 @@ module.exports = {
         path: "data_en/services/**/*.md",
         typeName: "soinsEn",
         resolveAbsolutePaths: true,
-        route: "/en/services/:slug",
+        route: "/en/services/:title",
         remark: {
           plugins: [
             [

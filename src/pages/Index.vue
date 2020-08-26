@@ -70,7 +70,7 @@
 
 <page-query>
   query {
-    data: allservices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation", "/data/home/featured-articles", "/data/home/magnet"] }}, sortBy: "position", order: ASC) {
+    data: allServices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation", "/data/home/featured-articles", "/data/home/magnet"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
@@ -80,7 +80,7 @@
         }
       }
     },
-    slides: allcarousel(sortBy: "order", order: ASC) {
+    slides: allCarousel(sortBy: "order", order: ASC) {
     edges {
       node {
         title
@@ -90,7 +90,6 @@
         buttonText
         buttonLink
         id
-        uid
       }
     }
   }

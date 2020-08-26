@@ -23,7 +23,10 @@
     </section>
 
     <section id="training">
-      <training class="has-background-info lead-content" style="margin-top: -10px"></training>
+      <training
+        class="has-background-info lead-content"
+        style="margin-top: -10px"
+      ></training>
     </section>
 
     <section id="consultation">
@@ -34,7 +37,7 @@
 
 <page-query>
   query servicesEn {
-    data: allservicesEn(filter: { path: { nin: ["/data-en/home/training", "/data-en/home/lead", "/data-en/home/consultation", "/data-en/home/magnet"] }}, sortBy: "position", order: ASC) {
+    data: allServicesEn(filter: { path: { nin: ["/data-en/home/training", "/data-en/home/lead", "/data-en/home/consultation", "/data-en/home/magnet"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
@@ -59,8 +62,8 @@ export default {
   metaInfo: {
     title: "Nancy Bilodeau - Wellness Coaching",
     htmlAttrs: {
-      lang: "en"
-    }
+      lang: "en",
+    },
   },
   components: {
     services,
@@ -68,8 +71,8 @@ export default {
     training,
     consultation,
     Magnet,
-    Mission
-  }
+    Mission,
+  },
 };
 </script>
 

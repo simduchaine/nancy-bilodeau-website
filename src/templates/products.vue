@@ -3,7 +3,10 @@
     <div class="offset-bg-blue section">
       <div class="container">
         <h1 class="title">{{ $page.products.title }}</h1>
-        <g-image class="header-img" :src="$page.products.featured_image"></g-image>
+        <g-image
+          class="header-img"
+          :src="$page.products.featured_image"
+        ></g-image>
         <div v-html="$page.products.content"></div>
       </div>
     </div>
@@ -11,7 +14,7 @@
 </template>
 
 <page-query>
-query singleProduct ($id: String!) {
+query singleProduct ($id: ID!) {
   products (id: $id) {
     title
     content
@@ -24,9 +27,9 @@ query singleProduct ($id: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.products.title
+      title: this.$page.products.title,
     };
-  }
+  },
 };
 </script>
 

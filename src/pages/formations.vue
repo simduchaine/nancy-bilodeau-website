@@ -18,12 +18,12 @@
                   <g-image :src="edge.node.thumbnail"></g-image>
                 </div>
                 <div class="card-content">
-                  <h2 class="title is-6">{{edge.node.title}}</h2>
+                  <h2 class="title is-6">{{ edge.node.title }}</h2>
                   <div v-html="edge.node.content"></div>
                 </div>
                 <a :href="edge.node.link">S'inscrire ></a>
                 <div class="card-footer">
-                  <div class="card-footer-item tag">{{edge.node.type}}</div>
+                  <div class="card-footer-item tag">{{ edge.node.type }}</div>
                 </div>
               </div>
             </div>
@@ -45,11 +45,13 @@
                 <g-image :src="formation.node.thumbnail"></g-image>
               </div>
               <div class="card-content">
-                <h2 class="title is-6">{{formation.node.title}}</h2>
+                <h2 class="title is-6">{{ formation.node.title }}</h2>
                 <div v-html="formation.node.content"></div>
               </div>
               <div class="card-footer">
-                <div class="card-footer-item tag">{{formation.node.type}}</div>
+                <div class="card-footer-item tag">
+                  {{ formation.node.type }}
+                </div>
               </div>
             </div>
           </div>
@@ -61,7 +63,7 @@
 
 <page-query>
 query Formations {
-  formations: allformations (filter: { path: { nin: ["/formations/type/formations"] }, upcoming: { ne: true }}, sortBy: "order", order: ASC) {
+  formations: allFormations (filter: { path: { nin: ["/formations/type/formations"] }, upcoming: { ne: true }}, sortBy: "order", order: ASC) {
     edges {
       node {
         title
@@ -74,8 +76,8 @@ query Formations {
         upcoming
       }
     }
-  }
-  upcoming: allformations (filter: { upcoming: { eq: true }}, sortBy: "order", order: ASC) {
+  },
+  upcoming: allFormations (filter: { upcoming: { eq: true }}, sortBy: "order", order: ASC) {
     edges {
       node {
         title
@@ -96,11 +98,11 @@ import intro from "~/components/formations/intro.vue";
 
 export default {
   metaInfo: {
-    title: "Formations"
+    title: "Formations",
   },
   components: {
-    intro
-  }
+    intro,
+  },
 };
 </script>
 

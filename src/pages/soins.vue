@@ -4,7 +4,11 @@
     <div class="section has-background-info">
       <div class="container">
         <div id="soins" class="columns" style="padding-top: 2rem;">
-          <div class="column" v-for="soin in $page.soins.edges" :key="soin.node.id">
+          <div
+            class="column"
+            v-for="soin in $page.soins.edges"
+            :key="soin.node.id"
+          >
             <div class="card">
               <g-link :to="soin.node.path">
                 <div class="card-image">
@@ -22,7 +26,7 @@
 
 <page-query>
 query Soins {
-  soins: allsoins(filter: { path: { nin: ["/soins/soins"] }})  {
+  soins: allSoins(filter: { path: { nin: ["/soins/soins/"] }})  {
     edges {
       node {
         title
@@ -41,11 +45,11 @@ import intro from "~/components/soins/intro.vue";
 
 export default {
   metaInfo: {
-    title: "Soins"
+    title: "Soins",
   },
   components: {
-    intro
-  }
+    intro,
+  },
 };
 </script>
 
