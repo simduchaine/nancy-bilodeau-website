@@ -70,7 +70,7 @@
 
 <page-query>
   query {
-    data: allServices(filter: { path: { nin: ["/data/home/formations", "/data/home/lead", "/data/home/consultation", "/data/home/featured-articles", "/data/home/magnet"] }}, sortBy: "position", order: ASC) {
+    data: allServices(filter: { path: { nin: ["/data/home/formations/", "/data/home/lead/", "/data/home/consultation/", "/data/home/featured-articles/", "/data/home/magnet/"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
