@@ -8,18 +8,92 @@
         :autoplaySpeed="5000"
         :arrows="true"
       >
-        <div v-for="slide in $page.slides.edges" :key="slide.node.id">
-          <g-image
-            class="hero-background is-transparent"
-            :src="slide.node.backgroundImg"
-          />
+        <!-- <div v-for="slide in $page.slides.edges" :key="slide.node.id">
+          <g-image class="hero-background is-transparent" :src="slide.node.backgroundImg" />
           <div class="hero-body">
             <div class="container">
               <h1 class="title is-size-2">{{ slide.node.title }}</h1>
               <h2 class="title is-size-3">{{ slide.node.subtitle }}</h2>
-              <a :href="slide.node.buttonLink" class="button">{{
+              <a :href="slide.node.buttonLink" class="button">
+                {{
                 slide.node.buttonText
-              }}</a>
+                }}
+              </a>
+            </div>
+          </div>
+        </div>-->
+
+        <div>
+          <g-image
+            class="hero-background is-transparent"
+            src="../../uploads/nancy-devant-nuages.jpeg"
+          />
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title is-size-2">Activatrice de Santé, Bonheur et Réalisation!</h1>
+              <h2 class="title is-size-3">Au service de votre bien-être, vos rêves et vos objectifs</h2>
+              <a
+                href="https://nancybilodeau.com/a-propos"
+                class="button"
+              >Pour en savoir plus sur moi</a>
+            </div>
+          </div>
+        </div>
+        <div>
+          <g-image class="hero-background is-transparent" src="../../uploads/slide2.jpg" />
+          <div class="hero-body">
+            <div class="container">
+              <h1
+                class="title is-size-2"
+              >Apprenez à prendre soin de vous pour offrir le meilleur de vous-même</h1>
+              <h2
+                class="title is-size-3"
+              >Découvrez les secrets de la santé holistique et transformez votre vie!</h2>
+              <a
+                href="https://nancybilodeau.com/boutique/programme-de-transformation"
+                class="button"
+              >Découvrez mon programme de transformation</a>
+            </div>
+          </div>
+        </div>
+        <div>
+          <g-image class="hero-background is-transparent" src="../../uploads/travelers.jpg" />
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title is-size-2">Élevez votre conscience et votre énergie</h1>
+              <h2 class="title is-size-3">Pour une vie comblée, pleine de sens, et de vitalité</h2>
+              <a
+                href="https://nancybilodeau.com/soins"
+                class="button"
+              >Découvrez mes soins et techniques</a>
+            </div>
+          </div>
+        </div>
+        <div>
+          <g-image class="hero-background is-transparent" src="../../uploads/jason-hogan.jpg" />
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title is-size-2">Libérez ce qui vous limite; peurs, relations, addictions</h1>
+              <h2
+                class="title is-size-3"
+              >Connectez à votre essence et réalisez votre plein potentiel</h2>
+              <a
+                href="https://nancybilodeau.com/soins/peace"
+                class="button"
+              >Apprenez-en plus sur l’approche PEACE</a>
+            </div>
+          </div>
+        </div>
+        <div>
+          <g-image class="hero-background is-transparent" src="../../uploads/red-man2.jpg" />
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title is-size-2">Trouvez votre équilibre et marchez vers votre destiné</h1>
+              <h2 class="title is-size-3">Pour une vie harmonieuse, enrichissante et cohérente</h2>
+              <a
+                href="https://www.gorendezvous.com/homepage/111690"
+                class="button"
+              >Réservez votre coaching avec Nancy</a>
             </div>
           </div>
         </div>
@@ -49,10 +123,7 @@
     </section>
 
     <section id="formations">
-      <formation
-        class="has-background-info lead-content"
-        style="margin-top: -10px"
-      ></formation>
+      <formation class="has-background-info lead-content" style="margin-top: -10px"></formation>
     </section>
 
     <section id="consultation">
@@ -60,10 +131,7 @@
     </section>
 
     <section id="articles">
-      <articles
-        class="has-background-info lead-content"
-        style="margin-top: -10px"
-      ></articles>
+      <articles class="has-background-info lead-content" style="margin-top: -10px"></articles>
     </section>
   </home-layout>
 </template>
@@ -79,8 +147,11 @@
           content
         }
       }
-    },
-    slides: allCarousel(sortBy: "order", order: ASC) {
+    }
+  }
+</page-query>
+
+/* slides: allCarousel(sortBy: "order", order: ASC) {
     edges {
       node {
         title
@@ -92,9 +163,7 @@
         id
       }
     }
-  }
-  }
-</page-query>
+  } */
 
 <script>
 import services from "~/components/home/Services.vue";
