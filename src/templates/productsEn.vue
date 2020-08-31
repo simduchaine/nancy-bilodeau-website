@@ -3,7 +3,10 @@
     <div class="offset-bg-blue section">
       <div class="container">
         <h1 class="title">{{ $page.productsEn.title }}</h1>
-        <g-image class="header-img" :src="$page.productsEn.featured_image"></g-image>
+        <g-image
+          class="header-img"
+          :src="$page.productsEn.featured_image"
+        ></g-image>
         <div v-html="$page.productsEn.content"></div>
       </div>
     </div>
@@ -11,7 +14,7 @@
 </template>
 
 <page-query>
-query singleProductEn ($id: String!) {
+query singleProductEn ($id: ID!) {
   productsEn (id: $id) {
     title
     content
@@ -26,10 +29,10 @@ export default {
     return {
       title: this.$page.productsEn.title,
       htmlAttrs: {
-        lang: "en"
-      }
+        lang: "en",
+      },
     };
-  }
+  },
 };
 </script>
 

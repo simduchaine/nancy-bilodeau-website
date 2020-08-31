@@ -3,9 +3,12 @@
     <div class="offset-bg-blue section">
       <div class="container">
         <h1 class="title">Training</h1>
-        <div
-          style="margin-bottom:2rem;"
-        >I have several courses ready. You can organize a course or participate in the next one on our schedule. To organize a course, a retreat, a conference or a meal, you simply have to gather 10 people and your registration will be free!</div>
+        <div style="margin-bottom:2rem;">
+          I have several courses ready. You can organize a course or participate
+          in the next one on our schedule. To organize a course, a retreat, a
+          conference or a meal, you simply have to gather 10 people and your
+          registration will be free!
+        </div>
         <div class="columns is-multiline">
           <div
             class="column is-one-third"
@@ -17,11 +20,13 @@
                 <g-image :src="formation.node.thumbnail"></g-image>
               </div>
               <div class="card-content">
-                <h2 class="title is-6">{{formation.node.title}}</h2>
+                <h2 class="title is-6">{{ formation.node.title }}</h2>
                 <div v-html="formation.node.content"></div>
               </div>
               <div class="card-footer">
-                <div class="card-footer-item tag">{{formation.node.type}}</div>
+                <div class="card-footer-item tag">
+                  {{ formation.node.type }}
+                </div>
               </div>
             </div>
           </div>
@@ -33,7 +38,7 @@
 
 <page-query>
 query Training {
-  training: alltraining (sortBy: "type", order: ASC) {
+  training: allTraining (sortBy: "type", order: ASC) {
     edges {
       node {
         title
@@ -54,10 +59,10 @@ export default {
   metaInfo: {
     title: "Training",
     htmlAttrs: {
-      lang: "en"
-    }
+      lang: "en",
+    },
   },
-  components: {}
+  components: {},
 };
 </script>
 

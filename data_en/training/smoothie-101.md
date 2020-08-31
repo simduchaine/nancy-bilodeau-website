@@ -1,6 +1,6 @@
 ---
 type: Workshop
-id: ""
+id: "smoothie-101-en"
 title: Smoothies and Superfoods
 thumbnail: "/uploads/smoothie.jpg"
 link: "#"

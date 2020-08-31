@@ -1,5 +1,92 @@
 <template>
   <Enhome>
+    <section id="carouselEn">
+      <VueSlickCarousel
+        class="hero is-medium has-background"
+        :dots="true"
+        :autoplay="true"
+        :autoplaySpeed="5000"
+        :arrows="true"
+      >
+        <div>
+          <g-image
+            class="hero-background is-transparent"
+            src="../../../uploads/nancy-devant-nuages2.jpeg"
+          />
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title is-size-2">Your Chief Health and Happiness Officer</h1>
+              <h2
+                class="title is-size-3 is-family-primary"
+              >Serving your well-being, your dreams and your goals</h2>
+              <a href="https://nancybilodeau.com/en/about" class="button">Find out more about me</a>
+            </div>
+          </div>
+        </div>
+        <div>
+          <g-image class="hero-background is-transparent" src="../../../uploads/slide2.jpg" />
+          <div class="hero-body">
+            <div class="container">
+              <h1
+                class="title is-size-2"
+              >Learn to take care of yourself to offer the best of yourself</h1>
+              <h2
+                class="title is-size-3 is-family-primary"
+              >Transform your life with my holistic health approach</h2>
+              <a
+                href="https://nancybilodeau.com/boutique/programme-de-transformation"
+                class="button"
+              >Discover my Life Transformation Program</a>
+            </div>
+          </div>
+        </div>
+        <div>
+          <g-image class="hero-background is-transparent" src="../../../uploads/travelers.jpg" />
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title is-size-2">Uplift your awareness and energy</h1>
+              <h2
+                class="title is-size-3 is-family-primary"
+              >For a fulfilled life, full of meaning and vitality</h2>
+              <a href="https://nancybilodeau.com/en/services" class="button">Discover my toolkit</a>
+            </div>
+          </div>
+        </div>
+        <div>
+          <g-image class="hero-background is-transparent" src="../../../uploads/jason-hogan.jpg" />
+          <div class="hero-body">
+            <div class="container">
+              <h1
+                class="title is-size-2"
+              >Set yourself free from limiting fears, relationships, and addictions</h1>
+              <h2
+                class="title is-size-3 is-family-primary"
+              >Connect to your essence and reach for your full potential</h2>
+              <a
+                href="https://nancybilodeau.com/en/services/peace"
+                class="button"
+              >Learn more about PEACE</a>
+            </div>
+          </div>
+        </div>
+        <div>
+          <g-image class="hero-background is-transparent" src="../../../uploads/hero.jpg" />
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title is-size-2">Find balance and walk towards your destiny</h1>
+              <h2
+                class="title is-size-3 is-family-primary"
+              >For a harmonious, enriching and coherent life</h2>
+              <a
+                href="https://www.gorendezvous.com/homepage/111690"
+                class="button"
+              >Book your coaching with Nancy</a>
+            </div>
+          </div>
+        </div>
+      </VueSlickCarousel>
+    </section>
+
     <section id="magnet" style="background: #f1f0f0">
       <Magnet></Magnet>
     </section>
@@ -34,7 +121,7 @@
 
 <page-query>
   query servicesEn {
-    data: allservicesEn(filter: { path: { nin: ["/data-en/home/training", "/data-en/home/lead", "/data-en/home/consultation", "/data-en/home/magnet"] }}, sortBy: "position", order: ASC) {
+    data: allServicesEn(filter: { path: { nin: ["/data-en/home/training/", "/data-en/home/lead/", "/data-en/home/consultation/", "/data-en/home/magnet/"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
           title
@@ -54,13 +141,16 @@ import training from "~/components/en/home/training/training.vue";
 import consultation from "~/components/en/home/consultation.vue";
 import Magnet from "~/components/en/home/Magnet.vue";
 import Mission from "~/components/en/home/Mission.vue";
+import VueSlickCarousel from "vue-slick-carousel";
+import "vue-slick-carousel/dist/vue-slick-carousel.css";
+import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
 
 export default {
   metaInfo: {
     title: "Nancy Bilodeau - Wellness Coaching",
     htmlAttrs: {
-      lang: "en"
-    }
+      lang: "en",
+    },
   },
   components: {
     services,
@@ -68,8 +158,9 @@ export default {
     training,
     consultation,
     Magnet,
-    Mission
-  }
+    Mission,
+    VueSlickCarousel,
+  },
 };
 </script>
 

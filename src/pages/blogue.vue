@@ -12,10 +12,14 @@
           >
             <div class="card">
               <div class="card-image">
-                <g-image :src="article.node.thumbnail" height="410" width="650"></g-image>
+                <g-image
+                  :src="article.node.thumbnail"
+                  height="410"
+                  width="650"
+                ></g-image>
               </div>
               <div class="card-content">
-                <h2 class="title is-6">{{article.node.title}}</h2>
+                <h2 class="title is-6">{{ article.node.title }}</h2>
                 <div v-html="article.node.content"></div>
               </div>
               <a :href="article.node.link" target="_blank">Lire plus ></a>
@@ -29,7 +33,7 @@
 
 <page-query>
 query Articles {
-  articles: allarticles (sortBy: "order", order: ASC) {
+  articles: allArticles (sortBy: "order", order: ASC) {
     edges {
       node {
         title
@@ -47,9 +51,9 @@ query Articles {
 <script>
 export default {
   metaInfo: {
-    title: "Articles"
+    title: "Articles",
   },
-  components: {}
+  components: {},
 };
 </script>
 

@@ -1,30 +1,18 @@
 <template>
   <section class="hero is-primary is-medium has-background">
-    <g-image class="hero-background is-transparent" :src="$static.HeroImg.hero_image" />
+    <g-image
+      class="hero-background is-transparent"
+      :src="$static.HeroImg.hero_image"
+    />
     <div class="hero-body">
-      <div class="container">
-        <vue-typed-js
-          :strings="['joy', 'health', 'coherence', 'energy', 'vitality', 'happiness', 'love', 'openness', 'acceptance', 'resilience', 'life']"
-          :loop="true"
-          :typeSpeed="150"
-          :startDelay="1000"
-          :backDelay="2000"
-        >
-          <h1 class="title is-1">
-            <span>+</span> of
-            <br />
-            <span class="typing"></span>
-          </h1>
-        </vue-typed-js>
-        <g-image src="../../../assets/img/smile2.svg" style="margin: 0.5rem; " />
-      </div>
+      <div class="container"></div>
     </div>
   </section>
 </template>
 
 <static-query>
 query HeroImg {
-  HeroImg: settings(path: "/data/site") {
+  HeroImg: settings(path: "/data/site/") {
     hero_image (width: 1920, height: 1080)
   }
 }
@@ -32,11 +20,11 @@ query HeroImg {
 
 <script>
 export default {
-  name: "Hero"
+  name: "Hero",
 };
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
 .hero {
   &.has-background {
     position: relative;
@@ -71,4 +59,3 @@ export default {
   color: #3b3049;
 }
 </style>
-

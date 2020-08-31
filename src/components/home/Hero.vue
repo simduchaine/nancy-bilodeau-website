@@ -32,11 +32,11 @@ query HeroImg {
 
 <script>
 export default {
-  name: "Hero"
+  name: "Hero",
 };
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
 .hero {
   &.has-background {
     position: relative;

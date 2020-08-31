@@ -1,6 +1,6 @@
 <template>
   <English-Layout>
-    <div v-for="edge in $page.allbioEn.edges" :key="edge.node.id">
+    <div v-for="edge in $page.allBioEn.edges" :key="edge.node.id">
       <section class="offset-bg-blue section">
         <div class="container bio">
           <h1 class="title">{{ edge.node.title }}</h1>
@@ -13,9 +13,13 @@
         <div class="container">
           <h2 class="title is-5">Main Training</h2>
           <ul>
-            <li v-for="(item, index) in edge.node.cv" :key="index">{{ item }}</li>
+            <li v-for="(item, index) in edge.node.cv" :key="index">
+              {{ item }}
+            </li>
           </ul>
-          <a :href="edge.node.cv_link.src" class="button" download>Download my resume</a>
+          <a :href="edge.node.cv_link.src" class="button" download
+            >Download my resume</a
+          >
         </div>
       </section>
 
@@ -24,11 +28,11 @@
           <div class="columns">
             <div class="column">
               <h2 class="title is-5">My vision</h2>
-              <p>{{edge.node.vision}}</p>
+              <p>{{ edge.node.vision }}</p>
             </div>
             <div class="column">
               <h2 class="title is-5">My mission</h2>
-              <p>{{edge.node.mission}}</p>
+              <p>{{ edge.node.mission }}</p>
             </div>
           </div>
         </div>
@@ -43,7 +47,7 @@
 
 <page-query>
 query allBioEn {
-  allbioEn(filter: { path: { nin: ["/data-en/bio/inspirations"] }}) {
+  allBioEn(filter: { path: { nin: ["/data-en/bio/inspirations/"] }}) {
     edges {
       node {
         id
@@ -67,20 +71,20 @@ export default {
   metaInfo: {
     title: "About",
     htmlAttrs: {
-      lang: "en"
-    }
+      lang: "en",
+    },
   },
   components: {
     inspirations,
     Carousel: () =>
       import("vue-carousel")
-        .then(m => m.Carousel)
+        .then((m) => m.Carousel)
         .catch(),
     Slide: () =>
       import("vue-carousel")
-        .then(m => m.Slide)
-        .catch()
-  }
+        .then((m) => m.Slide)
+        .catch(),
+  },
 };
 </script>
 
@@ -102,4 +106,3 @@ export default {
   }
 }
 </style>
-

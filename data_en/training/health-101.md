@@ -1,7 +1,7 @@
 ---
 title: Health 101
 type: Courses
-id: health 101
+id: health_101
 thumbnail: "/uploads/blubel-103318-unsplash.jpg"
 link: "#"
 order: 3
