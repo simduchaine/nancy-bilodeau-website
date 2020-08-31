@@ -244,7 +244,8 @@ export default {
   bottom: 20px;
 }
 
-#carousel {
+#carousel,
+#carouselEn {
   .button {
     margin-top: 2.5rem;
   }
