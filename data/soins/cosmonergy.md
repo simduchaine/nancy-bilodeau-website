@@ -2,8 +2,8 @@
 id: cosmonergy
 title: Cosmonergy
 thumbnail: "/uploads/Cosmonergy_TherapieFutur.png"
----
 
+---
 La vie est mystérieuse et les connaissances des forces de l’univers sont en perpétuel mouvement. Les soins de COSMONERGY permettent de rétablir les courants et circuits, en ce qui concerne la matière, l'énergie et l’information, redonnant ainsi accès à notre plein potentiel de vie.
 
 L’univers est constitué de multiples niveaux de conscience, d'énergie et de matière. 95 % de nos fonctions, pensées, émotions et structures sont gérées par les parties inconscientes de notre être. L’application de Shungite Excellium sur des points précis de notre corps remets en résonance l'humain et les forces de vie universelles.
@@ -14,9 +14,11 @@ Je fais partie du premier groupe de personnes formées à Québec en février-ma
 
 ![Jacques Tetreault](/uploads/jacques-tetrault.jpg)
 
+![](/uploads/temoignage-2.png)
+
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
 
-Témoignages : [https://thestoneoflife.com/temoignages-cosmonergy/](https://thestoneoflife.com/temoignages-cosmonergy/)
+Autres Témoignages : [https://thestoneoflife.com/temoignages-cosmonergy/](https://thestoneoflife.com/temoignages-cosmonergy/)
 
 Quelques études sur la Shungite : [https://thestoneoflife.com/etudes/](https://thestoneoflife.com/etudes/)
 

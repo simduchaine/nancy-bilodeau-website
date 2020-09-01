@@ -25,6 +25,11 @@ sections:
   path: data/pages/coaching.md
   label: Coaching
 - type: directory
+  path: data/linkedIn
+  label: LinkedIn
+  create: documents
+  match: "**/*"
+- type: directory
   path: data/soins
   label: Soins
   create: documents
@@ -81,6 +86,11 @@ sections:
   match: "**/*"
   templates:
   - general-page
+- type: directory
+  path: data_en/linkedIn
+  label: LinkedIn
+  create: documents
+  match: "**/*"
 - type: document
   path: data_en/pages/detox.md
   label: Detox
