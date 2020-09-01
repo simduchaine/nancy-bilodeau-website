@@ -25,7 +25,7 @@ sections:
   path: data/pages/coaching.md
   label: Coaching
 - type: directory
-  path: linkedIn
+  path: data/linkedIn
   label: LinkedIn
   create: documents
   match: "**/*"
