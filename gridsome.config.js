@@ -61,6 +61,20 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data/linkedIn/**/*.md",
+        typeName: "linkedIn",
+        resolveAbsolutePaths: true,
+        // route: "/:slug",
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data/bio/**/*.md",
         typeName: "bio",
         resolveAbsolutePaths: true,
@@ -77,7 +91,7 @@ module.exports = {
         path: "data/pages/**/*.md",
         typeName: "PageContent",
         resolveAbsolutePaths: true,
-        route: "/:title",
+        //route: "/:title",
         remark: {
           plugins: [
             [
@@ -194,10 +208,24 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data_en/linkedIn/**/*.md",
+        typeName: "linkedInEn",
+        resolveAbsolutePaths: true,
+        // route: "/:slug",
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data_en/pages/**/*.md",
         typeName: "PageContentEn",
         resolveAbsolutePaths: true,
-        route: "/en/:title",
+        //route: "/en/:title",
       },
     },
     {

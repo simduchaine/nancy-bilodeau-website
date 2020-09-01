@@ -49,9 +49,7 @@
                 <div v-html="formation.node.content"></div>
               </div>
               <div class="card-footer">
-                <div class="card-footer-item tag">
-                  {{ formation.node.type }}
-                </div>
+                <div class="card-footer-item tag">{{ formation.node.type }}</div>
               </div>
             </div>
           </div>
@@ -63,7 +61,7 @@
 
 <page-query>
 query Formations {
-  formations: allFormations (filter: { path: { nin: ["/formations/type/formations"] }, upcoming: { ne: true }}, sortBy: "order", order: ASC) {
+  formations: allFormations (filter: { path: { nin: ["/formations/type/formations/"] }, upcoming: { ne: true }}, sortBy: "order", order: ASC) {
     edges {
       node {
         title
