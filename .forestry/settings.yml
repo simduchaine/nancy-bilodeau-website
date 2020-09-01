@@ -86,6 +86,11 @@ sections:
   match: "**/*"
   templates:
   - general-page
+- type: directory
+  path: data_en/linkedIn
+  label: LinkedIn
+  create: documents
+  match: "**/*"
 - type: document
   path: data_en/pages/detox.md
   label: Detox
