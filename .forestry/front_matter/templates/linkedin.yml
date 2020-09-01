@@ -1,0 +1,13 @@
+---
+label: LinkedIn
+hide_body: false
+fields:
+- type: text
+  name: company
+  label: company
+- type: text
+  name: title
+  label: title
+- type: file
+  name: photo
+  label: photo
