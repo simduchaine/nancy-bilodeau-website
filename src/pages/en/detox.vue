@@ -14,7 +14,7 @@ query {
   pageContentEn(path: "/data-en/pages/detox/") {
     title
     content
-    thumbnail
+    thumbnail (quality: 90, height: 700)
   }
 }
 </page-query>

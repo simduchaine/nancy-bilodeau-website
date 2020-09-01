@@ -16,7 +16,9 @@
             <div v-html="reference.node.content"></div>
             <h2 class="title is-size-6">
               {{ reference.node.title }}
-              <span v-if="reference.node.company">, {{ reference.node.company }}</span>
+              <span
+                v-if="reference.node.company"
+              >, {{ reference.node.company }}</span>
             </h2>
             <hr />
           </div>
@@ -37,7 +39,7 @@ query {
   pageContent(path: "/data/pages/coaching/") {
     title
     content
-    thumbnail
+    thumbnail (quality: 90, height: 700)
   },
   linkedin: allLinkedIn {
     edges {

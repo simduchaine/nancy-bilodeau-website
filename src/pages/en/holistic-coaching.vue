@@ -39,7 +39,7 @@ query {
   pageContentEn(path: "/data-en/pages/coaching/") {
     title
     content
-    thumbnail
+    thumbnail (quality: 90, height: 700)
   },
   linkedin: allLinkedInEn {
     edges {
