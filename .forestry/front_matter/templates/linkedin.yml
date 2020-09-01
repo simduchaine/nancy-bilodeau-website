@@ -3,11 +3,11 @@ label: LinkedIn
 hide_body: false
 fields:
 - type: text
-  name: company
-  label: company
-- type: text
   name: title
-  label: title
+  label: Nom de la personne
+- type: text
+  name: company
+  label: Compagnie
 - type: file
   name: photo
   label: photo
