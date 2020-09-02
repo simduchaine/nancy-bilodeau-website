@@ -30,23 +30,19 @@
           />
           <div class="hero-body">
             <div class="container">
-              <h1 class="title is-size-2">
-                Activatrice de Santé, Bonheur et Réalisation!
-              </h1>
-              <h2 class="title is-size-3 is-family-primary">
-                Au service de votre bien-être, vos rêves et vos objectifs
-              </h2>
-              <a href="https://nancybilodeau.com/a-propos" class="button"
-                >Pour en savoir plus sur moi</a
-              >
+              <h1 class="title is-size-2">Activatrice de Santé, Bonheur et Réalisation!</h1>
+              <h2
+                class="title is-size-3 is-family-primary"
+              >Au service de votre bien-être, vos rêves et vos objectifs</h2>
+              <a
+                href="https://nancybilodeau.com/a-propos"
+                class="button"
+              >Pour en savoir plus sur moi</a>
             </div>
           </div>
         </div>
         <div>
-          <g-image
-            class="hero-background is-transparent"
-            src="../../uploads/slide2.jpg"
-          />
+          <g-image class="hero-background is-transparent" src="../../uploads/slide2.jpg" />
           <div class="hero-body">
             <div class="container">
               <h1 class="title is-size-2">
@@ -60,67 +56,52 @@
               <a
                 href="https://nancybilodeau.com/boutique/programme-de-transformation"
                 class="button"
-                >Découvrez mon programme de transformation</a
-              >
+              >Découvrez mon programme de transformation</a>
             </div>
           </div>
         </div>
         <div>
-          <g-image
-            class="hero-background is-transparent"
-            src="../../uploads/travelers.jpg"
-          />
+          <g-image class="hero-background is-transparent" src="../../uploads/travelers.jpg" />
           <div class="hero-body">
             <div class="container">
-              <h1 class="title is-size-2">
-                Élevez votre conscience et votre énergie
-              </h1>
-              <h2 class="title is-size-3 is-family-primary">
-                Pour une vie comblée, pleine de sens, et de vitalité
-              </h2>
-              <a href="https://nancybilodeau.com/soins" class="button"
-                >Découvrez mes soins et techniques</a
-              >
+              <h1 class="title is-size-2">Élevez votre conscience et votre énergie</h1>
+              <h2
+                class="title is-size-3 is-family-primary"
+              >Pour une vie comblée, pleine de sens, et de vitalité</h2>
+              <a
+                href="https://nancybilodeau.com/soins"
+                class="button"
+              >Découvrez mes soins et techniques</a>
             </div>
           </div>
         </div>
         <div>
-          <g-image
-            class="hero-background is-transparent"
-            src="../../uploads/jason-hogan.jpg"
-          />
+          <g-image class="hero-background is-transparent" src="../../uploads/jason-hogan.jpg" />
           <div class="hero-body">
             <div class="container">
-              <h1 class="title is-size-2">
-                Libérez ce qui vous limite; peurs, relations, addictions
-              </h1>
-              <h2 class="title is-size-3 is-family-primary">
-                Connectez à votre essence et réalisez votre plein potentiel
-              </h2>
-              <a href="https://nancybilodeau.com/soins/peace" class="button"
-                >Apprenez-en plus sur l’approche PEACE</a
-              >
+              <h1 class="title is-size-2">Libérez ce qui vous limite; peurs, relations, addictions</h1>
+              <h2
+                class="title is-size-3 is-family-primary"
+              >Connectez à votre essence et réalisez votre plein potentiel</h2>
+              <a
+                href="https://nancybilodeau.com/soins/peace"
+                class="button"
+              >Apprenez-en plus sur l’approche PEACE</a>
             </div>
           </div>
         </div>
         <div>
-          <g-image
-            class="hero-background is-transparent"
-            src="../../uploads/hero.jpg"
-          />
+          <g-image class="hero-background is-transparent" src="../../uploads/hero.jpg" />
           <div class="hero-body">
             <div class="container">
-              <h1 class="title is-size-2">
-                Trouvez votre équilibre et marchez vers votre destiné
-              </h1>
-              <h2 class="title is-size-3 is-family-primary">
-                Pour une vie harmonieuse, enrichissante et cohérente
-              </h2>
+              <h1 class="title is-size-2">Trouvez votre équilibre et marchez vers votre destiné</h1>
+              <h2
+                class="title is-size-3 is-family-primary"
+              >Pour une vie harmonieuse, enrichissante et cohérente</h2>
               <a
                 href="https://www.gorendezvous.com/homepage/111690"
                 class="button"
-                >Réservez votre coaching avec Nancy</a
-              >
+              >Réservez votre coaching avec Nancy</a>
             </div>
           </div>
         </div>
@@ -150,10 +131,7 @@
     </section>
 
     <section id="formations">
-      <formation
-        class="has-background-info lead-content"
-        style="margin-top: -10px"
-      ></formation>
+      <formation class="has-background-info lead-content" style="margin-top: -10px"></formation>
     </section>
 
     <section id="consultation">
@@ -162,19 +140,18 @@
 
     <section id="articles" class="has-background-info lead-content">
       <div class="container">
-        <h1 class="title has-text-centered">Articles à la une</h1>
+        <h1 class="title has-text-centered">Mes articles préférés</h1>
         <div class="columns is-multiline">
           <articles
             v-for="article in $page.articles.edges"
             :key="article.node.id"
             :title="article.node.title"
-            :content="article.node.content"
             :thumbnail="article.node.thumbnail"
             :link="article.node.link"
             class="column is-third"
           ></articles>
         </div>
-        <a href="/blogue/" class="button">Plus d'articles</a>
+        <a href="/blogue/">Voir ma section blogue pour plus d’articles pour votre bien-être ></a>
       </div>
     </section>
   </home-layout>
@@ -197,7 +174,6 @@
       node {
         title
         id
-        content
         path
         thumbnail (quality: 90, width: 678, height: 410)
         link
