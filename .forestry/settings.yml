@@ -29,6 +29,8 @@ sections:
   label: LinkedIn
   create: documents
   match: "**/*"
+  templates:
+  - linkedin
 - type: directory
   path: data/soins
   label: Soins
@@ -91,6 +93,8 @@ sections:
   label: LinkedIn
   create: documents
   match: "**/*"
+  templates:
+  - linkedin
 - type: document
   path: data_en/pages/detox.md
   label: Detox
