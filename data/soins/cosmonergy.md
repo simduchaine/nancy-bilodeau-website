@@ -14,7 +14,7 @@ Je fais partie du premier groupe de personnes formées à Québec en février-ma
 
 ![Jacques Tetreault](/uploads/jacques-tetrault.jpg)
 
-![](/uploads/temoignage-2.png)
+![](/uploads/copie-de-temoignage-2.png)
 
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
 
