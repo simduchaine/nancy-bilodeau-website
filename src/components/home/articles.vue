@@ -1,27 +1,21 @@
 <template>
   <div>
-    <div class="container">
-      <div class="columns is-marginless">
-        <div class="column is-half">
-          <h1 v-html="$static.services.title" class="title"></h1>
-        </div>
-        <div class="column is-half" v-html="$static.services.content"></div>
+    <div class="card">
+      <div class="card-image">
+        <g-image :src="thumbnail" height="410" width="650"></g-image>
       </div>
+      <div class="card-content">
+        <h2 class="title is-6">{{ title }}</h2>
+        <div v-html="content"></div>
+      </div>
+      <a :href="link" target="_blank" style="padding:1.5rem;">Lire plus ></a>
     </div>
   </div>
 </template>
 
-<static-query>
-query {
-  services(path: "/data/home/featured-articles") {
-    title
-    content
-  }
-}
-</static-query>
-
 <script>
 export default {
-  name: "Articles"
+  name: "Articles",
+  props: ["title", "thumbnail", "content", "link"],
 };
 </script>
