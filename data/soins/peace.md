@@ -20,7 +20,7 @@ Le travail avec la méthode PEACE est basé sur le corps et ses sensations. Il v
 
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
 
-Pour en savoir plus sur le PEACE, voici deux bonnes vidéos du créateur de la méthode. N'hésitez pas à me contacter pour en savoir plus. 
+Pour en savoir plus sur le PEACE, voici deux bonnes vidéos du créateur de la méthode. N'hésitez pas à me contacter pour en savoir plus.
 
 `youtube:https://www.youtube.com/watch?v=eIv9hNm5BtY`
 
