@@ -138,8 +138,8 @@
       <consultation></consultation>
     </section>
 
-    <section id="articles" class="has-background-info lead-content">
-      <div class="container">
+    <section id="articles" class="has-background-info">
+      <div class="container" style="padding:2.5rem;">
         <h1 class="title has-text-centered">Mes articles préférés</h1>
         <div class="columns is-multiline">
           <articles
