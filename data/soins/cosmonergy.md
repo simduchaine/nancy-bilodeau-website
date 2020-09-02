@@ -12,7 +12,7 @@ La méthode de soins COSMONERGY a été développé par Jacques Tétreault, acup
 
 ![](/uploads/jacques.png)
 
-Je fais partie du premier groupe de personnes formées à Québec en février-mars 2019.
+Je fais partie du premier groupe de personnes qui furent formées à Québec en février-mars 2019. Je pratique depuis avec honneur ce soin qui ne cesse de me surprendre et m'émerveiller des résultats obtenus par les gens qui viennent me rencontrer. En voici un bel exemple:
 
 ![](/uploads/copie-de-temoignage-2.png)
 
