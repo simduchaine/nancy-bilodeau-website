@@ -20,6 +20,10 @@ fields:
   name: order
   label: Ordre
   description: Ordre de parution sur la page
+- name: sticky
+  type: boolean
+  label: A la une?
+  default: false
 pages:
 - data/articles/l-importance-des-vacances.md
 - data/articles/plus-beau-cadeau-sante.md
