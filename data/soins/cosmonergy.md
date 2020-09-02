@@ -10,9 +10,9 @@ L’univers est constitué de multiples niveaux de conscience, d'énergie et de 
 
 La méthode de soins COSMONERGY a été développé par Jacques Tétreault, acupuncteur, ostéopathe et massothérapeute en 2018. Jacques détient de nombreuses années d’expérience et plusieurs autres formations qui lui ont permis d’acquérir une bonne connaissance du corps humain et d’ainsi développer une bonne compréhension de l’énergie à la base de la technique de COSMONERGY.
 
-Je fais partie du premier groupe de personnes formées à Québec en février-mars 2019.
+![](/uploads/jacques.png)
 
-![Jacques Tetreault](/uploads/jacques-tetrault.jpg)
+Je fais partie du premier groupe de personnes formées à Québec en février-mars 2019.
 
 ![](/uploads/copie-de-temoignage-2.png)
 
