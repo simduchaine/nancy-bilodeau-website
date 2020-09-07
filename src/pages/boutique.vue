@@ -12,16 +12,14 @@
             <div class="card">
               <g-link :to="product.node.path">
                 <div class="card-image">
-                  <g-image :src="product.node.thumbnail"></g-image>
+                  <g-image :src="product.node.thumbnail" fit="contain" height="452"></g-image>
                 </div>
               </g-link>
               <div class="card-content">
                 <h2 class="title is-6">{{ product.node.title }}</h2>
               </div>
               <div class="card-footer">
-                <div class="card-footer-item tag">
-                  {{ product.node.categorie }}
-                </div>
+                <div class="card-footer-item tag">{{ product.node.categorie }}</div>
               </div>
             </div>
           </div>
