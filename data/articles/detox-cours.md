@@ -3,7 +3,7 @@ title: Comment une détox peut transformer?
 id: detox-transformation
 thumbnail: "/uploads/detox-transfo.jpg"
 link: https://cours.nancybilodeau.com/detoxtransformation
-order: 7
+order: 6
 sticky: false
 
 ---
