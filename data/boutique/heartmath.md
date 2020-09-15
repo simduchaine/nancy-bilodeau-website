@@ -69,3 +69,9 @@ La santé est quelque chose de précieux que l'on doit cultiver. Il faut s'en oc
 Si ce programme est pour vous, cliquez ici pour connaître les différents forfaits.
 
 [**MAGASINEZ LES FORFAITS**](http://centre-holistique-om-prana-inc.square.site)
+
+Pour en savoir plus sur ce que les participants en pensent, consultez la page des [témoignages ici](https://cours.nancybilodeau.com/temoignagesdetox). 
+
+![](/uploads/copie-de-copie-de-detox-transforme.png)
+
+N'hésitez pas à me contacter pour évaluer si ce programme est pour vous. 

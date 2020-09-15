@@ -24,7 +24,7 @@ Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourr
 
 ![](/uploads/copie-de-copie-de-detox-transforme.png)
 
-[Cliquez ici ]()pour plus de témoignages.
+[Cliquez ici ](https://cours.nancybilodeau.com/temoignagesdetox)pour plus de témoignages.
 
 Inscrivez-vous à notre [infolettre ](http://eepurl.com/gpZ2jv)pour connaître l’horaire des prochaines cures ou rencontrez moi en consultation individuelle.
 
