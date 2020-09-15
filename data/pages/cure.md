@@ -22,6 +22,10 @@ Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourr
 
 [Cliquez ici](https://cours.nancybilodeau.com/67y4gre0po "Gérard") pour lire l'histoire de Gérard. Une belle remise en forme.
 
+![](/uploads/copie-de-copie-de-detox-transforme.png)
+
+[Cliquez ici ]()pour plus de témoignages.
+
 Inscrivez-vous à notre [infolettre ](http://eepurl.com/gpZ2jv)pour connaître l’horaire des prochaines cures ou rencontrez moi en consultation individuelle.
 
 [Prendre Rendez-vous >](https://www.gorendezvous.com/homepage/111690)
