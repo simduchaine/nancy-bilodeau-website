@@ -16,8 +16,6 @@ I was part of the first group of people trained in Quebec City in February 2019.
 
 ![](/uploads/temoignage-chantal-engl.png)
 
-![Jacques Tetreault](/uploads/jacques-tetrault.jpg)
-
 [Make an appointment >](https://www.gorendezvous.com/homepage/111690)
 
 Testimony : [https://thestoneoflife.com/temoignages-cosmonergy/](https://thestoneoflife.com/temoignages-cosmonergy/)
