@@ -6,10 +6,6 @@ fields:
   name: title
   label: Titre
   description: Titre de l'article
-- type: text
-  name: id
-  label: id
-  hidden: true
 - type: file
   name: thumbnail
   label: Image
