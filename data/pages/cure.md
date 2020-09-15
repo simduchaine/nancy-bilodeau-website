@@ -16,7 +16,7 @@ Les programmes les plus populaires sont :
 * Fin de semaine de jeûne et méditation
 * Semaine de jus et d’herbe de blé
 
-Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourri et entretenu en est la fondation essentielle.
+Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourri et entretenu en est la fondation essentielle. [Cliquez ici]( "https://cours.nancybilodeau.com/67y4gre0po") pour lire l'histoire de Gérard. Une belle remise en forme. 
 
 Inscrivez-vous à notre [infolettre ](http://eepurl.com/gpZ2jv)pour connaître l’horaire des prochaines cures ou rencontrez moi en consultation individuelle.
 
