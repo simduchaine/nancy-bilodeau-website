@@ -37,3 +37,5 @@ La cohérence cardiaque nous permet d’être mieux connecté à notre essence p
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
 
 Pour plus d'information, voici une petite vidéo explicative :
+
+`youtube:https://www.youtube.com/watch?v=NsagIYzo1NQ`
