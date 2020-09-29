@@ -20,11 +20,11 @@ Le travail avec la méthode PEACE est basé sur le corps et ses sensations. Il v
 
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
 
-Pour en savoir plus sur le PEACE, voici une petite vidéo explicative des principes de base. 
+Pour en savoir plus sur le PEACE, voici une petite vidéo explicative des principes de base.
 
-`youtube:`[`https://www.youtube.com/watch?v`](https://www.youtube.com/watch?v= "https://www.youtube.com/watch?v=")`=pGADyECacHU`
+    YouTube:https://www.youtube.com/watch?v=pGADyECacHU
 
-Pour en savoir encore plus, voici une vidéo explicative du créateur de la méthode. 
+Pour en savoir encore plus, voici une vidéo explicative du créateur de la méthode.
 
 `youtube:https://www.youtube.com/watch?v=idJVMXLsWzY`
 
