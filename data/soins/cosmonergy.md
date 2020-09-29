@@ -22,6 +22,10 @@ Autres Témoignages : [https://thestoneoflife.com/temoignages-cosmonergy/](https
 
 Quelques études sur la Shungite : [https://thestoneoflife.com/etudes/](https://thestoneoflife.com/etudes/)
 
+Vidéo explicative du soin.
+
+`youtube:https://www.youtube.com/watch?v=eOSHFjuQ09k`
+
 _NOTE: le vidéo est disponible seulement en anglais pour le moment. Nous travaillons sur une version française._
 
 `youtube:https://www.youtube.com/watch?v=KSL31K0A9O0`
