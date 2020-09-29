@@ -22,7 +22,7 @@ Le travail avec la méthode PEACE est basé sur le corps et ses sensations. Il v
 
 Pour en savoir plus sur le PEACE, voici une petite vidéo explicative des principes de base.
 
-\`YouTube:https://www.youtube.com/watch?v=pGADyECacHU\`
+\`YouTube:https://www.youtube.com/watch?v=`pGADyECacHU`\`
 
 Pour en savoir encore plus, voici une vidéo explicative du créateur de la méthode.
 
