@@ -29,3 +29,5 @@ Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourr
 Inscrivez-vous à notre [infolettre ](http://eepurl.com/gpZ2jv)pour connaître l’horaire des prochaines cures ou rencontrez moi en consultation individuelle.
 
 [Prendre Rendez-vous >](https://www.gorendezvous.com/homepage/111690)
+
+`youtube:https://www.youtube.com/watch?v=pGADyECacHU`
