@@ -34,6 +34,8 @@ La méthode demande une participation active de la personne qui souhaite transfo
 
 La cohérence cardiaque nous permet d’être mieux connecté à notre essence pure. Elle permet de faire des choix cohérents avec la personne que nous sommes et celle que nous sommes appelé à devenir.
 
+[Essayer une pratique gratuite >](https://cours.nancybilodeau.com/coherence-cardiaque "Pratique Cohérence")
+
 [Prendre rendez-vous >](https://www.gorendezvous.com/homepage/111690)
 
 Pour plus d'information, voici une petite vidéo explicative :
