@@ -1,6 +1,6 @@
 ---
 title: S’alimenter pour réussir!
-thumbnail: "/uploads/12843_m.jpg"
+thumbnail: "/uploads/alimentation-600.jpg"
 link: https://mindset-entrepreneur.com/salimenter-pour-reussir-et-entretenir-les-bonnes-vibrations/
 order: 
 sticky: false
