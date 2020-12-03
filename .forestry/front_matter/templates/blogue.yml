@@ -6,10 +6,6 @@ fields:
   name: title
   label: Titre
   description: Titre de l'article
-- type: text
-  name: id
-  label: id
-  hidden: true
 - type: file
   name: thumbnail
   label: Image
@@ -20,6 +16,12 @@ fields:
   name: order
   label: Ordre
   description: Ordre de parution sur la page
+- name: sticky
+  type: boolean
+  label: A la une?
+  default: false
 pages:
 - data/articles/l-importance-des-vacances.md
 - data/articles/plus-beau-cadeau-sante.md
+- data/articles/s-alimenter-pour-reussir.md
+- data/articles/supporter-son-entourage-commence-par-soi.md

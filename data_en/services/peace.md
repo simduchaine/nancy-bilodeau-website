@@ -16,6 +16,8 @@ I am amongst the first group of people certified in Quebec City in December 2018
 
 The work in PEACE is based on the body and its sensations. It aims at unfreezing the body’s fascia tissue and fluidizing memories in order to leave room for new possibilities. To understand the why of the why is no longer necessary; releasing energy blocked in the body is however essential and at the basis of the method’s healing efficiency.
 
+![](/uploads/temoignage-michelle-eng.png)
+
 [Make an appointment >](https://www.gorendezvous.com/homepage/111690)
 
 _videos in French only_

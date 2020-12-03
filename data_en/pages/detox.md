@@ -18,6 +18,8 @@ The most popular programs are:
 
 We all have the power to take back our health! A well-nourished and maintained body is the essential foundation.
 
+![](/uploads/gerard-engl.png)
+
 Sign up for our newsletter to keep informed on our schedule or make an appointment for individual private coaching.
 
 [Make an appointment >](https://www.gorendezvous.com/homepage/111690)
