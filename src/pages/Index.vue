@@ -8,7 +8,7 @@
         :autoplaySpeed="5000"
         :arrows="true"
       >
-        <!-- <div v-for="slide in $page.slides.edges" :key="slide.node.id">
+        <div v-for="slide in $page.slides.edges" :key="slide.node.id">
           <g-image class="hero-background is-transparent" :src="slide.node.backgroundImg" />
           <div class="hero-body">
             <div class="container">
@@ -19,89 +19,6 @@
                 slide.node.buttonText
                 }}
               </a>
-            </div>
-          </div>
-        </div>-->
-
-        <div>
-          <g-image
-            class="hero-background is-transparent"
-            src="../../uploads/nancy-devant-nuages2.jpeg"
-          />
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title is-size-2">Activatrice de Santé, Bonheur et Réalisation!</h1>
-              <h2
-                class="title is-size-3 is-family-primary"
-              >Au service de votre bien-être, vos rêves et vos objectifs</h2>
-              <a
-                href="https://nancybilodeau.com/a-propos"
-                class="button"
-              >Pour en savoir plus sur moi</a>
-            </div>
-          </div>
-        </div>
-        <div>
-          <g-image class="hero-background is-transparent" src="../../uploads/slide2.jpg" />
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title is-size-2">
-                Apprenez à prendre soin de vous pour offrir le meilleur de
-                vous-même
-              </h1>
-              <h2 class="title is-size-3 is-family-primary">
-                Découvrez les secrets de la santé holistique et transformez
-                votre vie!
-              </h2>
-              <a
-                href="https://nancybilodeau.com/boutique/programme-de-transformation"
-                class="button"
-              >Découvrez mon programme de transformation</a>
-            </div>
-          </div>
-        </div>
-        <div>
-          <g-image class="hero-background is-transparent" src="../../uploads/travelers.jpg" />
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title is-size-2">Élevez votre conscience et votre énergie</h1>
-              <h2
-                class="title is-size-3 is-family-primary"
-              >Pour une vie comblée, pleine de sens, et de vitalité</h2>
-              <a
-                href="https://nancybilodeau.com/soins"
-                class="button"
-              >Découvrez mes soins et techniques</a>
-            </div>
-          </div>
-        </div>
-        <div>
-          <g-image class="hero-background is-transparent" src="../../uploads/jason-hogan.jpg" />
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title is-size-2">Libérez ce qui vous limite; peurs, relations, addictions</h1>
-              <h2
-                class="title is-size-3 is-family-primary"
-              >Connectez à votre essence et réalisez votre plein potentiel</h2>
-              <a
-                href="https://nancybilodeau.com/soins/peace"
-                class="button"
-              >Apprenez-en plus sur l’approche PEACE</a>
-            </div>
-          </div>
-        </div>
-        <div>
-          <g-image class="hero-background is-transparent" src="../../uploads/hero.jpg" />
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title is-size-2">Trouvez votre équilibre et marchez vers votre destiné</h1>
-              <h2
-                class="title is-size-3 is-family-primary"
-              >Pour une vie harmonieuse, enrichissante et cohérente</h2>
-              <a
-                href="https://www.gorendezvous.com/homepage/111690"
-                class="button"
-              >Réservez votre coaching avec Nancy</a>
             </div>
           </div>
         </div>
@@ -177,6 +94,19 @@
         path
         thumbnail (quality: 90, width: 678, height: 410)
         link
+      }
+    }
+  },
+  slides: allCarousel(sortBy: "order", order: ASC) {
+    edges {
+      node {
+        title
+        subtitle
+        path
+        backgroundImg (quality: 100)
+        buttonText
+        buttonLink
+        id
       }
     }
   }
