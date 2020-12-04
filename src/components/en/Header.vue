@@ -69,7 +69,7 @@
     </nav>
     <div id="siteWidgetEnglish">
       <div class="active">
-        <a href="https://nancybilodeau.com/en/">
+        <a href="https://coaching.nancybilodeau.com/en/">
           For me
           <span>Perso</span>
         </a>

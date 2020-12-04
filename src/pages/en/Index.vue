@@ -19,7 +19,7 @@
               <h2
                 class="title is-size-3 is-family-primary"
               >Serving your well-being, your dreams and your goals</h2>
-              <a href="https://nancybilodeau.com/en/about" class="button">Find out more about me</a>
+              <a href="https://coaching.nancybilodeau.com/en/about" class="button">Find out more about me</a>
             </div>
           </div>
         </div>
@@ -34,7 +34,7 @@
                 class="title is-size-3 is-family-primary"
               >Transform your life with my holistic health approach</h2>
               <a
-                href="https://nancybilodeau.com/boutique/programme-de-transformation"
+                href="https://coaching.nancybilodeau.com/boutique/programme-de-transformation"
                 class="button"
               >Discover my Life Transformation Program</a>
             </div>
@@ -48,7 +48,7 @@
               <h2
                 class="title is-size-3 is-family-primary"
               >For a fulfilled life, full of meaning and vitality</h2>
-              <a href="https://nancybilodeau.com/en/services" class="button">Discover my toolkit</a>
+              <a href="https://coaching.nancybilodeau.com/en/services" class="button">Discover my toolkit</a>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@
                 class="title is-size-3 is-family-primary"
               >Connect to your essence and reach for your full potential</h2>
               <a
-                href="https://nancybilodeau.com/en/services/peace"
+                href="https://coaching.nancybilodeau.com/en/services/peace"
                 class="button"
               >Learn more about PEACE</a>
             </div>
