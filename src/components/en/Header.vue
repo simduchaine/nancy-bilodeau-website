@@ -75,7 +75,7 @@
         </a>
       </div>
       <div>
-        <a href="https://corpo.nancybilodeau.com/en/">
+        <a href="https://nancybilodeau.com/en/">
           For my company
           <span>Corpo</span>
         </a>

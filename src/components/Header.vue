@@ -78,7 +78,7 @@
         </a>
       </div>
       <div>
-        <a href="https://corpo.nancybilodeau.com/">
+        <a href="https://nancybilodeau.com/">
           Pour ma compagnie
           <span>Corpo</span>
         </a>
