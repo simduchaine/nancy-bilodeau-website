@@ -21,7 +21,7 @@ function addStyleResource(rule) {
 
 module.exports = {
   siteName: "Nancy Bilodeau",
-  siteUrl: "https://nancybilodeau.com",
+  siteUrl: "https://coaching.nancybilodeau.com",
   transformers: {
     remark: {
       externalLinksTarget: "_blank",

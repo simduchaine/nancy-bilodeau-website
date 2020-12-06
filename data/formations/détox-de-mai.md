@@ -4,7 +4,7 @@ id: detox-mai
 order: 1
 title: Programme de Transformation
 thumbnail: "/uploads/programme-de-transformation-detox.png"
-link: https://nancybilodeau.com/boutique/programme-de-transformation
+link: https://coaching.nancybilodeau.com/boutique/programme-de-transformation
 upcoming: true
 ---
 
