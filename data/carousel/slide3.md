@@ -5,4 +5,5 @@ backgroundImg: "/uploads/travelers.jpg"
 buttonText: Découvrez mes soins et techniques
 buttonLink: https://coaching.nancybilodeau.com/soins
 order: 3
+
 ---

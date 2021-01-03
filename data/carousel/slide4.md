@@ -5,4 +5,5 @@ backgroundImg: "/uploads/jason-hogan.jpg"
 buttonText: Apprenez-en plus sur l’approche PEACE
 buttonLink: https://coaching.nancybilodeau.com/soins/peace
 order: 4
+
 ---
