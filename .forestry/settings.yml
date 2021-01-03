@@ -12,6 +12,11 @@ sections:
 - type: heading
   label: Français
 - type: directory
+  path: data/carousel
+  label: Carousel
+  create: all
+  match: "**/*"
+- type: directory
   path: data/home
   label: Accueil
   create: documents
