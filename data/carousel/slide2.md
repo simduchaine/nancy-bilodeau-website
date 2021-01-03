@@ -5,4 +5,5 @@ backgroundImg: "/uploads/slide2.jpg"
 buttonText: Découvrez mon programme de transformation
 buttonLink: https://coaching.nancybilodeau.com/boutique/programme-de-transformation
 order: 2
+
 ---

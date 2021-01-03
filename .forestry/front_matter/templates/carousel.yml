@@ -21,6 +21,8 @@ fields:
   name: order
   label: Ordre d'affichage
 pages:
+- data/carousel/slide1.md
+- data/carousel/slide2.md
 - data/carousel/slide3.md
 - data/carousel/slide4.md
 - data/carousel/slide5.md
