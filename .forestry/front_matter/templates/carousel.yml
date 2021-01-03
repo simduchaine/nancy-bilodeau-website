@@ -4,19 +4,19 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: text
   name: subtitle
-  label: subtitle
+  label: Sous-Titre
 - type: file
   name: backgroundImg
-  label: backgroundImg
+  label: Image
 - type: text
   name: buttonText
-  label: buttonText
+  label: Texte du bouton
 - type: text
   name: buttonLink
-  label: buttonLink
+  label: Lien du bouton
 - type: number
   name: order
-  label: order
+  label: Ordre d'affichage
