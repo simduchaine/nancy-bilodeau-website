@@ -51,7 +51,7 @@ query {
     edges {
       node {
         title
-        photo
+        photo (quality: 90)
         company
         content
       }
