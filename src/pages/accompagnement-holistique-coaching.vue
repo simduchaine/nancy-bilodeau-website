@@ -12,11 +12,11 @@
         <h1 class="title is-size-5">Références</h1>
         <hr />
         <div v-for="reference in $page.linkedin.edges" :key="reference.node.id" class="media">
-          <!-- <div class="media-left">
+          <div class="media-left">
             <figure class="image is-128x128">
               <g-image class="is-rounded" :src="reference.node.photo"></g-image>
             </figure>
-          </div>-->
+          </div>
 
           <div class="media-content">
             <div v-html="reference.node.content"></div>
@@ -51,6 +51,7 @@ query {
     edges {
       node {
         title
+        photo
         company
         content
       }
