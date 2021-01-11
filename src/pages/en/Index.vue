@@ -1,6 +1,6 @@
 <template>
   <Enhome>
-    <section id="carouselEn">
+    <section id="carousel">
       <VueSlickCarousel
         class="hero is-medium has-background"
         :dots="true"
@@ -8,79 +8,17 @@
         :autoplaySpeed="5000"
         :arrows="true"
       >
-        <div>
-          <g-image
-            class="hero-background is-transparent"
-            src="../../../uploads/nancy-devant-nuages2.jpeg"
-          />
+        <div v-for="slide in $page.slides.edges" :key="slide.node.id">
+          <g-image class="hero-background is-transparent" :src="slide.node.backgroundImg" />
           <div class="hero-body">
             <div class="container">
-              <h1 class="title is-size-2">Your Chief Health and Happiness Officer</h1>
-              <h2
-                class="title is-size-3 is-family-primary"
-              >Serving your well-being, your dreams and your goals</h2>
-              <a href="https://coaching.nancybilodeau.com/en/about" class="button">Find out more about me</a>
-            </div>
-          </div>
-        </div>
-        <div>
-          <g-image class="hero-background is-transparent" src="../../../uploads/slide2.jpg" />
-          <div class="hero-body">
-            <div class="container">
-              <h1
-                class="title is-size-2"
-              >Learn to take care of yourself to offer the best of yourself</h1>
-              <h2
-                class="title is-size-3 is-family-primary"
-              >Transform your life with my holistic health approach</h2>
-              <a
-                href="https://coaching.nancybilodeau.com/boutique/programme-de-transformation"
-                class="button"
-              >Discover my Life Transformation Program</a>
-            </div>
-          </div>
-        </div>
-        <div>
-          <g-image class="hero-background is-transparent" src="../../../uploads/travelers.jpg" />
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title is-size-2">Uplift your awareness and energy</h1>
-              <h2
-                class="title is-size-3 is-family-primary"
-              >For a fulfilled life, full of meaning and vitality</h2>
-              <a href="https://coaching.nancybilodeau.com/en/services" class="button">Discover my toolkit</a>
-            </div>
-          </div>
-        </div>
-        <div>
-          <g-image class="hero-background is-transparent" src="../../../uploads/jason-hogan.jpg" />
-          <div class="hero-body">
-            <div class="container">
-              <h1
-                class="title is-size-2"
-              >Set yourself free from limiting fears, relationships, and addictions</h1>
-              <h2
-                class="title is-size-3 is-family-primary"
-              >Connect to your essence and reach for your full potential</h2>
-              <a
-                href="https://coaching.nancybilodeau.com/en/services/peace"
-                class="button"
-              >Learn more about PEACE</a>
-            </div>
-          </div>
-        </div>
-        <div>
-          <g-image class="hero-background is-transparent" src="../../../uploads/hero.jpg" />
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title is-size-2">Find balance and walk towards your destiny</h1>
-              <h2
-                class="title is-size-3 is-family-primary"
-              >For a harmonious, enriching and coherent life</h2>
-              <a
-                href="https://www.gorendezvous.com/homepage/111690"
-                class="button"
-              >Book your coaching with Nancy</a>
+              <h1 class="title is-size-2">{{ slide.node.title }}</h1>
+              <h2 class="title is-size-3">{{ slide.node.subtitle }}</h2>
+              <a :href="slide.node.buttonLink" class="button">
+                {{
+                slide.node.buttonText
+                }}
+              </a>
             </div>
           </div>
         </div>
@@ -120,7 +58,7 @@
 </template>
 
 <page-query>
-  query servicesEn {
+  query {
     data: allServicesEn(filter: { path: { nin: ["/data-en/home/training/", "/data-en/home/lead/", "/data-en/home/consultation/", "/data-en/home/magnet/"] }}, sortBy: "position", order: ASC) {
       edges {
         node {
@@ -128,6 +66,19 @@
           thumbnail (quality: 100, height: 680, width: 940)
           id
           content
+        }
+      }
+    },
+     slides: allCarouselEn(sortBy: "order", order: ASC) {
+      edges {
+        node {
+          title
+          subtitle
+          path
+          backgroundImg (quality: 100)
+          buttonText
+          buttonLink
+          id
         }
       }
     }

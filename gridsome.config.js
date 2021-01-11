@@ -264,6 +264,19 @@ module.exports = {
         },
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "data_en/carousel/**/*.md",
+        typeName: "carouselEn",
+        resolveAbsolutePaths: true,
+        remark: {
+          plugins: [
+            //require("remark-attr")
+          ],
+        },
+      },
+    },
   ],
   chainWebpack: (config) => {
     // Load variables for all vue-files
