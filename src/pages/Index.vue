@@ -128,7 +128,10 @@ import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
 
 export default {
   metaInfo: {
-    title: "Nancy Bilodeau - Coaching Mieux-Etre",
+    title: "Coaching et consultation holistique pour individus et entreprises",
+     meta: [
+      { name: 'description', content: "J'accompagne les individus à atteindre un mieux-être optimal et se réaliser. J'aide aussi les entreprises à atteindre leurs objectifs, gérer leurs projects, améliorer leur processus, réduire les conflits et établir un milieu de travail sain basé sur des valeurs universelles durables." },
+    ]
   },
   components: {
     services,

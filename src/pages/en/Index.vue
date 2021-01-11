@@ -98,10 +98,13 @@ import "vue-slick-carousel/dist/vue-slick-carousel-theme.css";
 
 export default {
   metaInfo: {
-    title: "Nancy Bilodeau - Wellness Coaching",
+    title: "Holistic Coaching and Consulting for Individuals and Businesses",
     htmlAttrs: {
       lang: "en",
     },
+     meta: [
+      { name: 'description', content: 'I support people to achieve optimal well-being and their goals. I also help corporations reach their objectives, manage their projects, improve their processes, reduce conflicts and build a healthy workplace based on sustainable universal values.' },
+    ]
   },
   components: {
     services,
