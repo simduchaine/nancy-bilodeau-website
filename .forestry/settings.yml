@@ -77,7 +77,7 @@ sections:
 - type: heading
   label: Anglais
 - type: directory
-  path: data/en/carousel
+  path: data_en/carousel
   label: Carousel
   create: all
   match: "**/*"
