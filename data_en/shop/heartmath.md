@@ -4,8 +4,9 @@ url: https://click.linksynergy.com/link?id=QvO7r5UrhsQ&offerid=448144.1173297179
 thumbnail: "/uploads/hearthmath_boutique.png"
 featured_image: "/uploads/Capture d’écran 2019-09-24 à 10.02.42.png"
 categorie: Heart Coherence
-
+order: 1
 ---
+
 Since 1991, HMI has been developing tools to help us measure and improve our coherence in order to better manage our stress and respond to life's events.
 
 - Refuel energy

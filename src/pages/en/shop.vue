@@ -33,7 +33,7 @@
 
 <page-query>
 query Boutique {
-  products: allProductsEn {
+  products: allProductsEn (sortBy: "order", order: ASC) {
     edges {
       node {
         title

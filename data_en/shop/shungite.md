@@ -4,6 +4,7 @@ url: "#"
 thumbnail: "/uploads/shungite.png"
 featured_image: "/uploads/shungite.png"
 categorie: Harmful Wave Protection
+order: 5
 ---
 
 Shungite is often called "the stone of life" because of its healing, anti-oxidant, antibacterial, anti-inflammatory and antitoxic properties. It is a rare and powerful stone whose age is estimated at 2 billion years. It is found only in Russia in the region of Karelia. It is composed of Carbon 60 (Fullerene), from which it draws all its strength. In 1991, Science magazine named the fullerene - molecule of the year. In Russia, Shungite is used in some hospitals where shorter healing times are observed.

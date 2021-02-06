@@ -31,7 +31,7 @@
 
 <page-query>
 query Boutique {
-  products: allProducts {
+  products: allProducts (sortBy: "order", order: ASC) {
     edges {
       node {
         title

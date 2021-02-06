@@ -4,8 +4,9 @@ url: https://shop.ariix.com/OnlineServices/shopNg/index?listType=C&sponsorId=709
 thumbnail: "/uploads/huiles-essentielles.jpg"
 featured_image: "/uploads/Capture d’écran 2019-08-13 à 13.19.26.png"
 categorie: Huiles Essentielles
-
+order: 3
 ---
+
 Le pouvoir des huiles essentielles est de plus en plus apprécié. Celles-ci peuvent aider à énergiser, calmer, réparer, désinfecter et tellement plus.
 
 J’utilise les mélanges suivants :

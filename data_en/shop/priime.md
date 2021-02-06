@@ -4,8 +4,9 @@ url: https://shop.ariix.com/OnlineServices/shopNg/index?listType=C&sponsorId=709
 thumbnail: "/uploads/huiles-essentielles.jpg"
 featured_image: "/uploads/Capture d’écran 2019-08-13 à 13.19.26.png"
 categorie: Essential Oils
-
+order: 3
 ---
+
 The power of essential oils is more and more recognized and appreciated. They can energize, calm, repair and so much more.
 
 I use the following blends regularly:
