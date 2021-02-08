@@ -1,7 +1,7 @@
 ---
-title: Activatrice de Santé, Bonheur et Réalisation!
-subtitle: Au service de votre bien-être, vos rêves et vos objectifs
-backgroundImg: "/uploads/nancy-devant-nuages.jpeg"
+title: Activatrice de Santé et Bonheur!
+subtitle: Au service de votre mieux-être, vos objectifs et vos rêves
+backgroundImg: "/uploads/nancy-devant-nuages2.jpeg"
 buttonText: Pour en savoir plus sur moi
 buttonLink: https://coaching.nancybilodeau.com/a-propos
 order: 1
