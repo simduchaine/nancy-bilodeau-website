@@ -19,10 +19,9 @@ cv:
 - Méditation Son Primordial, Deepak Chopra, 2016
 - Professeure de Sri Sri Yoga, 2010
 - Professeure Art de Vivre YES et YES+, 2011, 2012
-vision: Un monde meilleur où les individus et entreprises se réalise pleinement dans
-  le respect de tout ce qui nous entoure.
-mission: Accompagner les gens et les entreprises à être + en santé + heureux et se
-  réaliser.
+vision: Un monde en santé et heureux!
+mission: Accompagner les gens et les entreprises à être + en santé et + heureux pour
+  mieux se réaliser.
 cv_link: "/uploads/Bilodeau_Nancy_CV_Court.pdf"
 
 ---
