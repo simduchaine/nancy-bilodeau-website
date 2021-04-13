@@ -2,11 +2,11 @@
 title: Programme de Transformation
 url: http://centre-holistique-om-prana-inc.square.site
 thumbnail: "/uploads/programme-de-transformation-detox.png"
-featured_image: "/uploads/detox-transfo.jpg"
+featured_image: "/uploads/transformation-bandeau.jpg"
 categorie: Formation
 order: 1
----
 
+---
 Depuis 2013 j'accompagne les gens à transformer leur vie à travers l'enseignement des principes de santé holistique et de détoxification du corps. Ce programme s'adresse à toute personne qui
 
 - Souhaite atteindre ou maintenir une santé optimale
