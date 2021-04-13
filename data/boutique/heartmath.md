@@ -1,7 +1,7 @@
 ---
 title: Programme de Transformation
 url: http://centre-holistique-om-prana-inc.square.site
-thumbnail: "/uploads/programme-de-transformation-detox.png"
+thumbnail: "/uploads/maitre-de-mon-mieux-etre.png"
 featured_image: "/uploads/transformation-bandeau.jpg"
 categorie: Formation
 order: 1
