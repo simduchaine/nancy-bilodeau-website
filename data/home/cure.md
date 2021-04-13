@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/bigstock-green-smoothie-with-vegetables-286171174.jpg"
+thumbnail: "/uploads/jan-sedivy-3he3b4r-a08-unsplash.jpg"
 title: Cures
 position: 4
 
