@@ -10,11 +10,11 @@ J'ai été formée de [Karyn Calabrese](https://karynraw.com/), de l’[institut
 
 Les programmes les plus populaires sont :
 
-- Détox de 30 jours en présence, signature d’OM Prana
-- [Programme de transformation en ligne](https://coaching.nancybilodeau.com/boutique/programme-de-transformation)
-- Cure de jus, souvent combinée avec fin de semaine de yoga
-- Fin de semaine de jeûne et méditation
-- Semaine de jus et d’herbe de blé
+* [NOUVEAU: Programme de transformation en ligne: Maître de mon Mieux-Être](https://coaching.nancybilodeau.com/boutique/programme-de-transformation)
+* Détox de 30 jours en présence, signature d’OM Prana
+* Cure de jus, souvent combinée avec fin de semaine de yoga
+* Fin de semaine de jeûne et méditation
+* Semaine de jus et d’herbe de blé
 
 Nous avons tous le pouvoir de prendre notre santé en main ! Un corps bien nourri et entretenu en est la fondation essentielle.
 
