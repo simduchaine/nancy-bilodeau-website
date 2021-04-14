@@ -4,9 +4,9 @@ title: Coaching
 thumbnail: "/uploads/accomplishment-adult-adventure-372098.jpg"
 
 ---
-> En épistémologie ou en sciences humaines, « holistique » signifie : « relatif à la doctrine qui ramène la connaissance du particulier, de l'individuel à celle de l'ensemble, du tout dans lequel il s'inscrit. » (Petit Larousse) « Qui relève de l’holisme, qui s'intéresse à son objet dans sa globalité. L'holisme est la tendance dans la nature à constituer des ensembles qui sont supérieurs à la somme de leurs parties, au travers de l'évolution créatrice » (Wikipedia)
-
 Mon approche d'accompagnement est holistique et vise à regarder toutes les dimensions de la personne pour l’aider à retrouver l’équilibre vers une douce harmonie pour un mieux-être optimal et l'atteinte des ses objectifs.
+
+> En épistémologie ou en sciences humaines, « holistique » signifie : « relatif à la doctrine qui ramène la connaissance du particulier, de l'individuel à celle de l'ensemble, du tout dans lequel il s'inscrit. » (Petit Larousse) « Qui relève de l’holisme, qui s'intéresse à son objet dans sa globalité. L'holisme est la tendance dans la nature à constituer des ensembles qui sont supérieurs à la somme de leurs parties, au travers de l'évolution créatrice » (Wikipedia)
 
 Nous sommes beaucoup plus que notre enveloppe corporelle. Un corps physique parfaitement en santé ne garanti pas une personne bien équilibrée et heureuse, tout comme un corps physique malade peut être habité par une personne pleinement réalisée et heureuse ! Pour en savoir plus, voici une [petite vidéo explicative](https://youtu.be/Y_VlTPQ2Af8 "Coaching Holistique").
 
