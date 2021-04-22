@@ -1,7 +1,7 @@
 ---
 id: bio
 title: À propos de moi
-thumbnail: "/uploads/_MG_1784-3.jpg"
+thumbnail: "/uploads/8bf1b7f2-ad07-4a14-8670-456efe563498_1_201_a.jpeg"
 thumbnail2: "/uploads/nancy.png"
 thumbnail3: "/uploads/nancy_famille.jpg"
 cv:
