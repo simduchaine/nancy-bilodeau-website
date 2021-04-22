@@ -1,7 +1,7 @@
 ---
 id: bio
 title: About Me
-thumbnail: "/uploads/_MG_1784-3.jpg"
+thumbnail: "/uploads/fd20eb14-d5cf-47bc-826c-949dd7fda97d.jpeg"
 thumbnail2: "/uploads/nancy.png"
 thumbnail3: "/uploads/nancy_famille.jpg"
 cv:
