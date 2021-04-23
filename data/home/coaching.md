@@ -1,9 +1,9 @@
 ---
-thumbnail: "/uploads/bigstock-happy-prayer-man-with-open-out-331894729.jpg"
+thumbnail: "/uploads/acceuil-images-coaching-holistique.jpg"
 title: Coaching Holistique
 position: 2
----
 
+---
 - Atteindre ses objectifs
 - Augmenter sa résilience
 - Développer sa cohérence
