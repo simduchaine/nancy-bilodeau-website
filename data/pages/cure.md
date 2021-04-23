@@ -1,7 +1,7 @@
 ---
 id: cures
 title: Cures
-thumbnail: "/uploads/cures-en-tete.jpg"
+thumbnail: "/uploads/cures-en-tete-pomme"
 
 ---
 Depuis quelques années, il y a un engouement pour les cures qui aident à retrouver notre énergie, notre vitalité et même perdre du poids.
