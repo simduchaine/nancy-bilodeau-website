@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/jan-sedivy-3he3b4r-a08-unsplash.jpg"
+thumbnail: "/uploads/acceuil-images-cures.jpg"
 title: Cures
 position: 4
 
