@@ -1,7 +1,7 @@
 ---
 id: coaching
 title: Coaching
-thumbnail: "/uploads/coaching.jpg"
+thumbnail: "/uploads/copie-de-equilibre-perso-caroussel-petit.png"
 
 ---
 Mon approche d'accompagnement est holistique et vise à regarder toutes les dimensions de la personne pour l’aider à retrouver l’équilibre vers une douce harmonie pour un mieux-être optimal et l'atteinte des ses objectifs.
