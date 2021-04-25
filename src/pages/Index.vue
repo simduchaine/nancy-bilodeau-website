@@ -9,7 +9,7 @@
         :arrows="true"
       >
         <div v-for="slide in $page.slides.edges" :key="slide.node.id">
-          <g-image class="hero-background is-transparent" :src="slide.node.backgroundImg" />
+          <g-image class="hero-background is-transparent" :src="slide.node.backgroundImg"/>
           <div class="hero-body">
             <div class="container">
               <h1 class="title is-size-2">{{ slide.node.title }}</h1>
@@ -156,7 +156,7 @@ export default {
   &-background {
     position: absolute;
     object-fit: cover;
-    object-position: center;
+    object-position: top;
     width: 100%;
     height: 100vh;
 
@@ -167,8 +167,8 @@ export default {
 
   &.is-medium {
     .hero-body {
-      padding-bottom: 7.5rem;
-      padding-top: 7.5rem;
+      padding-bottom: 9.5rem;
+      padding-top: 9.5rem;
     }
   }
 }

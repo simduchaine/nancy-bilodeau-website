@@ -32,7 +32,7 @@ query Soins {
         title
         id
         path
-        thumbnail (quality: 90)
+        thumbnail (quality: 100)
         content
       }
     }
