@@ -29,7 +29,7 @@
             <g-link class="navbar-item" to="/accompagnement-holistique-coaching"
               >Coaching</g-link
             >
-            <g-link class="navbar-item" to="/soins">Soins</g-link>
+            <g-link class="navbar-item" to="/services">Services</g-link>
             <g-link class="navbar-item" to="/cures">Cures</g-link>
             <g-link class="navbar-item" to="/formations">Formations</g-link>
             <g-link class="navbar-item" to="/boutique">Boutique</g-link>

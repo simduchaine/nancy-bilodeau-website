@@ -166,6 +166,16 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
+        path: "data/outils/**/*.md",
+        typeName: "outils",
+        resolveAbsolutePaths: true,
+        route: "/outils/:title",
+        remark: {},
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
         path: "data/carousel/**/*.md",
         typeName: "carousel",
         resolveAbsolutePaths: true,
