@@ -43,6 +43,8 @@ sections:
   label: Outils (Services)
   create: documents
   match: "**/*"
+  templates:
+  - general-page
 - type: directory
   path: data/soins
   label: Soins
