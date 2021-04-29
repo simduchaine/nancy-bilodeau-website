@@ -39,6 +39,11 @@ sections:
   templates:
   - linkedin
 - type: directory
+  path: data/outils
+  label: Outils (Services)
+  create: documents
+  match: "**/*"
+- type: directory
   path: data/soins
   label: Soins
   create: documents
