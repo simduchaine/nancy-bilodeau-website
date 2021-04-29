@@ -2,3 +2,6 @@
 
 # Redirect default Netlify subdomain to primary domain
 #https://nancybilodeau.netlify.com/* https://nancybilodeau.com/:splat 301!
+
+# Redirect old page "Soins"
+/soins     /services
