@@ -1,7 +1,7 @@
 ---
 id: coaching
 title: Holistic Coaching
-thumbnail: "/uploads/accomplishment-adult-adventure-372098.jpg"
+thumbnail: "/uploads/plus-petit-coaching-perso.png"
 
 ---
 Holistic Coaching is here to help you feel better, be healthier and happier
