@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/373695-unsplash.jpg"
+thumbnail: "/uploads/acceuil-images-mieux-etre-optimal.jpg"
 title: Reach optimal wellbeing to be happier + &#128578;
 position: 1
 
