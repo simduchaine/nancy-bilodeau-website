@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/Capture d’écran 2019-08-15 à 09.47.11.png"
+thumbnail: "/uploads/acceuil-images-coaching-holistique.jpg"
 title: Holistic Coaching
 position: 2
 

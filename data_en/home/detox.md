@@ -1,7 +1,7 @@
 ---
-thumbnail: "/uploads/AdobeStock_276031748.jpeg"
+thumbnail: "/uploads/acceuil-images-cures.jpg"
 title: Detox
-position: '4'
+position: 4
 
 ---
 * Signature program
