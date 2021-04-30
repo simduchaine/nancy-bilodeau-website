@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/acceuil-images-coaching-holistique.jpg"
+thumbnail: "/uploads/ben-white-xy_2eilohy4-unsplash.jpeg"
 title: Holistic Coaching
 position: 2
 
