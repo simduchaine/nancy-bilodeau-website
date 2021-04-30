@@ -4,11 +4,11 @@ title: Holistic Coaching
 position: 2
 
 ---
-* Get back your vitality
+* Build resilience
+* Be coherent
+* Get your vitality back
 * Eat well
 * Develop healthy habits
-* Maintain good coherence
-* Build up resilience
 * Meditate, breathe, move
 * Vibrate, realize yourself!
 
