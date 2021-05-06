@@ -23,10 +23,9 @@ cv:
 - Art of Living YES and YES+ Teacher Training, 2011, 2012
 - Primordial Son Meditation, Deepak Chopra, 2016
 - Mindfulness Meditation, Kripalu, 2016
-vision: A better world where individuals and companies take charge of their well-being
-  and their impact on others and the environment.
-mission: Guide individuals and businesses to be healthier and happier to reach their
-  goals.
+vision: A happy and healthy world!
+mission: Inspire people and businesses to be healthier and happier to reach their
+  full potential.
 cv_link: "/uploads/Nancy Bilodeau Resume July 2019.pdf"
 
 ---
