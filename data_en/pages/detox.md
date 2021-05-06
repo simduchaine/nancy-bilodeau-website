@@ -1,7 +1,7 @@
 ---
 id: detox
 title: Detox
-thumbnail: "/uploads/cures-en-tete.jpg"
+thumbnail: "/uploads/cures-en-tete-pomme-2545x575.jpg"
 
 ---
 In recent years there has been a surge of cure to help regain energy, health, vitality and even lose weight.
