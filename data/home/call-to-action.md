@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/acceuil-images-mieux-etre-optimal.jpg"
+thumbnail: "/uploads/accueil-visuels-mieux-etre.jpg"
 title: Atteindre un mieux-être optimal pour être + heureux &#128578;
 position: 1
 
