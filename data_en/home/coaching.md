@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/coaching-holistique-2.png"
+thumbnail: "/uploads/accueil-visuels-coaching-holistique.jpg"
 title: Holistic Coaching
 position: 2
 
