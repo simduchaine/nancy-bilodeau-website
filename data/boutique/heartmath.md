@@ -76,3 +76,5 @@ Pour en savoir plus sur ce que les participants en pensent, consultez la page de
 ![](/uploads/copie-de-copie-de-detox-transforme.png)
 
 N'hésitez pas à me contacter pour évaluer si ce programme est pour vous.
+
+![](/uploads/nancyb-slogan_bleu-moyen.png)
