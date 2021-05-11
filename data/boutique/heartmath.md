@@ -73,7 +73,7 @@ Si ce programme est pour vous, cliquez ici pour connaître les différents forfa
 
 Pour en savoir plus sur ce que les participants en pensent, consultez la page des [témoignages ici](https://cours.nancybilodeau.com/temoignagesdetox).
 
-![](/uploads/copie-de-copie-de-detox-transforme.png)
+![](/uploads/cure-temoignages.png)
 
 N'hésitez pas à me contacter pour évaluer si ce programme est pour vous.
 
