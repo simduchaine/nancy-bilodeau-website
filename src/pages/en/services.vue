@@ -1,38 +1,39 @@
 <template>
   <English-Layout>
     <intro></intro>
-    <div class="section has-background-info">
-      <div class="container">
-        <div id="soins" class="columns" style="padding-top: 2rem;">
-          <div
-            class="column"
-            v-for="soin in $page.soins.edges"
-            :key="soin.node.id"
-          >
-            <div class="card">
-              <g-link :to="soin.node.path">
-                <div class="card-image">
-                  <g-image :src="soin.node.thumbnail"></g-image>
-                </div>
-              </g-link>
-              <div class="card-content title is-5">{{ soin.node.title }}</div>
-            </div>
+    <div class="section">
+      <div class="container" id="outils" style="padding-top: 2rem;">
+        <div
+          v-for="outil in $page.outils.edges"
+          :key="outil.node.id"
+          class="media"
+        >
+          <div class="media-left">
+            <figure class="image is-96x96">
+              <g-image :src="outil.node.thumbnail"></g-image>
+            </figure>
+          </div>
+          <div class="media-content">
+            <h2 class="title is-size-5 is-family-primary">
+              {{ outil.node.title }}
+            </h2>
+            <div v-html="outil.node.content"></div>
           </div>
         </div>
       </div>
     </div>
+    <outro></outro>
   </English-Layout>
 </template>
 
 <page-query>
-query Soins {
-  soins: allSoinsEn(filter: { path: { nin: ["/en/services/holistic-care-services/"] }})  {
+query Outils {
+  outils: allTools(filter: { path: { nin: ["/tools/footer/", "/tools/services/"] }} )  {
     edges {
       node {
         title
         id
-        path
-        thumbnail (quality: 90)
+        thumbnail (quality: 100)
         content
       }
     }
@@ -42,6 +43,7 @@ query Soins {
 
 <script>
 import intro from "~/components/en/services/intro.vue";
+import outro from "~/components/en/services/outro.vue";
 
 export default {
   metaInfo: {
@@ -52,6 +54,7 @@ export default {
   },
   components: {
     intro,
+    outro,
   },
 };
 </script>

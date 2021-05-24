@@ -3,14 +3,20 @@
     <intro></intro>
     <div class="section">
       <div class="container" id="outils" style="padding-top: 2rem;">
-        <div v-for="outil in $page.outils.edges" :key="outil.node.id" class="media">
+        <div
+          v-for="outil in $page.outils.edges"
+          :key="outil.node.id"
+          class="media"
+        >
           <div class="media-left">
             <figure class="image is-96x96">
               <g-image :src="outil.node.thumbnail"></g-image>
             </figure>
           </div>
           <div class="media-content">
-            <h2 class="title is-size-5 is-family-primary">{{ outil.node.title }}</h2>
+            <h2 class="title is-size-5 is-family-primary">
+              {{ outil.node.title }}
+            </h2>
             <div v-html="outil.node.content"></div>
           </div>
         </div>
@@ -45,7 +51,7 @@ export default {
   },
   components: {
     intro,
-    outro
+    outro,
   },
 };
 </script>
