@@ -98,8 +98,15 @@ sections:
   path: data_en/pages/coaching.md
   label: Coaching
 - type: directory
+  path: data_en/tools
+  label: Tools (Services)
+  create: all
+  match: "**/*"
+  templates:
+  - general-page
+- type: directory
   path: data_en/services
-  label: Services
+  label: Treatment
   create: all
   match: "**/*"
   templates:
