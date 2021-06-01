@@ -2,10 +2,6 @@
 label: Formations
 hide_body: false
 fields:
-- type: text
-  name: id
-  label: id
-  hidden: true
 - type: number
   name: order
   label: Ordre
