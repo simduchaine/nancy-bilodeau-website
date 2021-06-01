@@ -1,7 +1,7 @@
 ---
 type: Atelier
 id: ''
-order: 5
+order: 4
 title: Retraite et jus verts 13 au 17 septembre, Centre Kioo
 thumbnail: "/uploads/kio-jus-verts.png"
 link: https://kio-o.ca/evenement/retraite-holistique-et-cure-de-jus-verts-avec-nancy-bilodeau/2021-09-13/
