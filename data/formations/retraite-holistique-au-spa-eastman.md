@@ -2,8 +2,8 @@
 type: Atelier
 id: ''
 order: 3
-title: Retraite Holistique au Spa Eastman
-thumbnail: "/uploads/new.png"
+title: Weekend Holistique 29 au 31 octobre, Spa Eastman
+thumbnail: "/uploads/eastman-we-holistique.png"
 link: https://www.spa-eastman.com/sejours/retraites/retraite-holistique/
 upcoming: true
 
