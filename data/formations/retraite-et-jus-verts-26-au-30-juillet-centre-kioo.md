@@ -1,7 +1,7 @@
 ---
 type: Atelier
 id: ''
-order: 4
+order: 2
 title: Retraite et jus verts 26 au 30 juillet, Centre Kioo
 thumbnail: "/uploads/kio-jus-verts.png"
 link: https://kio-o.ca/evenement/retraite-holistique-et-cure-de-jus-verts-avec-nancy-bilodeau/2021-07-26/

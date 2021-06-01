@@ -1,7 +1,7 @@
 ---
 type: Atelier
 id: ''
-order: 6
+order: 3
 title: Retraite Holistique 13 au 17 août, Centre Kioo
 thumbnail: "/uploads/retraite-holistique.png"
 link: https://kio-o.ca/evenement/retraite-holistique-avec-nancy-bilodeau/
