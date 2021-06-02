@@ -2,7 +2,7 @@
 title: Cohérence Cardiaque
 id: nouvelles-possibilites
 type: Cours
-thumbnail: "/uploads/coherence-cardiaque.png"
+thumbnail: "/uploads/petit-coherence-cardiaque.png"
 link: https://coaching.nancybilodeau.com/soins/coherence-cardiaque/
 order: 7
 upcoming: true

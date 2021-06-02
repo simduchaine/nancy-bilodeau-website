@@ -3,7 +3,7 @@ type: Cours
 id: detox-mai
 order: 1
 title: Programme de Transformation
-thumbnail: "/uploads/copie-de-maitre-de-mon-mieux-etre.png"
+thumbnail: "/uploads/maitre-de-mon-mieux-etre.png"
 link: https://coaching.nancybilodeau.com/boutique/programme-de-transformation
 upcoming: true
 
