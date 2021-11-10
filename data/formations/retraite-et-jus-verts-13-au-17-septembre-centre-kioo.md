@@ -2,7 +2,7 @@
 type: Atelier
 order: 4
 title: Retraite 28 février au 4 mars, Centre Kioo
-thumbnail: "/uploads/retraite-holistique.png"
+thumbnail: "/uploads/kio.png"
 link: ''
 upcoming: true
 
