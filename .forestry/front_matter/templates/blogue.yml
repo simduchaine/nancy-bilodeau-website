@@ -21,6 +21,7 @@ fields:
   label: A la une?
   default: false
 pages:
+- data/articles/arreter-est-essentiel-pour-mieux-avancer.md
 - data/articles/l-importance-des-vacances.md
 - data/articles/plus-beau-cadeau-sante.md
 - data/articles/s-alimenter-pour-reussir.md
