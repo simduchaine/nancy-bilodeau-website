@@ -1,10 +1,10 @@
 ---
 title: Puritii
-url: http://www.puritii.com/NancyBilodeau
+url: ''
 thumbnail: "/uploads/puritii2.png"
 featured_image: "/uploads/Capture d’écran 2019-08-13 à 13.51.05.png"
 categorie: Filtreur (air et eau)
 order: 4
----
 
-Le contenu de cette section est disponible seulement en anglais pour le moment. [Cliquez ici pour y accéder](http://www.puritii.com/NancyBilodeau) ou contactez moi si vous souhaitez de l’assistance en français ou aimeriez en savoir plus sur la possibilité d’économiser 15% sur votre commande.
+---
+Filtrer son air et son eau fait parti des gestes essentiels à poser pour sa santé. Contactez moi pour plus d'information sur ma bouteille d'eau avec filtre portable et mon purificateur d'air pour la maison et le bureau. 
