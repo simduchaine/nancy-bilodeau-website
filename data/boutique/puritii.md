@@ -1,6 +1,6 @@
 ---
 title: Puritii
-url: ''
+url: https://coaching.nancybilodeau.com/contact
 thumbnail: "/uploads/puritii2.png"
 featured_image: "/uploads/Capture d’écran 2019-08-13 à 13.51.05.png"
 categorie: Filtreur (air et eau)

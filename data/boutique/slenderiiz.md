@@ -1,6 +1,6 @@
 ---
 title: Slenderiiz
-url: ''
+url: https://coaching.nancybilodeau.com/contact
 thumbnail: "/uploads/slenderiiz.png"
 featured_image: "/uploads/maigrir.png"
 categorie: Perte de poids
