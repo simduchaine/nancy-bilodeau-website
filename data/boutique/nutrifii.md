@@ -1,9 +1,10 @@
 ---
 title: Nutrifii
-url: http://www.nutrifii.com/NancyBilodeau
+url: https://coaching.nancybilodeau.com/contact
 thumbnail: "/uploads/super aliment supplements.png"
 featured_image: "/uploads/Supplements.png"
 categorie: Suppléments
 order: 2
+
 ---
-Le contenu de cette section est disponible seulement en anglais pour le moment. [Cliquez ici pour y accéder](http://www.nutrifii.com/NancyBilodeau) ou contactez moi si vous souhaitez de l’assistance en français ou aimeriez en savoir plus sur la possibilité d’économiser 15% sur votre commande.
+Avec le stress actuel sur la chaîne alimentaire je recommande à tous d'avoir au moins un bon suppléments de vitamines et minéraux. Pour les besoins spéciaux des suppléments additionnels en magnésium, oméga et antioxydants peuvent être ajouté selon les besoins. Contactez moi pour ma gamme complète de suppléments. 
