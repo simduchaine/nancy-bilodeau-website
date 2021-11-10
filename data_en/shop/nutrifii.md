@@ -1,10 +1,10 @@
 ---
 title: Nutrifii
-url: http://www.nutrifii.com/NancyBilodeau
+url: https://coaching.nancybilodeau.com/contact
 thumbnail: "/uploads/super aliment supplements.png"
 featured_image: "/uploads/Supplements.png"
 categorie: Supplements
 order: 2
----
 
-[Click here to order or more information](http://www.nutrifii.com/NancyBilodeau). Contact me if you would like assistance or would like to know more about the possibility of saving 15% on your order.
+---
+As the food chain is under a lot of stress with depleted soil and too much transformed foods, I think that everyone should supplement with a good multi vitamins and multi minerals. Contact me for my complete catalogue of supplements and other health products. 
