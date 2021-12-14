@@ -1,9 +1,9 @@
 ---
 type: Atelier
 order: 4
-title: Retraite 28 février au 4 mars, Centre Kioo
+title: Retraite Holistique, Février, Mars, Avril, Mai, Centre Kioo
 thumbnail: "/uploads/kio-2.png"
-link: ''
+link: https://plenitude.travel/sejoursbienetre/retraite-holistique/
 upcoming: true
 
 ---
