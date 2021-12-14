@@ -8,4 +8,4 @@ order: 4
 upcoming: true
 
 ---
-Lors de cet atelier retraite d'une journée, vous ferez l’expérience de techniques efficaces pour recharger vos batteries et pour rester bien connecté à vous-même. Devenez votre meilleur allié et repartez reposé, centré, avec une vision claire de votre guide personnel d’entretien pour manifester la vie que vous souhaitez.
+Lors de cet atelier retraite d'une journée, vous ferez l’expérience de techniques efficaces pour recharger vos batteries et pour rester bien connecté à vous-même. Devenez votre meilleur allié et repartez reposé, centré, avec une vision claire de votre guide personnel d’entretien pour manifester la vie que vous souhaitez. Offerte le 26 février 2022 au Monastère des Augustines. 
