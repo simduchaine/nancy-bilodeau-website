@@ -1,6 +1,6 @@
 ---
 type: Atelier
-order: 4
+order: 2
 title: Retraite holistique
 thumbnail: "/uploads/kio-2.png"
 link: https://plenitude.travel/sejoursbienetre/retraite-holistique/

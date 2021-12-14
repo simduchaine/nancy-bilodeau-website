@@ -4,7 +4,7 @@ id: pause-sante-bonheur
 type: Atelier
 thumbnail: "/uploads/copie-de-monastere-678-x-678-px.png"
 link: https://monastere.ca/fr/programmation/activite/atelier-prendre-soin-de-soi-au-quotidien-510?calendrier=%2Ffr%2Fprogrammation%2Fagenda-des-evenements-6%2F2021%2F12
-order: 4
+order: 3
 upcoming: true
 
 ---
