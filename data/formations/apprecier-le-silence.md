@@ -1,6 +1,6 @@
 ---
 type: Atelier
-order: 5
+order: 4
 title: Apprécier le silence
 thumbnail: "/uploads/silence.png"
 link: ''
