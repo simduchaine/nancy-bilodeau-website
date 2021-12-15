@@ -1,5 +1,5 @@
 ---
-type: ''
+type: Atelier
 order: 5
 title: Élever sa force vitale pour mieux vivre!
 thumbnail: "/uploads/spa-eastman-678-x-678-px.png"
