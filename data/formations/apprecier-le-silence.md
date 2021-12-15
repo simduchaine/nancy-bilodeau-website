@@ -1,9 +1,9 @@
 ---
 type: Atelier
 order: 4
-title: Apprécier le silence
+title: Déconnecter pour mieux Reconnecter
 thumbnail: "/uploads/silence.png"
-link: ''
+link: https://monastere.ca/fr/programmation/activite/retraite-de-silence-deconnecter-pour-mieux-reconnecter-635
 upcoming: true
 
 ---
