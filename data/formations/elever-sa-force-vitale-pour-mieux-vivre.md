@@ -1,6 +1,6 @@
 ---
 type: Atelier
-order: 5
+order: 6
 title: Élever sa force vitale pour mieux vivre!
 thumbnail: "/uploads/spa-eastman-678-x-678-px.png"
 link: https://www.spa-eastman.com/sejours/retraites/elever-sa-force-vitale-pour-mieux-vivre/

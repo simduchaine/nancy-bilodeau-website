@@ -1,6 +1,6 @@
 ---
 type: Atelier
-order: 
+order: 5
 title: Retraite holistique et cure de jus
 thumbnail: "/uploads/kio-jus-verts-678-x-678-px.png"
 link: https://plenitude.travel/sejoursbienetre/retraite-holistique-complete-et-cure-de-jus/
