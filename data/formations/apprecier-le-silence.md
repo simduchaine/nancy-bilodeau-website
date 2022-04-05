@@ -1,7 +1,7 @@
 ---
 type: Atelier
 order: 4
-title: Déconnecter pour mieux Reconnecter
+title: 'Retraite: Déconnecter pour mieux Reconnecter'
 thumbnail: "/uploads/silence.png"
 link: https://monastere.ca/fr/programmation/activite/retraite-de-silence-deconnecter-pour-mieux-reconnecter-635?calendrier=%2Ffr%2Fprogrammation%2Fagenda-des-evenements-6%2F2022%2F03
 upcoming: true
