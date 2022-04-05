@@ -7,4 +7,4 @@ link: https://monastere.ca/fr/programmation/activite/journee-en-presence-et-en-s
 upcoming: true
 
 ---
-Lors de cette journée, nous prendrons soin du corps et de l’âme et travaillerons à notre propre mieux-être à l’aide de différents outils issus de la tradition du yoga dont la respiration, le mouvement, la cohérence cardiaque, la méditation et le yoga nidra. Que ce soit pour maximiser la santé et le bien-être ou pour expérimenter la connexion à votre âme, cette relaxation complète et profonde vous laissera reposé, rafraichi et bien connecté.
+Offrez-vous une journée de retraite en silence au Monastère, au cœur du Vieux-Québec, pour apprivoiser la force des traditions yogiques, du silence, de la cohérence et de l’intériorité. Le 30 avril de 9h00 à 17h00 au Monastère des Augustines. 
