@@ -9,5 +9,6 @@ position: 3
 * Défigement émotionnel PEACE
 * Traitement énergétique Reiki
 * Cosmonergy
+* Champ électromagnétique pulsé (PEMF)
 
 [Services >](/services)
