@@ -4,11 +4,11 @@ title: Services
 position: 3
 
 ---
-* Bioénergie
-* Cohérence Cardiaque
-* Défigement émotionnel PEACE
-* Traitement énergétique Reiki
-* Cosmonergy
-* Champ électromagnétique pulsé (PEMF)
+* [Bioénergie](https://cours.nancybilodeau.com/bioenergie "Bioénergie")
+* [Cohérence Cardiaque](https://coaching.nancybilodeau.com/soins/coherence-cardiaque/ "Cohérence")
+* [Défigement émotionnel PEACE](https://coaching.nancybilodeau.com/soins/peace/ "Peace")
+* [Traitement énergétique Reiki](https://coaching.nancybilodeau.com/soins/reiki/)
+* [Cosmonergy](https://coaching.nancybilodeau.com/soins/cosmonergy/)
+* [Champ électromagnétique pulsé (PEMF)](https://www.neshealth.com/en/nes-mihealth/ "miHealth")
 
 [Services >](/services)
